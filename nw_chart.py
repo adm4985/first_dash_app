@@ -43,6 +43,15 @@ app.layout = [
 
 def update_team_dropdown(selected_team):
 #https://plotly.com/blog/dash-matplotlib/
+    def winner_loser(team1, team2, score1, score2):
+        if score1 > score2:
+            winner = team1
+            loser = team2
+        elif score2 > score1:
+            winner = team2
+            loser = team1
+        return winner, loser
+    
 # Clear any previous figure
     selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
     print(selected_region_level)
