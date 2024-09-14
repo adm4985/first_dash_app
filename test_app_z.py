@@ -77,8 +77,8 @@ app.layout = [
                         'textAlign': 'left'
                     }],
                 style_table={
-                    'width': '100%',  # Adjust the width as needed
-                    #'maxWidth': '1000px',  # Set a maximum width for the table
+                    'width': '80%',  # Adjust the width as needed
+                    'maxWidth': '1000px',  # Set a maximum width for the table
                     'overflowX': 'auto'  # Enable horizontal scrolling if the content overflows
                 }
 
@@ -111,6 +111,7 @@ app.layout = [
 
     ]
 
+
 #Call back to filter on team dropdown
 @callback(
     Output('table-summary','data',allow_duplicate=True),
@@ -118,25 +119,26 @@ app.layout = [
     Input('dropdown-team', 'value'),
     Input('dropdown-game_type','value'),
     prevent_initial_call='initial_duplicate'
-	)
+    )
 
 def update_team_dropdown(selected_team,selected_game_type):
    # Filter the dataframe based on the selected team
     selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
     selected_state_cup_level = list(df['GOLD_CUP_LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
 
-    #map values based on game type
+    #map columns based on game type
     mapped_columns_df = {
     'FALL_LEAGUE':selected_region_level,
     'STATE_CUP': selected_state_cup_level
     }
+
+    wins_df = df_summary[(df_summary['LEVEL_REGION'] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
 
     #map columns based on game type
     mapped_columns_df_summary = {
     'FALL_LEAGUE':'LEVEL_REGION',
     'STATE_CUP': 'GOLD_CUP_LEVEL_REGION'}
 
-    wins_df = df_summary[(df_summary['LEVEL_REGION'] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
 
     pivot_data = df[
     (df[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) &
@@ -146,99 +148,13 @@ def update_team_dropdown(selected_team,selected_game_type):
     .unstack(fill_value='') \
     .reset_index(drop=False)
 
+    
+
     wins_df = wins_df.drop(columns=['GAME_TYPE'])
     table_data = wins_df.to_dict('records')
     team_pivot_data = pivot_data.to_dict('records')
     return  table_data , team_pivot_data
 
-@callback(
-    Output('table-summary','data',allow_duplicate=True),
-    Output('table-pivot','data',allow_duplicate=True),
-    Input('dropdown-LEVEL_REGION','value'),
-    prevent_initial_call='initial_duplicate'
-	)
-
-def level_region_dropdown(level_region):
-
-	wins_df = df_summary[(df_summary['LEVEL_REGION'] == level_region ) & (df_summary['GAME_TYPE']=='FALL_LEAGUE')].sort_values(by='WIN', ascending=False)
-	pivot_data = df[
-		(df['LEVEL_REGION'] == level_region) &
-		(df['GAME_TYPE'] == 'FALL_LEAGUE')
-		].groupby(['TEAM', 'OPPONENT'])['GAME_SCORE'] \
-		.apply(lambda x: ', '.join(x.dropna()).strip(', ')) \
-		.unstack(fill_value='') \
-		.reset_index(drop=False)
-
-	wins_df = wins_df.drop(columns=['GAME_TYPE'])
-	table_data = wins_df.to_dict('records')
-	team_pivot_data = pivot_data.to_dict('records') 
-
-	return table_data , team_pivot_data
-
-@callback(
-    Output(component_id='bar-graph-matplotlib', component_property='src'),
-    Input('dropdown-team','value'),
-    Input('dropdown-game_type','value')
-    )
-
-def update_team_dropdown(selected_team, selected_game_type):
-    selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
-    selected_state_cup_level = list(df['GOLD_CUP_LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
-    #https://plotly.com/blog/dash-matplotlib/
-    
-    def winner_loser(team1, team2, score1, score2):
-        if score1 > score2:
-            winner = team1
-            loser = team2
-        elif score2 > score1:
-            winner = team2
-            loser = team1
-        return winner, loser
-
-    #map values based on game type
-    mapped_columns_df = {
-    'FALL_LEAGUE':selected_region_level,
-    'STATE_CUP': selected_state_cup_level
-    }
-    #map columns based on game type
-    mapped_columns_df_summary = {
-    'FALL_LEAGUE':'LEVEL_REGION',
-    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION'}
-    
-
-    df_union_full_score_set = df[(df.TEAM_SCORE == df.TEAM_SCORE) & (df.TEAM_SCORE != df.OPPONENT_SCORE)].copy()
-    df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type]) & (df_union_full_score_set.GAME_TYPE ==  selected_game_type) ]
-    df_union_full_score_set = df_union_full_score_set.drop_duplicates(subset='GAME_ID', keep='first') 
-
-    edges = []
-    for i, row in  df_union_full_score_set.iterrows():
-        edges.append(winner_loser(row['TEAM'],row['OPPONENT'],row['TEAM_SCORE'],row['OPPONENT_SCORE']) )
-
-
-# Clear any previous figure
-    plt.clf()
-    plt.figure(figsize=(10, 8))
-    plt.title(f'{mapped_columns_df[selected_game_type]} Win-Loss')
-    # Build the matplotlib figure
-    G = nx.DiGraph()
-    #edges = [('B', 'A'), ('C', 'B'), ('A', 'C'), ('B', 'C'), ('B', 'D'), ('C', 'B'), ('A', 'C'), ('B', 'C')]
-    G.add_edges_from(edges)
-
-    # Draw the graph
-    pos = nx.spring_layout(G, k=3, iterations=100)  # Increase k to spread nodes apart
-    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=750, edge_color='darkblue', font_size=8, arrows=True)
-    
-
-    # Save it to a temporary buffer.
-    buf = io.BytesIO()
-    plt.savefig(buf, format="png")
-    buf.seek(0)  # Move to the beginning of the buffer
-
-    # Embed the result in the HTML output.
-    fig_data = base64.b64encode(buf.getvalue()).decode("ascii")
-    buf.close()  # Close the buffer
-
-    return f'data:image/png;base64,{fig_data}'
 
 if __name__ == '__main__':
     app.run(debug=True)
