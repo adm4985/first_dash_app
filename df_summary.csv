@@ -1,408 +1,677 @@
 ,LEVEL_REGION,GOLD_CUP_LEVEL_REGION,GAME_TYPE,TEAM,MP,WIN,LOSS,DRAW,TEAM_SCORE,OPPONENT_SCORE,GOAL_DIFF,POINTS
 0,Bronze-North  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Rohnert Park Soccer Club RP Aftershocks,1.0,1.0,0.0,0.0,2.0,0.0,2.0,3.0
-1,Bronze-North  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Santa Rosa South YSC Santa Rosa South Tigers,3.0,0.0,1.0,2.0,6.0,9.0,-3.0,2.0
-2,Bronze-North  Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G Surge,3.0,3.0,0.0,0.0,8.0,2.0,6.0,9.0
-3,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Napa United Napa United Pre-Academy 15G Elite,2.0,1.0,1.0,0.0,3.0,3.0,0.0,3.0
-4,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Sonoma County Premier Sonoma County Premier 2015 Girls,3.0,0.0,2.0,1.0,3.0,7.0,-4.0,1.0
-5,Bronze-North  Region 5,no state cup,FALL_LEAGUE,Black Oaks Youth Soccer Club Black Oaks Little Lady Oaks 2015G,2.0,0.0,1.0,1.0,3.0,6.0,-3.0,1.0
-6,Bronze-North  Region 5,no state cup,FALL_LEAGUE,WESCO United WESCO 15G,2.0,1.0,1.0,0.0,5.0,3.0,2.0,3.0
-7,Bronze-Region 1  North,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,SF Elite SFEA 2015G Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-8,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC Black,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
-9,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Dnamo FC Dnamo FC Lazio,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,0.0
-10,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Girls Unite Girls Unite 2015G Believe Gray,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
-11,Bronze-Region 1  North,no state cup,FALL_LEAGUE,SF Aftershocks FC SF Aftershocks 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-12,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Bruno Lowen 83 Cheetahs Black 15/16G,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-13,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Carlos United Soccer Club San Carlos United SC 15G Blue,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
-14,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Francisco Seals SF Seals 15G Black,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-15,Bronze-Region 1  South,U10 Girls Bronze-Group C,FALL_LEAGUE,Pacifica United Soccer Club Pacifica United SC G2015 Cyclones Blue,2.0,1.0,1.0,0.0,7.0,6.0,1.0,3.0
-16,Bronze-Region 1  South,U10 Girls Bronze-Group K,FALL_LEAGUE,Bay Area Surf 15G,2.0,1.0,1.0,0.0,6.0,13.0,-7.0,3.0
-17,Bronze-Region 1  South,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,AYSO United Silicon Valley United Silicon Valley 15G Red,2.0,2.0,0.0,0.0,12.0,0.0,12.0,6.0
-18,Bronze-Region 1  South,no state cup,FALL_LEAGUE,ALBION SC Silicon Valley SM SM G15 Academy,1.0,1.0,0.0,0.0,9.0,1.0,8.0,3.0
-19,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Green,2.0,0.0,2.0,0.0,4.0,14.0,-10.0,0.0
-20,Bronze-Region 1  South,no state cup,FALL_LEAGUE,JSC Soccer Club JSC 15G White,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
-21,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
-22,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Red Star Soccer Academy Red Star 15G Red,2.0,1.0,1.0,0.0,8.0,4.0,4.0,3.0
-23,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Santa Clara Youth Soccer League SC LIONS 2015G BLACK - ARREOLA,2.0,2.0,0.0,0.0,12.0,6.0,6.0,6.0
-24,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G Red,2.0,1.0,1.0,0.0,5.0,9.0,-4.0,3.0
-25,Bronze-Region 2,U10 Girls Bronze-Group K,FALL_LEAGUE,Monterey Surf Soccer Club Monterey Surf 15G Academy I,2.0,1.0,1.0,0.0,6.0,8.0,-2.0,3.0
-26,Bronze-Region 2,no state cup,FALL_LEAGUE,Allstars United 15G White,2.0,2.0,0.0,0.0,7.0,3.0,4.0,6.0
-27,Bronze-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-28,Bronze-Region 2,no state cup,FALL_LEAGUE,Alum Rock Fútbol Club AR - Cheetahs- 2015G,3.0,3.0,0.0,0.0,14.0,4.0,10.0,9.0
-29,Bronze-Region 2,no state cup,FALL_LEAGUE,Hollister Tremors Hollister Tremors 2015G Dragons,2.0,1.0,1.0,0.0,2.0,4.0,-2.0,3.0
-30,Bronze-Region 2,no state cup,FALL_LEAGUE,Lobitos Soccer Club Lobitos S.C.- Lady Tiburones FC,2.0,2.0,0.0,0.0,10.0,1.0,9.0,6.0
-31,Bronze-Region 2,no state cup,FALL_LEAGUE,Los Gatos United Soccer Club 2015G II,3.0,0.0,3.0,0.0,2.0,6.0,-4.0,0.0
-32,Bronze-Region 2,no state cup,FALL_LEAGUE,North Valley Youth Soccer League NV/SJ United 15G Green Ladybugs,2.0,1.0,1.0,0.0,10.0,4.0,6.0,3.0
-33,Bronze-Region 2,no state cup,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G White,3.0,1.0,2.0,0.0,4.0,15.0,-11.0,3.0
-34,Bronze-Region 2,no state cup,FALL_LEAGUE,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 BLUE,2.0,0.0,2.0,0.0,1.0,10.0,-9.0,0.0
-35,Bronze-Region 3  North,U10 Girls Bronze-Group B,FALL_LEAGUE,East Bay Eclipse Soccer Club Eclipse 2015 Girls Lunar,1.0,0.0,1.0,0.0,1.0,7.0,-6.0,0.0
-36,Bronze-Region 3  North,U10 Girls Bronze-Group D,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Black,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
-37,Bronze-Region 3  North,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Mustang Soccer Mustang SC Fever 15F,1.0,1.0,0.0,0.0,7.0,1.0,6.0,3.0
-38,Bronze-Region 3  North,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Solano Surf Solano Surf 15G Blue,1.0,0.0,1.0,0.0,3.0,8.0,-5.0,0.0
-39,Bronze-Region 3  North,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G West,1.0,1.0,0.0,0.0,8.0,3.0,5.0,3.0
-40,Bronze-Region 3  North,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G White,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
-41,Bronze-Region 3  North,no state cup,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek FS U10G - Salter,1.0,0.0,1.0,0.0,3.0,7.0,-4.0,0.0
-42,Bronze-Region 3  South,U10 Girls Bronze-Group B,FALL_LEAGUE,Dublin United Dublin United 15G Green,3.0,0.0,2.0,1.0,6.0,15.0,-9.0,1.0
-43,Bronze-Region 3  South,U10 Girls Bronze-Group C,FALL_LEAGUE,Fremont Rush Soccer Fremont Rush 2015G Blue,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
-44,Bronze-Region 3  South,U10 Girls Bronze-Group D,FALL_LEAGUE,Hayward Youth Soccer League HYSL Premier Chaos 15G,3.0,3.0,0.0,0.0,10.0,5.0,5.0,9.0
-45,Bronze-Region 3  South,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Select I,2.0,1.0,1.0,0.0,9.0,7.0,2.0,3.0
-46,Bronze-Region 3  South,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Gold,3.0,1.0,2.0,0.0,10.0,6.0,4.0,3.0
-47,Bronze-Region 3  South,no state cup,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-48,Bronze-Region 3  South,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Red,3.0,1.0,1.0,1.0,5.0,7.0,-2.0,4.0
-49,Bronze-Region 4,U10 Girls Bronze-Group C,FALL_LEAGUE,Castro Valley Soccer Club Castro Valley SC CVSC United 2015 Girls Yellow,5.0,4.0,0.0,1.0,24.0,6.0,18.0,13.0
-50,Bronze-Region 4,U10 Girls Bronze-Group D,FALL_LEAGUE,Clippers FC 2015 Girls White,3.0,2.0,1.0,0.0,11.0,4.0,7.0,6.0
-51,Bronze-Region 4,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Sheriffs FC Sheriffs FC 2015/16G Yellow,2.0,1.0,1.0,0.0,13.0,5.0,8.0,3.0
-52,Bronze-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Blue,3.0,0.0,3.0,0.0,0.0,29.0,-29.0,0.0
-53,Bronze-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Orange,2.0,0.0,1.0,1.0,2.0,3.0,-1.0,1.0
-54,Bronze-Region 4,no state cup,FALL_LEAGUE,San Pablo United YSC San Pablo Lobitas,3.0,1.0,2.0,0.0,9.0,12.0,-3.0,3.0
-55,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,FALL_LEAGUE,El Dorado Hills Soccer Club EDHSC 15G Blue,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
-56,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,FALL_LEAGUE,Folsom Lake Surf FLS 15G Academy II,2.0,0.0,2.0,0.0,0.0,8.0,-8.0,0.0
-57,Bronze-Region 6 East 1,U10 Girls Bronze-Group G,FALL_LEAGUE,San Juan Soccer Club Spirits 15 Red,3.0,2.0,0.0,1.0,13.0,3.0,10.0,7.0
-58,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Azzurri FC 15G Blue,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
-59,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Red,2.0,0.0,2.0,0.0,2.0,10.0,-8.0,0.0
-60,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Prospector Soccer Club Prospector SC 2015G,3.0,2.0,0.0,1.0,12.0,6.0,6.0,7.0
-61,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Black,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
-62,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G Black,3.0,2.0,1.0,0.0,12.0,6.0,6.0,6.0
-63,Bronze-Region 6 East 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Yuba Elite FC Yuba Elite FC 15G Black,2.0,0.0,0.0,2.0,4.0,4.0,0.0,2.0
-64,Bronze-Region 6 East 2,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Rocklin FC Rocklin FC 15G Grey,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
-65,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Gold,2.0,0.0,2.0,0.0,3.0,10.0,-7.0,0.0
-66,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Granite Bay FC Chaos 15,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
-67,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Truckee River United FC TRU FC 15 Girls,4.0,1.0,2.0,1.0,7.0,12.0,-5.0,4.0
-68,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,FALL_LEAGUE,Sacramento United 15G White,2.0,1.0,1.0,0.0,5.0,10.0,-5.0,3.0
-69,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,FALL_LEAGUE,Woodland Soccer Club WSC 15G Orange,1.0,1.0,0.0,0.0,5.0,4.0,1.0,3.0
-70,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,Sacramento Soccer Alliance 15G Blue,2.0,0.0,1.0,1.0,5.0,7.0,-2.0,1.0
-71,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Davis Legacy Soccer Club Davis Legacy 15G White,2.0,0.0,1.0,1.0,6.0,7.0,-1.0,1.0
-72,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,American River FC Freedom 15 Blue,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-73,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G EG,2.0,0.0,1.0,1.0,4.0,7.0,-3.0,1.0
-74,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G NF,2.0,2.0,0.0,0.0,13.0,3.0,10.0,6.0
-75,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,FALL_LEAGUE,East Sacramento Youth Soccer Club 2015 East Sac Storm,3.0,0.0,3.0,0.0,1.0,14.0,-13.0,0.0
-76,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,FALL_LEAGUE,Sacramento Soccer Alliance 15G White,3.0,2.0,1.0,0.0,14.0,7.0,7.0,6.0
-77,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Union Sacramento FC Union FC 15G JDP,3.0,3.0,0.0,0.0,19.0,2.0,17.0,9.0
-78,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Woodland Soccer Club WSC 15G White,3.0,0.0,3.0,0.0,3.0,17.0,-14.0,0.0
-79,Bronze-Region 6 West 2,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G GK,3.0,2.0,1.0,0.0,10.0,12.0,-2.0,6.0
-80,Bronze-Region 6 West 2,no state cup,FALL_LEAGUE,Vacaville United Soccer Club VUSC 2015 Girls Elite,3.0,2.0,1.0,0.0,13.0,8.0,5.0,6.0
-81,Bronze-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,CV Futbol Academy CVFA 15G Black,3.0,2.0,0.0,1.0,17.0,3.0,14.0,7.0
-82,Bronze-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,Turlock Academica Jrs Turlock Academica Jrs 15G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-83,Bronze-Region 8,no state cup,FALL_LEAGUE,Atwater Kaos Futbol Club Kaos 2015G Blue Silva,2.0,0.0,2.0,0.0,1.0,12.0,-11.0,0.0
-84,Bronze-Region 8,no state cup,FALL_LEAGUE,Merced United FC MUFC 2015G White,2.0,0.0,2.0,0.0,1.0,8.0,-7.0,0.0
-85,Bronze-Region 8,no state cup,FALL_LEAGUE,Sierra United Soccer Club Sierra United 15G,3.0,2.0,0.0,1.0,7.0,3.0,4.0,7.0
-86,Bronze-South  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Marin FC Marin FC G15Steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-87,Bronze-South  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers White 2015,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
-88,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,North Marin United North Marin United '15 Girls Esteem,2.0,2.0,0.0,0.0,7.0,5.0,2.0,6.0
-89,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,Ross Valley Breakers FC Breakers 15G,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
-90,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,Tiburon Peninsula Soccer Club TPSC Sharks 2015 Girls,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-91,Bronze-South  Region 5,no state cup,FALL_LEAGUE,Corte Madera Football Club Corte Madera FC Girls White 2015,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
-92,Copper-Region 1  North,U10 Girls Bronze-Group I,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes Red 15G,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-93,Copper-Region 1  North,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC Blue,1.0,1.0,0.0,0.0,8.0,1.0,7.0,3.0
-94,Copper-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Purple,1.0,0.0,1.0,0.0,1.0,8.0,-7.0,0.0
-95,Copper-Region 1  North,no state cup,FALL_LEAGUE,Girls Unite Girls Unite 2015G Hope White,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-96,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Bruno Lowen 83 Cheetahs White 15/16G,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
-97,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Francisco Glens Soccer Club SF Glens 15G Black,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
-98,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Mateo County FC SMC 15G Academy Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-99,Copper-Region 1  South,no state cup,FALL_LEAGUE,ALBION SC Silicon Valley East Bay EB G15 Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-100,Copper-Region 1  South,no state cup,FALL_LEAGUE,AYSO United Silicon Valley United Silicon Valley 15G Blue,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-101,Copper-Region 1  South,no state cup,FALL_LEAGUE,Allstars United 15G Black,2.0,0.0,2.0,0.0,2.0,10.0,-8.0,0.0
-102,Copper-Region 1  South,no state cup,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Gold,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
-103,Copper-Region 1  South,no state cup,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G Red,2.0,0.0,2.0,0.0,2.0,13.0,-11.0,0.0
-104,Copper-Region 1  South,no state cup,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes White 15G,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-105,Copper-Region 1  South,no state cup,FALL_LEAGUE,Red Star Soccer Academy Red Star 15G White,2.0,1.0,0.0,1.0,11.0,5.0,6.0,4.0
-106,Copper-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G White,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
-107,Copper-Region 1  South,no state cup,FALL_LEAGUE,WSC Crush WSC Crush 15 Girls Orange,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
-108,Copper-Region 1 Central,U10 Girls Bronze-Group K,FALL_LEAGUE,Sunnyvale Alliance SC 15G Red,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-109,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Team,3.0,0.0,2.0,1.0,5.0,17.0,-12.0,1.0
-110,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC White,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
-111,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Central Valley San Jose SC CVSJ 15G Queen Cobras,3.0,2.0,0.0,1.0,15.0,1.0,14.0,7.0
-112,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Milpitas YSL FC Milpitas Wildcats 15,1.0,0.0,1.0,0.0,0.0,11.0,-11.0,0.0
-113,Copper-Region 1 Central,no state cup,FALL_LEAGUE,San Carlos United Soccer Club San Carlos United SC 15G White,2.0,0.0,0.0,2.0,3.0,3.0,0.0,2.0
-114,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Sentinels Soccer Club 2015 SENTINELS ACADEMY GIRLS,2.0,1.0,1.0,0.0,11.0,5.0,6.0,3.0
-115,Copper-Region 2,U10 Girls Bronze-Group K,FALL_LEAGUE,De Anza Force Force 15G Elite,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
-116,Copper-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G Yellow,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
-117,Copper-Region 2,no state cup,FALL_LEAGUE,Audax Soccer Club Audax 2015G Orange,1.0,1.0,0.0,0.0,4.0,0.0,4.0,3.0
-118,Copper-Region 2,no state cup,FALL_LEAGUE,Hollister Tremors Hollister Tremors 2015G Phoenix,2.0,0.0,1.0,1.0,7.0,10.0,-3.0,1.0
-119,Copper-Region 2,no state cup,FALL_LEAGUE,Los Gatos United Soccer Club 2015G III,3.0,1.0,1.0,1.0,10.0,12.0,-2.0,4.0
-120,Copper-Region 2,no state cup,FALL_LEAGUE,North Valley Youth Soccer League NV/SJ United 15G White Ladybugs,3.0,2.0,1.0,0.0,13.0,11.0,2.0,6.0
-121,Copper-Region 2,no state cup,FALL_LEAGUE,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G Red,3.0,1.0,2.0,0.0,7.0,8.0,-1.0,3.0
-122,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 WHITE,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
-123,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz Mid-County Youth Soccer Club SURF 15G,2.0,0.0,2.0,0.0,1.0,5.0,-4.0,0.0
-124,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz United Football Club 2015G Blue,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
-125,Copper-Region 2,no state cup,FALL_LEAGUE,Scotts Valley San Lorenzo Valley Youth Soccer Club Valley United 15G,3.0,2.0,0.0,1.0,5.0,2.0,3.0,7.0
-126,Copper-Region 3,U10 Girls Bronze-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC Wolves 15F,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
-127,Copper-Region 3,U10 Girls Bronze-Group B,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Select II,2.0,1.0,1.0,0.0,10.0,5.0,5.0,3.0
-128,Copper-Region 3,U10 Girls Bronze-Group D,FALL_LEAGUE,East Bay Eclipse Soccer Club Eclipse 2015 Girls Solar,2.0,2.0,0.0,0.0,11.0,1.0,10.0,6.0
-129,Copper-Region 3,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G Sky,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-130,Copper-Region 3,no state cup,FALL_LEAGUE,Dublin United Dublin United 15G Black,3.0,0.0,3.0,0.0,0.0,25.0,-25.0,0.0
-131,Copper-Region 3,no state cup,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Evo I,2.0,1.0,1.0,0.0,6.0,8.0,-2.0,3.0
-132,Copper-Region 3,no state cup,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Evo II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-133,Copper-Region 3,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G Alliance,3.0,3.0,0.0,0.0,15.0,2.0,13.0,9.0
-134,Copper-Region 3,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Grey,3.0,1.0,1.0,1.0,10.0,5.0,5.0,4.0
-135,Copper-Region 4,U10 Girls Bronze-Group A,FALL_LEAGUE,Alameda Soccer Club Alameda SC Islanders 15G White,2.0,1.0,0.0,1.0,10.0,4.0,6.0,4.0
-136,Copper-Region 4,U10 Girls Bronze-Group A,FALL_LEAGUE,Piedmont SC Highlanders 2015G Grey,2.0,0.0,2.0,0.0,1.0,8.0,-7.0,0.0
-137,Copper-Region 4,U10 Girls Bronze-Group B,FALL_LEAGUE,Football Club Alliance FCA 15G Blue,2.0,1.0,1.0,0.0,16.0,9.0,7.0,3.0
-138,Copper-Region 4,no state cup,FALL_LEAGUE,Clippers FC 2015 Girls Blue,1.0,0.0,1.0,0.0,3.0,16.0,-13.0,0.0
-139,Copper-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Premier II,2.0,1.0,1.0,0.0,3.0,4.0,-1.0,3.0
-140,Copper-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Red,2.0,2.0,0.0,0.0,5.0,2.0,3.0,6.0
-141,Copper-Region 4,no state cup,FALL_LEAGUE,Richmond Sol Cobras RSOLFC15G,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-142,Copper-Region 4,no state cup,FALL_LEAGUE,Richmond United SC Richmond United Panthers,2.0,1.0,0.0,1.0,10.0,4.0,6.0,4.0
-143,Gold-Region 1,U10 Girls State/Premier-Group K,FALL_LEAGUE,JSC Soccer Club JSC 15G Black,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
-144,Gold-Region 1,U10 Girls State/Premier-Group K,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G Black,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-145,Gold-Region 1,U10 Girls State/Premier-Group L,FALL_LEAGUE,Dnamo FC Dnamo FC Ajax,2.0,0.0,2.0,0.0,5.0,13.0,-8.0,0.0
-146,Gold-Region 1,U10 Girls State/Premier-Group L,FALL_LEAGUE,Santa Clara Sporting Santa Clara Sporting 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-147,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Girls Unite Girls Unite 2015G Fierce Purple,2.0,0.0,2.0,0.0,0.0,9.0,-9.0,0.0
-148,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona White,3.0,1.0,2.0,0.0,1.0,8.0,-7.0,3.0
-149,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G Pre Academy,2.0,2.0,0.0,0.0,9.0,2.0,7.0,6.0
-150,Gold-Region 1,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Gold,3.0,2.0,1.0,0.0,13.0,9.0,4.0,6.0
-151,Gold-Region 1,no state cup,FALL_LEAGUE,Monterey County Soccer-ECFC Salinas ECFC 15G,3.0,2.0,1.0,0.0,13.0,3.0,10.0,6.0
-152,Gold-Region 1,no state cup,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 16G Spurs Blue,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-153,Gold-Region 1,no state cup,FALL_LEAGUE,Santa Clara Sporting Santa Clara Sporting 16G Green,2.0,1.0,1.0,0.0,4.0,4.0,0.0,3.0
-154,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Maroon,2.0,0.0,2.0,0.0,5.0,8.0,-3.0,0.0
-155,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC 15G Elite I,3.0,1.0,2.0,0.0,5.0,8.0,-3.0,3.0
-156,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Piedmont SC Highlanders 2015G Purple,2.0,2.0,0.0,0.0,9.0,3.0,6.0,6.0
-157,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Pre-ECNL,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
-158,Gold-Region 3/4,U10 Girls State/Premier-Group B,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G Orange,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
-159,Gold-Region 3/4,U10 Girls State/Premier-Group B,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Blue,2.0,1.0,1.0,0.0,4.0,4.0,0.0,3.0
-160,Gold-Region 3/4,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G East,2.0,1.0,1.0,0.0,4.0,6.0,-2.0,3.0
-161,Gold-Region 3/4,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Navy,2.0,0.0,2.0,0.0,2.0,6.0,-4.0,0.0
-162,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Black Oaks Youth Soccer Club Black Oaks Little Comets 2015G,3.0,2.0,1.0,0.0,12.0,7.0,5.0,6.0
-163,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers 2015,2.0,0.0,1.0,1.0,1.0,5.0,-4.0,1.0
-164,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Napa United Napa United Pre-Academy 15G Premier,1.0,1.0,0.0,0.0,6.0,4.0,2.0,3.0
-165,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Sonoma Valley United SVU Girls 15 Green,3.0,0.0,3.0,0.0,3.0,15.0,-12.0,0.0
-166,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,Marin FC Marin FC G15Blue,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
-167,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,North Coast Futbol Club North Coast FC 15G Blue,3.0,1.0,1.0,1.0,8.0,6.0,2.0,4.0
-168,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,Santa Rosa United Soccer Santa Rosa United 15G Gold,3.0,3.0,0.0,0.0,11.0,2.0,9.0,9.0
-169,Gold-Region 6,U10 Girls State/Premier-Group C,FALL_LEAGUE,Rocklin FC Rocklin FC 15G Navy,2.0,2.0,0.0,0.0,6.0,1.0,5.0,6.0
-170,Gold-Region 6,U10 Girls State/Premier-Group D,FALL_LEAGUE,Elk Grove Soccer 2015G Elite 1,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
-171,Gold-Region 6,U10 Girls State/Premier-Group D,FALL_LEAGUE,Greenhaven Soccer Club Greenhaven SC 15G I,2.0,1.0,1.0,0.0,5.0,2.0,3.0,3.0
-172,Gold-Region 6,U10 Girls State/Premier-Group E,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Pre-ECNL,2.0,1.0,1.0,0.0,5.0,4.0,1.0,3.0
-173,Gold-Region 6,U10 Girls State/Premier-Group F,FALL_LEAGUE,Lincoln FC Lincoln FC 15G,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
-174,Gold-Region 6,U10 Girls State/Premier-Group F,FALL_LEAGUE,San Juan Soccer Club Spirits 15 Blue,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-175,Gold-Region 6,no state cup,FALL_LEAGUE,Reno APEX Soccer Club 2015 Girls Premier,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
-176,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,Clovis Crossfire  15G Blue,2.0,1.0,0.0,1.0,3.0,2.0,1.0,4.0
-177,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,Kings County Soccer Club Kings County 15G Orange,2.0,0.0,2.0,0.0,1.0,4.0,-3.0,0.0
-178,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,South Valley United Soccer Club South Valley United G15 Black,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
-179,Gold-Region 7,U10 Girls State/Premier-Group J,FALL_LEAGUE,California Odyssey Soccer Club COSC 15G Red,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-180,Gold-Region 8,U10 Girls State/Premier-Group D,FALL_LEAGUE,Stockton Storm Futbol Club Stockton Storm FC 2015 Girls Blue,2.0,1.0,1.0,0.0,3.0,10.0,-7.0,3.0
-181,Gold-Region 8,U10 Girls State/Premier-Group I,FALL_LEAGUE,CV Futbol Academy CVFA 15G Academy,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
-182,Gold-Region 8,U10 Girls State/Premier-Group J,FALL_LEAGUE,MANTECA FUTBOL CLUB Manteca Futbol Club 15G,1.0,1.0,0.0,0.0,10.0,2.0,8.0,3.0
-183,Gold-Region 8,no state cup,FALL_LEAGUE,Ajax United Ajax United 15G Green Pre-GA,2.0,0.0,2.0,0.0,2.0,4.0,-2.0,0.0
-184,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Girls Unite Girls Unite 2015G Wonder Black,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-185,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,San Francisco Glens Soccer Club SF Glens Pre-Academy 15G,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
-186,Silver-Region 1  North,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-187,Silver-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-188,Silver-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-189,Silver-Region 1  North,no state cup,FALL_LEAGUE,Dnamo FC Dnamo FC Arsenal,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
-190,Silver-Region 1  North,no state cup,FALL_LEAGUE,SF United FC SF United G15 Phoenix,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-191,Silver-Region 1  South,U10 Girls Bronze-Group C,FALL_LEAGUE,WSC Crush WSC Crush 15 Girls Black,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-192,Silver-Region 1  South,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Elite Team,3.0,1.0,2.0,0.0,4.0,5.0,-1.0,3.0
-193,Silver-Region 1  South,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,Allstars United 15G Red,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
-194,Silver-Region 1  South,no state cup,FALL_LEAGUE,PSV Union FC Academy PSV Union FC Academy 2015/2016,2.0,0.0,2.0,0.0,1.0,7.0,-6.0,0.0
-195,Silver-Region 1  South,no state cup,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G White,2.0,1.0,0.0,1.0,1.0,0.0,1.0,4.0
-196,Silver-Region 1  South,no state cup,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes Blue 15G,2.0,1.0,1.0,0.0,3.0,5.0,-2.0,3.0
-197,Silver-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G Black,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
-198,Silver-Region 2,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Ravenswood Juniors Soccer Club Ravenswood SC G15/16 Roma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-199,Silver-Region 2,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,MVLA San Jose MVLA San Jose 15G Blue,3.0,1.0,2.0,0.0,3.0,10.0,-7.0,3.0
-200,Silver-Region 2,U10 Girls State/Premier-Group K,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Green,2.0,2.0,0.0,0.0,11.0,3.0,8.0,6.0
-201,Silver-Region 2,U10 Girls State/Premier-Group M,FALL_LEAGUE,Los Gatos United Soccer Club 2015G I,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
-202,Silver-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G Black,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-203,Silver-Region 2,no state cup,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G Red,2.0,0.0,2.0,0.0,2.0,8.0,-6.0,0.0
-204,Silver-Region 2,no state cup,FALL_LEAGUE,Santa Clara Youth Soccer League SC LIONS 2015G RED - MCINTOSH,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
-205,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC 15G Elite II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-206,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Premier,2.0,0.0,2.0,0.0,1.0,11.0,-10.0,0.0
-207,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G White,2.0,2.0,0.0,0.0,6.0,0.0,6.0,6.0
-208,Silver-Region 3,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G Black,2.0,1.0,1.0,0.0,3.0,6.0,-3.0,3.0
-209,Silver-Region 3,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,Revolution FC Revolution 15G Blue,3.0,0.0,3.0,0.0,6.0,11.0,-5.0,0.0
-210,Silver-Region 3,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G Red,3.0,1.0,2.0,0.0,5.0,7.0,-2.0,3.0
-211,Silver-Region 3,no state cup,FALL_LEAGUE,Mustang Soccer Mustang SC 16G Pre-ECNL,2.0,2.0,0.0,0.0,11.0,1.0,10.0,6.0
-212,Silver-Region 3,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G White,2.0,2.0,0.0,0.0,5.0,1.0,4.0,6.0
-213,Silver-Region 4,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Castro Valley Soccer Club Castro Valley SC CVSC United Green 2015 G,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
-214,Silver-Region 4,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Alameda Soccer Club Alameda SC Islanders 15G Red,2.0,1.0,1.0,0.0,9.0,6.0,3.0,3.0
-215,Silver-Region 4,U10 Girls Gold/Silver-Group D,FALL_LEAGUE,Mustang Soccer Mustang SC Thunder Cats 15F,2.0,2.0,0.0,0.0,7.0,4.0,3.0,6.0
-216,Silver-Region 4,U10 Girls Gold/Silver-Group D,FALL_LEAGUE,Piedmont SC Highlanders 2015G White,2.0,0.0,2.0,0.0,2.0,16.0,-14.0,0.0
-217,Silver-Region 4,U10 Girls State/Premier-Group B,FALL_LEAGUE,Clippers FC 2015 Girls Red,1.0,1.0,0.0,0.0,10.0,1.0,9.0,3.0
-218,Silver-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Premier,2.0,1.0,1.0,0.0,7.0,7.0,0.0,3.0
-219,Silver-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Navy,2.0,0.0,2.0,0.0,3.0,6.0,-3.0,0.0
-220,Silver-Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Corte Madera Football Club Corte Madera FC Girls Red 2015,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
-221,Silver-Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers Red 2015,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
-222,Silver-Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Marin FC Marin FC G15Red,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
-223,Silver-Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G The Reds,2.0,2.0,0.0,0.0,7.0,3.0,4.0,6.0
-224,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Blues FC Blues 15G Navy,3.0,1.0,1.0,1.0,9.0,6.0,3.0,4.0
-225,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Black,3.0,3.0,0.0,0.0,13.0,4.0,9.0,9.0
-226,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,El Dorado Hills Soccer Club EDHSC 15G Gold,3.0,2.0,1.0,0.0,8.0,10.0,-2.0,6.0
-227,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,Folsom Lake Surf FLS 15G Academy I,3.0,0.0,3.0,0.0,5.0,14.0,-9.0,0.0
-228,Silver-Region 6 East 1,U10 Girls State/Premier-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G Green,3.0,1.0,1.0,1.0,18.0,9.0,9.0,4.0
-229,Silver-Region 6 East 1,no state cup,FALL_LEAGUE,Loomis Youth Soccer Club 2015 Loomis Firebirds,1.0,0.0,1.0,0.0,2.0,12.0,-10.0,0.0
-230,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G White,4.0,0.0,2.0,2.0,5.0,11.0,-6.0,2.0
-231,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Yuba Elite FC Yuba Elite FC 15G Gold,3.0,0.0,2.0,1.0,5.0,14.0,-9.0,1.0
-232,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,San Juan Soccer Club Spirits 15 White,3.0,1.0,2.0,0.0,7.0,12.0,-5.0,3.0
-233,Silver-Region 6 East 2,U10 Girls State/Premier-Group C,FALL_LEAGUE,Granite Bay FC United 15,4.0,3.0,0.0,1.0,17.0,5.0,12.0,10.0
-234,Silver-Region 6 East 2,U10 Girls State/Premier-Group E,FALL_LEAGUE,Rocklin FC Rocklin FC 15G White,3.0,1.0,0.0,2.0,7.0,3.0,4.0,5.0
-235,Silver-Region 6 East 2,U10 Girls State/Premier-Group F,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Gold,3.0,1.0,0.0,2.0,9.0,5.0,4.0,5.0
-236,Silver-Region 6 West,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,IR Academy IR Academy 15G Purple,2.0,0.0,1.0,1.0,4.0,7.0,-3.0,1.0
-237,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Natomas FA Natomas FA 15G Academy,2.0,0.0,2.0,0.0,0.0,7.0,-7.0,0.0
-238,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Vacaville United Soccer Club VUSC 2015 Girls Premier,2.0,1.0,1.0,0.0,7.0,3.0,4.0,3.0
-239,Silver-Region 6 West,U10 Girls State/Premier-Group C,FALL_LEAGUE,Davis Legacy Soccer Club Davis Legacy 15G Red,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-240,Silver-Region 6 West,U10 Girls State/Premier-Group E,FALL_LEAGUE,Elk Grove Soccer 2015G Elite 2,2.0,2.0,0.0,0.0,6.0,1.0,5.0,6.0
-241,Silver-Region 6 West,U10 Girls State/Premier-Group E,FALL_LEAGUE,Sacramento United 15G Red,2.0,1.0,0.0,1.0,6.0,5.0,1.0,4.0
-242,Silver-Region 6 West,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G MO,2.0,0.0,1.0,1.0,3.0,8.0,-5.0,1.0
-243,Silver-Region 6 West,no state cup,FALL_LEAGUE,Galt Futbol Club 2015 Galt FC Girls,1.0,0.0,0.0,1.0,3.0,3.0,0.0,1.0
-244,Silver-Region 6 West,no state cup,FALL_LEAGUE,Greenhaven Soccer Club Greenhaven SC 15G II,2.0,1.0,0.0,1.0,6.0,1.0,5.0,4.0
-245,Silver-Region 8,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,West Coast Soccer Tracy West Coast Kaos Krew '15,2.0,0.0,1.0,1.0,3.0,9.0,-6.0,1.0
-246,Silver-Region 8,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Manteca Area Soccer League Manteca Area Soccer Rangers United 15G Gold,3.0,0.0,3.0,0.0,1.0,12.0,-11.0,0.0
-247,Silver-Region 8,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Stockton TLJ FC Stockton TLJ FC Rebels 15/16G,2.0,2.0,0.0,0.0,9.0,2.0,7.0,6.0
-248,Silver-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,Oakdale Soccer Club OSC Stallions 2015G Oakies,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-249,Silver-Region 8,U10 Girls State/Premier-Group J,FALL_LEAGUE,Valley Surf Valley Surf 15G Academy I,3.0,3.0,0.0,0.0,16.0,3.0,13.0,9.0
-250,Silver-Region 8,no state cup,FALL_LEAGUE,Merced United FC MUFC 2015G Red,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
-251,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,ALBION SC Central Valley ALBION SC Central Valley G15 Academy,2.0,0.0,2.0,0.0,2.0,8.0,-6.0,0.0
-252,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Central Valley Premier FC Central Valley Premier FC Elite G15,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
-253,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Clovis Crossfire  15G White,2.0,0.0,2.0,0.0,4.0,6.0,-2.0,0.0
-254,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Kings County Soccer Club Kings County 15G White,2.0,1.0,0.0,1.0,6.0,5.0,1.0,4.0
-255,Silver/Bronze-Region 7,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,South Valley United Soccer Club South Valley United G15 White,2.0,1.0,1.0,0.0,9.0,4.0,5.0,3.0
-256,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,FRESNO HEAT FC FRESNO HEAT FC 2015G Starlettes,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
-257,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,Sanger FC Sanger FC - RIPMC FC 15 Girls - Melody,2.0,1.0,1.0,0.0,3.0,8.0,-5.0,3.0
-258,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,Tulare Force Tulare Force 2015 Girls Blue,2.0,1.0,0.0,1.0,6.0,2.0,4.0,4.0
-259,U10 Girls Bronze-Group A,Copper-Region 3,STATE_CUP,Mustang Soccer Mustang SC Wolves 15F,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-260,U10 Girls Bronze-Group A,Copper-Region 4,STATE_CUP,Alameda Soccer Club Alameda SC Islanders 15G White,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-261,U10 Girls Bronze-Group A,Copper-Region 4,STATE_CUP,Piedmont SC Highlanders 2015G Grey,1.0,0.0,1.0,0.0,0.0,10.0,-10.0,0.0
-262,U10 Girls Bronze-Group A,no region,STATE_CUP,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G White,1.0,1.0,0.0,0.0,10.0,0.0,10.0,3.0
-263,U10 Girls Bronze-Group B,Bronze-Region 3  North,STATE_CUP,East Bay Eclipse Soccer Club Eclipse 2015 Girls Lunar,1.0,1.0,0.0,0.0,7.0,3.0,4.0,3.0
-264,U10 Girls Bronze-Group B,Bronze-Region 3  South,STATE_CUP,Dublin United Dublin United 15G Green,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
-265,U10 Girls Bronze-Group B,Copper-Region 3,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Select II,1.0,0.0,1.0,0.0,3.0,7.0,-4.0,0.0
-266,U10 Girls Bronze-Group B,Copper-Region 4,STATE_CUP,Football Club Alliance FCA 15G Blue,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
-267,U10 Girls Bronze-Group C,Bronze-Region 1  South,STATE_CUP,Pacifica United Soccer Club Pacifica United SC G2015 Cyclones Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-268,U10 Girls Bronze-Group C,Bronze-Region 3  South,STATE_CUP,Fremont Rush Soccer Fremont Rush 2015G Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-269,U10 Girls Bronze-Group C,Bronze-Region 4,STATE_CUP,Castro Valley Soccer Club Castro Valley SC CVSC United 2015 Girls Yellow,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,0.0
-270,U10 Girls Bronze-Group C,Silver-Region 1  South,STATE_CUP,WSC Crush WSC Crush 15 Girls Black,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
-271,U10 Girls Bronze-Group D,Bronze-Region 3  North,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Black,1.0,1.0,0.0,0.0,6.0,3.0,3.0,3.0
-272,U10 Girls Bronze-Group D,Bronze-Region 3  South,STATE_CUP,Hayward Youth Soccer League HYSL Premier Chaos 15G,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
-273,U10 Girls Bronze-Group D,Bronze-Region 4,STATE_CUP,Clippers FC 2015 Girls White,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
-274,U10 Girls Bronze-Group D,Copper-Region 3,STATE_CUP,East Bay Eclipse Soccer Club Eclipse 2015 Girls Solar,1.0,0.0,1.0,0.0,3.0,6.0,-3.0,0.0
-275,U10 Girls Bronze-Group E,Bronze-Region 6 West 1,STATE_CUP,Sacramento United 15G White,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-276,U10 Girls Bronze-Group E,Bronze-Region 6 West 1,STATE_CUP,Woodland Soccer Club WSC 15G Orange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-277,U10 Girls Bronze-Group E,Bronze-Region 6 West 2,STATE_CUP,East Sacramento Youth Soccer Club 2015 East Sac Storm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-278,U10 Girls Bronze-Group E,Bronze-Region 6 West 2,STATE_CUP,Sacramento Soccer Alliance 15G White,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
-279,U10 Girls Bronze-Group F,Bronze-Region 6 East 1,STATE_CUP,El Dorado Hills Soccer Club EDHSC 15G Blue,2.0,1.0,1.0,0.0,4.0,7.0,-3.0,3.0
-280,U10 Girls Bronze-Group F,Bronze-Region 6 East 1,STATE_CUP,Folsom Lake Surf FLS 15G Academy II,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-281,U10 Girls Bronze-Group F,Bronze-Region 6 East 2,STATE_CUP,Placer United Soccer Club Placer United 15G Black,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
-282,U10 Girls Bronze-Group F,Bronze-Region 6 East 2,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G Black,2.0,2.0,0.0,0.0,7.0,2.0,5.0,6.0
-283,U10 Girls Bronze-Group G,Bronze-Region 6 East 1,STATE_CUP,San Juan Soccer Club Spirits 15 Red,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
-284,U10 Girls Bronze-Group G,Bronze-Region 6 East 2,STATE_CUP,Yuba Elite FC Yuba Elite FC 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-285,U10 Girls Bronze-Group G,Bronze-Region 6 West 2,STATE_CUP,Union Sacramento FC Union FC 15G JDP,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
-286,U10 Girls Bronze-Group G,Bronze-Region 6 West 2,STATE_CUP,Woodland Soccer Club WSC 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-287,U10 Girls Bronze-Group H,Bronze-North  Region 5,STATE_CUP,Rohnert Park Soccer Club RP Aftershocks,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
-288,U10 Girls Bronze-Group H,Bronze-North  Region 5,STATE_CUP,Santa Rosa South YSC Santa Rosa South Tigers,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
-289,U10 Girls Bronze-Group H,Bronze-South  Region 5,STATE_CUP,Marin FC Marin FC G15Steel,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
-290,U10 Girls Bronze-Group H,Bronze-South  Region 5,STATE_CUP,Mill Valley Soccer Club MVSC Rockers White 2015,1.0,1.0,0.0,0.0,4.0,0.0,4.0,3.0
-291,U10 Girls Bronze-Group I,Bronze-South  Region 5,STATE_CUP,North Marin United North Marin United '15 Girls Esteem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-292,U10 Girls Bronze-Group I,Bronze-South  Region 5,STATE_CUP,Ross Valley Breakers FC Breakers 15G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-293,U10 Girls Bronze-Group I,Bronze-South  Region 5,STATE_CUP,Tiburon Peninsula Soccer Club TPSC Sharks 2015 Girls,1.0,0.0,1.0,0.0,3.0,5.0,-2.0,0.0
-294,U10 Girls Bronze-Group I,Copper-Region 1  North,STATE_CUP,Peninsula Youth Soccer Peninsula SC Tornadoes Red 15G,1.0,1.0,0.0,0.0,5.0,3.0,2.0,3.0
-295,U10 Girls Bronze-Group J,Silver/Bronze-Region 7,STATE_CUP,ALBION SC Central Valley ALBION SC Central Valley G15 Academy,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
-296,U10 Girls Bronze-Group J,Silver/Bronze-Region 7,STATE_CUP,Central Valley Premier FC Central Valley Premier FC Elite G15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-297,U10 Girls Bronze-Group J,Silver/Bronze-Region 7,STATE_CUP,Clovis Crossfire  15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-298,U10 Girls Bronze-Group J,Silver/Bronze-Region 7,STATE_CUP,Kings County Soccer Club Kings County 15G White,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
-299,U10 Girls Bronze-Group K,Bronze-Region 1  South,STATE_CUP,Bay Area Surf 15G,2.0,2.0,0.0,0.0,15.0,3.0,12.0,6.0
-300,U10 Girls Bronze-Group K,Bronze-Region 2,STATE_CUP,Monterey Surf Soccer Club Monterey Surf 15G Academy I,1.0,1.0,0.0,0.0,7.0,0.0,7.0,3.0
-301,U10 Girls Bronze-Group K,Copper-Region 1 Central,STATE_CUP,Sunnyvale Alliance SC 15G Red,2.0,0.0,2.0,0.0,2.0,12.0,-10.0,0.0
-302,U10 Girls Bronze-Group K,Copper-Region 2,STATE_CUP,De Anza Force Force 15G Elite,1.0,0.0,1.0,0.0,1.0,10.0,-9.0,0.0
-303,U10 Girls Gold/Silver-Group A,Silver-Region 3,STATE_CUP,Mustang Soccer Mustang SC 15G Elite II,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
-304,U10 Girls Gold/Silver-Group A,Silver-Region 3,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Premier,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
-305,U10 Girls Gold/Silver-Group A,Silver-Region 3,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G White,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
-306,U10 Girls Gold/Silver-Group A,Silver-Region 4,STATE_CUP,Castro Valley Soccer Club Castro Valley SC CVSC United Green 2015 G,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
-307,U10 Girls Gold/Silver-Group B,Bronze-Region 3  North,STATE_CUP,Mustang Soccer Mustang SC Fever 15F,1.0,0.0,1.0,0.0,2.0,6.0,-4.0,0.0
-308,U10 Girls Gold/Silver-Group B,Bronze-Region 3  South,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Select I,1.0,1.0,0.0,0.0,9.0,2.0,7.0,3.0
-309,U10 Girls Gold/Silver-Group B,Bronze-Region 4,STATE_CUP,Sheriffs FC Sheriffs FC 2015/16G Yellow,1.0,0.0,1.0,0.0,2.0,9.0,-7.0,0.0
-310,U10 Girls Gold/Silver-Group B,Silver-Region 4,STATE_CUP,Alameda Soccer Club Alameda SC Islanders 15G Red,1.0,1.0,0.0,0.0,6.0,2.0,4.0,3.0
-311,U10 Girls Gold/Silver-Group C,Bronze-Region 3  South,STATE_CUP,Livermore Fusion SC Fusion SC 2015 Girls Gold,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
-312,U10 Girls Gold/Silver-Group C,Silver-Region 3,STATE_CUP,1974 Newark FC 1974 NFC 15G Black,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
-313,U10 Girls Gold/Silver-Group C,Silver-Region 3,STATE_CUP,Revolution FC Revolution 15G Blue,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-314,U10 Girls Gold/Silver-Group C,Silver-Region 8,STATE_CUP,West Coast Soccer Tracy West Coast Kaos Krew '15,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-315,U10 Girls Gold/Silver-Group D,Silver-Region 4,STATE_CUP,Mustang Soccer Mustang SC Thunder Cats 15F,2.0,2.0,0.0,0.0,10.0,3.0,7.0,6.0
-316,U10 Girls Gold/Silver-Group D,Silver-Region 4,STATE_CUP,Piedmont SC Highlanders 2015G White,2.0,1.0,1.0,0.0,6.0,7.0,-1.0,3.0
-317,U10 Girls Gold/Silver-Group D,no region,STATE_CUP,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G Red,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-318,U10 Girls Gold/Silver-Group D,no region,STATE_CUP,u10 Girls TBD - 3,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
-319,U10 Girls Gold/Silver-Group E,Bronze-Region 6 East 2,STATE_CUP,Rocklin FC Rocklin FC 15G Grey,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
-320,U10 Girls Gold/Silver-Group E,Silver-Region 6 West,STATE_CUP,IR Academy IR Academy 15G Purple,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-321,U10 Girls Gold/Silver-Group E,Silver-Region 8,STATE_CUP,Manteca Area Soccer League Manteca Area Soccer Rangers United 15G Gold,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
-322,U10 Girls Gold/Silver-Group E,Silver-Region 8,STATE_CUP,Stockton TLJ FC Stockton TLJ FC Rebels 15/16G,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-323,U10 Girls Gold/Silver-Group F,Silver-Region 6 East 1,STATE_CUP,Blues FC Blues 15G Navy,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-324,U10 Girls Gold/Silver-Group F,Silver-Region 6 East 1,STATE_CUP,Butte United Soccer Club BUSC 2015G Black,1.0,1.0,0.0,0.0,6.0,1.0,5.0,3.0
-325,U10 Girls Gold/Silver-Group F,Silver-Region 6 East 2,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G White,1.0,0.0,1.0,0.0,1.0,6.0,-5.0,0.0
-326,U10 Girls Gold/Silver-Group F,Silver-Region 6 East 2,STATE_CUP,Yuba Elite FC Yuba Elite FC 15G Gold,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-327,U10 Girls Gold/Silver-Group G,Bronze-Region 6 West 1,STATE_CUP,Sacramento Soccer Alliance 15G Blue,1.0,0.0,1.0,0.0,0.0,7.0,-7.0,0.0
-328,U10 Girls Gold/Silver-Group G,Silver-Region 6 East 1,STATE_CUP,El Dorado Hills Soccer Club EDHSC 15G Gold,1.0,0.0,1.0,0.0,4.0,6.0,-2.0,0.0
-329,U10 Girls Gold/Silver-Group G,Silver-Region 6 East 1,STATE_CUP,Folsom Lake Surf FLS 15G Academy I,1.0,1.0,0.0,0.0,6.0,4.0,2.0,3.0
-330,U10 Girls Gold/Silver-Group G,Silver-Region 6 East 2,STATE_CUP,San Juan Soccer Club Spirits 15 White,1.0,1.0,0.0,0.0,7.0,0.0,7.0,3.0
-331,U10 Girls Gold/Silver-Group H,Bronze-Region 3  North,STATE_CUP,Solano Surf Solano Surf 15G Blue,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-332,U10 Girls Gold/Silver-Group H,Bronze-Region 6 West 1,STATE_CUP,Davis Legacy Soccer Club Davis Legacy 15G White,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
-333,U10 Girls Gold/Silver-Group H,Silver-Region 6 West,STATE_CUP,Natomas FA Natomas FA 15G Academy,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-334,U10 Girls Gold/Silver-Group H,Silver-Region 6 West,STATE_CUP,Vacaville United Soccer Club VUSC 2015 Girls Premier,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
-335,U10 Girls Gold/Silver-Group I,Bronze-North  Region 5,STATE_CUP,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G Surge,2.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0
-336,U10 Girls Gold/Silver-Group I,Bronze-Region 1  North,STATE_CUP,SF Elite SFEA 2015G Blue,1.0,1.0,0.0,0.0,5.0,3.0,2.0,3.0
-337,U10 Girls Gold/Silver-Group I,Silver-Region 5,STATE_CUP,Corte Madera Football Club Corte Madera FC Girls Red 2015,2.0,0.0,1.0,1.0,5.0,7.0,-2.0,1.0
-338,U10 Girls Gold/Silver-Group I,Silver-Region 5,STATE_CUP,Mill Valley Soccer Club MVSC Rockers Red 2015,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
-339,U10 Girls Gold/Silver-Group J,Bronze-North  Region 5,STATE_CUP,Napa United Napa United Pre-Academy 15G Elite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-340,U10 Girls Gold/Silver-Group J,Bronze-North  Region 5,STATE_CUP,Sonoma County Premier Sonoma County Premier 2015 Girls,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
-341,U10 Girls Gold/Silver-Group J,Silver-Region 5,STATE_CUP,Marin FC Marin FC G15Red,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-342,U10 Girls Gold/Silver-Group J,Silver-Region 5,STATE_CUP,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G The Reds,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
-343,U10 Girls Gold/Silver-Group K,Bronze-Region 8,STATE_CUP,CV Futbol Academy CVFA 15G Black,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-344,U10 Girls Gold/Silver-Group K,Bronze-Region 8,STATE_CUP,Turlock Academica Jrs Turlock Academica Jrs 15G,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
-345,U10 Girls Gold/Silver-Group K,Silver-Region 8,STATE_CUP,Oakdale Soccer Club OSC Stallions 2015G Oakies,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-346,U10 Girls Gold/Silver-Group K,Silver/Bronze-Region 7,STATE_CUP,South Valley United Soccer Club South Valley United G15 White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-347,U10 Girls Gold/Silver-Group L,Silver-Region 1  North,STATE_CUP,Girls Unite Girls Unite 2015G Wonder Black,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-348,U10 Girls Gold/Silver-Group L,Silver-Region 1  North,STATE_CUP,San Francisco Glens Soccer Club SF Glens Pre-Academy 15G,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-349,U10 Girls Gold/Silver-Group L,Silver-Region 1  South,STATE_CUP,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Elite Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-350,U10 Girls Gold/Silver-Group L,Silver-Region 2,STATE_CUP,Ravenswood Juniors Soccer Club Ravenswood SC G15/16 Roma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-351,U10 Girls Gold/Silver-Group M,Bronze-Region 1  South,STATE_CUP,AYSO United Silicon Valley United Silicon Valley 15G Red,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
-352,U10 Girls Gold/Silver-Group M,Silver-Region 1  North,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Black,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-353,U10 Girls Gold/Silver-Group M,Silver-Region 1  South,STATE_CUP,Allstars United 15G Red,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-354,U10 Girls Gold/Silver-Group M,Silver-Region 2,STATE_CUP,MVLA San Jose MVLA San Jose 15G Blue,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-355,U10 Girls State/Premier-Group A,Gold-Region 3/4,STATE_CUP,Livermore Fusion SC Fusion SC 2015 Girls Maroon,2.0,1.0,0.0,1.0,5.0,4.0,1.0,4.0
-356,U10 Girls State/Premier-Group A,Gold-Region 3/4,STATE_CUP,Mustang Soccer Mustang SC 15G Elite I,1.0,0.0,1.0,0.0,0.0,2.0,-2.0,0.0
-357,U10 Girls State/Premier-Group A,Gold-Region 3/4,STATE_CUP,Piedmont SC Highlanders 2015G Purple,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
-358,U10 Girls State/Premier-Group A,Gold-Region 3/4,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Pre-ECNL,2.0,1.0,1.0,0.0,4.0,3.0,1.0,3.0
-359,U10 Girls State/Premier-Group B,Gold-Region 3/4,STATE_CUP,1974 Newark FC 1974 NFC 15G Orange,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
-360,U10 Girls State/Premier-Group B,Gold-Region 3/4,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Blue,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
-361,U10 Girls State/Premier-Group B,Silver-Region 4,STATE_CUP,Clippers FC 2015 Girls Red,1.0,0.0,1.0,0.0,0.0,8.0,-8.0,0.0
-362,U10 Girls State/Premier-Group B,no region,STATE_CUP,Mustang Soccer Mustang SC 15G Pre-ECNL,1.0,1.0,0.0,0.0,8.0,0.0,8.0,3.0
-363,U10 Girls State/Premier-Group C,Gold-Region 6,STATE_CUP,Rocklin FC Rocklin FC 15G Navy,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
-364,U10 Girls State/Premier-Group C,Silver-Region 6 East 2,STATE_CUP,Granite Bay FC United 15,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
-365,U10 Girls State/Premier-Group C,Silver-Region 6 West,STATE_CUP,Davis Legacy Soccer Club Davis Legacy 15G Red,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-366,U10 Girls State/Premier-Group D,Gold-Region 6,STATE_CUP,Elk Grove Soccer 2015G Elite 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-367,U10 Girls State/Premier-Group D,Gold-Region 6,STATE_CUP,Greenhaven Soccer Club Greenhaven SC 15G I,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-368,U10 Girls State/Premier-Group D,Gold-Region 8,STATE_CUP,Stockton Storm Futbol Club Stockton Storm FC 2015 Girls Blue,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-369,U10 Girls State/Premier-Group D,no region,STATE_CUP,Lodi FC Lodi FC 2015G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-370,U10 Girls State/Premier-Group E,Gold-Region 6,STATE_CUP,Placer United Soccer Club Placer United 15G Pre-ECNL,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
-371,U10 Girls State/Premier-Group E,Silver-Region 6 East 2,STATE_CUP,Rocklin FC Rocklin FC 15G White,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
-372,U10 Girls State/Premier-Group E,Silver-Region 6 West,STATE_CUP,Elk Grove Soccer 2015G Elite 2,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
-373,U10 Girls State/Premier-Group E,Silver-Region 6 West,STATE_CUP,Sacramento United 15G Red,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
-374,U10 Girls State/Premier-Group F,Gold-Region 6,STATE_CUP,Lincoln FC Lincoln FC 15G,1.0,0.0,1.0,0.0,0.0,5.0,-5.0,0.0
-375,U10 Girls State/Premier-Group F,Gold-Region 6,STATE_CUP,San Juan Soccer Club Spirits 15 Blue,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
-376,U10 Girls State/Premier-Group F,Silver-Region 6 East 1,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G Green,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
-377,U10 Girls State/Premier-Group F,Silver-Region 6 East 2,STATE_CUP,Placer United Soccer Club Placer United 15G Gold,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-378,U10 Girls State/Premier-Group G,Gold-Region 5,STATE_CUP,Black Oaks Youth Soccer Club Black Oaks Little Comets 2015G,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
-379,U10 Girls State/Premier-Group G,Gold-Region 5,STATE_CUP,Mill Valley Soccer Club MVSC Rockers 2015,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
-380,U10 Girls State/Premier-Group G,Gold-Region 5,STATE_CUP,Napa United Napa United Pre-Academy 15G Premier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-381,U10 Girls State/Premier-Group G,Gold-Region 5,STATE_CUP,Sonoma Valley United SVU Girls 15 Green,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-382,U10 Girls State/Premier-Group H,Gold-Region 5,STATE_CUP,Marin FC Marin FC G15Blue,2.0,2.0,0.0,0.0,9.0,0.0,9.0,6.0
-383,U10 Girls State/Premier-Group H,Gold-Region 5,STATE_CUP,North Coast Futbol Club North Coast FC 15G Blue,2.0,1.0,1.0,0.0,3.0,6.0,-3.0,3.0
-384,U10 Girls State/Premier-Group H,Gold-Region 5,STATE_CUP,Santa Rosa United Soccer Santa Rosa United 15G Gold,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
-385,U10 Girls State/Premier-Group H,no region,STATE_CUP,u10 Girls TBD - 1,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
-386,U10 Girls State/Premier-Group I,Gold-Region 7,STATE_CUP,Clovis Crossfire  15G Blue,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
-387,U10 Girls State/Premier-Group I,Gold-Region 7,STATE_CUP,Kings County Soccer Club Kings County 15G Orange,1.0,0.0,1.0,0.0,0.0,8.0,-8.0,0.0
-388,U10 Girls State/Premier-Group I,Gold-Region 7,STATE_CUP,South Valley United Soccer Club South Valley United G15 Black,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
-389,U10 Girls State/Premier-Group I,Gold-Region 8,STATE_CUP,CV Futbol Academy CVFA 15G Academy,1.0,1.0,0.0,0.0,8.0,0.0,8.0,3.0
-390,U10 Girls State/Premier-Group J,Gold-Region 7,STATE_CUP,California Odyssey Soccer Club COSC 15G Red,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-391,U10 Girls State/Premier-Group J,Gold-Region 8,STATE_CUP,MANTECA FUTBOL CLUB Manteca Futbol Club 15G,1.0,0.0,0.0,1.0,4.0,4.0,0.0,1.0
-392,U10 Girls State/Premier-Group J,Silver-Region 8,STATE_CUP,Valley Surf Valley Surf 15G Academy I,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-393,U10 Girls State/Premier-Group J,no region,STATE_CUP,Ajax United 15G Green Pre-GA,1.0,0.0,0.0,1.0,4.0,4.0,0.0,1.0
-394,U10 Girls State/Premier-Group K,Gold-Region 1,STATE_CUP,JSC Soccer Club JSC 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-395,U10 Girls State/Premier-Group K,Gold-Region 1,STATE_CUP,OV Toros FC OV Toros FC 2015G Black,1.0,1.0,0.0,0.0,6.0,2.0,4.0,3.0
-396,U10 Girls State/Premier-Group K,Silver-Region 2,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Green,1.0,0.0,1.0,0.0,2.0,6.0,-4.0,0.0
-397,U10 Girls State/Premier-Group K,no region,STATE_CUP,Santa Clara Sporting Santa Clara Sporting 15G Green,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-398,U10 Girls State/Premier-Group L,Gold-Region 1,STATE_CUP,Dnamo FC Dnamo FC Ajax,1.0,0.0,1.0,0.0,1.0,6.0,-5.0,0.0
-399,U10 Girls State/Premier-Group L,Gold-Region 1,STATE_CUP,Santa Clara Sporting Santa Clara Sporting 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-400,U10 Girls State/Premier-Group L,no region,STATE_CUP,Almaden FC Almaden FC Quicksilver 15G Green,1.0,1.0,0.0,0.0,6.0,1.0,5.0,3.0
-401,U10 Girls State/Premier-Group L,no region,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-402,U10 Girls State/Premier-Group M,Gold-Region 1,STATE_CUP,Girls Unite Girls Unite 2015G Fierce Purple,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
-403,U10 Girls State/Premier-Group M,Gold-Region 1,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona White,2.0,1.0,1.0,0.0,6.0,6.0,0.0,3.0
-404,U10 Girls State/Premier-Group M,Gold-Region 1,STATE_CUP,Palo Alto SC Palo Alto SC 15G Pre Academy,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
-405,U10 Girls State/Premier-Group M,Silver-Region 2,STATE_CUP,Los Gatos United Soccer Club 2015G I,2.0,0.0,2.0,0.0,3.0,10.0,-7.0,0.0
-406,no state cup,Gold-Region 6,STATE_CUP,Reno APEX Soccer Club 2015 Girls Premier,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+1,Bronze-North  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Santa Rosa South YSC Santa Rosa South Tigers,4.0,0.0,2.0,2.0,7.0,14.0,-7.0,2.0
+2,Bronze-North  Region 5,U10 Girls Bronze-Group H,STATE_CUP,Rohnert Park Soccer Club RP Aftershocks,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+3,Bronze-North  Region 5,U10 Girls Bronze-Group H,STATE_CUP,Santa Rosa South YSC Santa Rosa South Tigers,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+4,Bronze-North  Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G Surge,4.0,4.0,0.0,0.0,13.0,3.0,10.0,12.0
+5,Bronze-North  Region 5,U10 Girls Gold/Silver-Group I,STATE_CUP,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G Surge,2.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0
+6,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Napa United Napa United Pre-Academy 15G Elite,2.0,1.0,1.0,0.0,3.0,3.0,0.0,3.0
+7,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Sonoma County Premier Sonoma County Premier 2015 Girls,3.0,0.0,2.0,1.0,3.0,7.0,-4.0,1.0
+8,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,STATE_CUP,Napa United Napa United Pre-Academy 15G Elite,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,STATE_CUP,Sonoma County Premier Sonoma County Premier 2015 Girls,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
+10,Bronze-North  Region 5,no state cup,FALL_LEAGUE,Black Oaks Youth Soccer Club Black Oaks Little Lady Oaks 2015G,3.0,0.0,1.0,2.0,6.0,9.0,-3.0,2.0
+11,Bronze-North  Region 5,no state cup,FALL_LEAGUE,WESCO United WESCO 15G,3.0,1.0,1.0,1.0,8.0,6.0,2.0,4.0
+12,Bronze-Region 1  North,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,SF Elite SFEA 2015G Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Bronze-Region 1  North,U10 Girls Gold/Silver-Group I,STATE_CUP,SF Elite SFEA 2015G Blue,1.0,1.0,0.0,0.0,5.0,3.0,2.0,3.0
+14,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC Black,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
+15,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Dnamo FC Dnamo FC Lazio,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,0.0
+16,Bronze-Region 1  North,no state cup,FALL_LEAGUE,Girls Unite Girls Unite 2015G Believe Gray,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+17,Bronze-Region 1  North,no state cup,FALL_LEAGUE,SF Aftershocks FC SF Aftershocks 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Bruno Lowen 83 Cheetahs Black 15/16G,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+19,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Carlos United Soccer Club San Carlos United SC 15G Blue,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
+20,Bronze-Region 1  North,no state cup,FALL_LEAGUE,San Francisco Seals SF Seals 15G Black,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+21,Bronze-Region 1  South,U10 Girls Bronze-Group C,FALL_LEAGUE,Pacifica United Soccer Club Pacifica United SC G2015 Cyclones Blue,2.0,1.0,1.0,0.0,7.0,6.0,1.0,3.0
+22,Bronze-Region 1  South,U10 Girls Bronze-Group C,STATE_CUP,Pacifica United Soccer Club Pacifica United SC G2015 Cyclones Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Bronze-Region 1  South,U10 Girls Bronze-Group K,FALL_LEAGUE,Bay Area Surf 15G,2.0,1.0,1.0,0.0,6.0,13.0,-7.0,3.0
+24,Bronze-Region 1  South,U10 Girls Bronze-Group K,STATE_CUP,Bay Area Surf 15G,2.0,2.0,0.0,0.0,15.0,3.0,12.0,6.0
+25,Bronze-Region 1  South,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,AYSO United Silicon Valley United Silicon Valley 15G Red,2.0,2.0,0.0,0.0,12.0,0.0,12.0,6.0
+26,Bronze-Region 1  South,U10 Girls Gold/Silver-Group M,STATE_CUP,AYSO United Silicon Valley United Silicon Valley 15G Red,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
+27,Bronze-Region 1  South,no state cup,FALL_LEAGUE,ALBION SC Silicon Valley SM SM G15 Academy,1.0,1.0,0.0,0.0,9.0,1.0,8.0,3.0
+28,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Green,2.0,0.0,2.0,0.0,4.0,14.0,-10.0,0.0
+29,Bronze-Region 1  South,no state cup,FALL_LEAGUE,JSC Soccer Club JSC 15G White,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
+30,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
+31,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Red Star Soccer Academy Red Star 15G Red,2.0,1.0,1.0,0.0,8.0,4.0,4.0,3.0
+32,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Santa Clara Youth Soccer League SC LIONS 2015G BLACK - ARREOLA,2.0,2.0,0.0,0.0,12.0,6.0,6.0,6.0
+33,Bronze-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G Red,2.0,1.0,1.0,0.0,5.0,9.0,-4.0,3.0
+34,Bronze-Region 2,U10 Girls Bronze-Group K,FALL_LEAGUE,Monterey Surf Soccer Club Monterey Surf 15G Academy I,2.0,1.0,1.0,0.0,6.0,8.0,-2.0,3.0
+35,Bronze-Region 2,U10 Girls Bronze-Group K,STATE_CUP,Monterey Surf Soccer Club Monterey Surf 15G Academy I,1.0,1.0,0.0,0.0,7.0,0.0,7.0,3.0
+36,Bronze-Region 2,no state cup,FALL_LEAGUE,Allstars United 15G White,3.0,3.0,0.0,0.0,11.0,4.0,7.0,9.0
+37,Bronze-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+38,Bronze-Region 2,no state cup,FALL_LEAGUE,Alum Rock Fútbol Club AR - Cheetahs- 2015G,3.0,3.0,0.0,0.0,14.0,4.0,10.0,9.0
+39,Bronze-Region 2,no state cup,FALL_LEAGUE,Hollister Tremors Hollister Tremors 2015G Dragons,3.0,1.0,2.0,0.0,3.0,8.0,-5.0,3.0
+40,Bronze-Region 2,no state cup,FALL_LEAGUE,Lobitos Soccer Club Lobitos S.C.- Lady Tiburones FC,2.0,2.0,0.0,0.0,10.0,1.0,9.0,6.0
+41,Bronze-Region 2,no state cup,FALL_LEAGUE,Los Gatos United Soccer Club 2015G II,3.0,0.0,3.0,0.0,2.0,6.0,-4.0,0.0
+42,Bronze-Region 2,no state cup,FALL_LEAGUE,North Valley Youth Soccer League NV/SJ United 15G Green Ladybugs,2.0,1.0,1.0,0.0,10.0,4.0,6.0,3.0
+43,Bronze-Region 2,no state cup,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G White,3.0,1.0,2.0,0.0,4.0,15.0,-11.0,3.0
+44,Bronze-Region 2,no state cup,FALL_LEAGUE,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 BLUE,2.0,0.0,2.0,0.0,1.0,10.0,-9.0,0.0
+45,Bronze-Region 3  North,U10 Girls Bronze-Group B,FALL_LEAGUE,East Bay Eclipse Soccer Club Eclipse 2015 Girls Lunar,1.0,0.0,1.0,0.0,1.0,7.0,-6.0,0.0
+46,Bronze-Region 3  North,U10 Girls Bronze-Group B,STATE_CUP,East Bay Eclipse Soccer Club Eclipse 2015 Girls Lunar,1.0,1.0,0.0,0.0,7.0,3.0,4.0,3.0
+47,Bronze-Region 3  North,U10 Girls Bronze-Group D,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Black,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
+48,Bronze-Region 3  North,U10 Girls Bronze-Group D,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Black,1.0,1.0,0.0,0.0,6.0,3.0,3.0,3.0
+49,Bronze-Region 3  North,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Mustang Soccer Mustang SC Fever 15F,1.0,1.0,0.0,0.0,7.0,1.0,6.0,3.0
+50,Bronze-Region 3  North,U10 Girls Gold/Silver-Group B,STATE_CUP,Mustang Soccer Mustang SC Fever 15F,1.0,0.0,1.0,0.0,2.0,6.0,-4.0,0.0
+51,Bronze-Region 3  North,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Solano Surf Solano Surf 15G Blue,2.0,0.0,2.0,0.0,5.0,15.0,-10.0,0.0
+52,Bronze-Region 3  North,U10 Girls Gold/Silver-Group H,STATE_CUP,Solano Surf Solano Surf 15G Blue,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+53,Bronze-Region 3  North,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G West,1.0,1.0,0.0,0.0,8.0,3.0,5.0,3.0
+54,Bronze-Region 3  North,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G White,3.0,3.0,0.0,0.0,15.0,5.0,10.0,9.0
+55,Bronze-Region 3  North,no state cup,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek FS U10G - Salter,1.0,0.0,1.0,0.0,3.0,7.0,-4.0,0.0
+56,Bronze-Region 3  South,U10 Girls Bronze-Group B,FALL_LEAGUE,Dublin United Dublin United 15G Green,3.0,0.0,2.0,1.0,6.0,15.0,-9.0,1.0
+57,Bronze-Region 3  South,U10 Girls Bronze-Group B,STATE_CUP,Dublin United Dublin United 15G Green,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
+58,Bronze-Region 3  South,U10 Girls Bronze-Group C,FALL_LEAGUE,Fremont Rush Soccer Fremont Rush 2015G Blue,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+59,Bronze-Region 3  South,U10 Girls Bronze-Group C,STATE_CUP,Fremont Rush Soccer Fremont Rush 2015G Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,Bronze-Region 3  South,U10 Girls Bronze-Group D,FALL_LEAGUE,Hayward Youth Soccer League HYSL Premier Chaos 15G,3.0,3.0,0.0,0.0,10.0,5.0,5.0,9.0
+61,Bronze-Region 3  South,U10 Girls Bronze-Group D,STATE_CUP,Hayward Youth Soccer League HYSL Premier Chaos 15G,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
+62,Bronze-Region 3  South,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Select I,2.0,1.0,1.0,0.0,9.0,7.0,2.0,3.0
+63,Bronze-Region 3  South,U10 Girls Gold/Silver-Group B,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Select I,1.0,1.0,0.0,0.0,9.0,2.0,7.0,3.0
+64,Bronze-Region 3  South,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Gold,3.0,1.0,2.0,0.0,10.0,6.0,4.0,3.0
+65,Bronze-Region 3  South,U10 Girls Gold/Silver-Group C,STATE_CUP,Livermore Fusion SC Fusion SC 2015 Girls Gold,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+66,Bronze-Region 3  South,no state cup,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+67,Bronze-Region 3  South,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Red,3.0,1.0,1.0,1.0,5.0,7.0,-2.0,4.0
+68,Bronze-Region 4,U10 Girls Bronze-Group C,FALL_LEAGUE,Castro Valley Soccer Club Castro Valley SC CVSC United 2015 Girls Yellow,5.0,4.0,0.0,1.0,24.0,6.0,18.0,13.0
+69,Bronze-Region 4,U10 Girls Bronze-Group C,STATE_CUP,Castro Valley Soccer Club Castro Valley SC CVSC United 2015 Girls Yellow,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,0.0
+70,Bronze-Region 4,U10 Girls Bronze-Group D,FALL_LEAGUE,Clippers FC 2015 Girls White,3.0,2.0,1.0,0.0,11.0,4.0,7.0,6.0
+71,Bronze-Region 4,U10 Girls Bronze-Group D,STATE_CUP,Clippers FC 2015 Girls White,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
+72,Bronze-Region 4,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Sheriffs FC Sheriffs FC 2015/16G Yellow,2.0,1.0,1.0,0.0,13.0,5.0,8.0,3.0
+73,Bronze-Region 4,U10 Girls Gold/Silver-Group B,STATE_CUP,Sheriffs FC Sheriffs FC 2015/16G Yellow,1.0,0.0,1.0,0.0,2.0,9.0,-7.0,0.0
+74,Bronze-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Blue,3.0,0.0,3.0,0.0,0.0,29.0,-29.0,0.0
+75,Bronze-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Orange,2.0,0.0,1.0,1.0,2.0,3.0,-1.0,1.0
+76,Bronze-Region 4,no state cup,FALL_LEAGUE,San Pablo United YSC San Pablo Lobitas,3.0,1.0,2.0,0.0,9.0,12.0,-3.0,3.0
+77,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,FALL_LEAGUE,El Dorado Hills Soccer Club EDHSC 15G Blue,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+78,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,FALL_LEAGUE,Folsom Lake Surf FLS 15G Academy II,2.0,0.0,2.0,0.0,0.0,8.0,-8.0,0.0
+79,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,STATE_CUP,El Dorado Hills Soccer Club EDHSC 15G Blue,2.0,1.0,1.0,0.0,4.0,7.0,-3.0,3.0
+80,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,STATE_CUP,Folsom Lake Surf FLS 15G Academy II,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+81,Bronze-Region 6 East 1,U10 Girls Bronze-Group G,FALL_LEAGUE,San Juan Soccer Club Spirits 15 Red,3.0,2.0,0.0,1.0,13.0,3.0,10.0,7.0
+82,Bronze-Region 6 East 1,U10 Girls Bronze-Group G,STATE_CUP,San Juan Soccer Club Spirits 15 Red,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
+83,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Azzurri FC 15G Blue,3.0,0.0,3.0,0.0,5.0,17.0,-12.0,0.0
+84,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Red,3.0,1.0,2.0,0.0,9.0,11.0,-2.0,3.0
+85,Bronze-Region 6 East 1,no state cup,FALL_LEAGUE,Prospector Soccer Club Prospector SC 2015G,3.0,2.0,0.0,1.0,12.0,6.0,6.0,7.0
+86,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Black,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
+87,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G Black,3.0,2.0,1.0,0.0,12.0,6.0,6.0,6.0
+88,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,STATE_CUP,Placer United Soccer Club Placer United 15G Black,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
+89,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G Black,2.0,2.0,0.0,0.0,7.0,2.0,5.0,6.0
+90,Bronze-Region 6 East 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Yuba Elite FC Yuba Elite FC 15G Black,3.0,0.0,1.0,2.0,5.0,6.0,-1.0,2.0
+91,Bronze-Region 6 East 2,U10 Girls Bronze-Group G,STATE_CUP,Yuba Elite FC Yuba Elite FC 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,Bronze-Region 6 East 2,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Rocklin FC Rocklin FC 15G Grey,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
+93,Bronze-Region 6 East 2,U10 Girls Gold/Silver-Group E,STATE_CUP,Rocklin FC Rocklin FC 15G Grey,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+94,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Gold,3.0,1.0,2.0,0.0,5.0,11.0,-6.0,3.0
+95,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Granite Bay FC Chaos 15,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
+96,Bronze-Region 6 East 2,no state cup,FALL_LEAGUE,Truckee River United FC TRU FC 15 Girls,4.0,1.0,2.0,1.0,7.0,12.0,-5.0,4.0
+97,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,FALL_LEAGUE,Sacramento United 15G White,2.0,1.0,1.0,0.0,5.0,10.0,-5.0,3.0
+98,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,FALL_LEAGUE,Woodland Soccer Club WSC 15G Orange,1.0,1.0,0.0,0.0,5.0,4.0,1.0,3.0
+99,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,STATE_CUP,Sacramento United 15G White,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+100,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,STATE_CUP,Woodland Soccer Club WSC 15G Orange,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,Sacramento Soccer Alliance 15G Blue,2.0,0.0,1.0,1.0,5.0,7.0,-2.0,1.0
+102,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group G,STATE_CUP,Sacramento Soccer Alliance 15G Blue,1.0,0.0,1.0,0.0,0.0,7.0,-7.0,0.0
+103,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Davis Legacy Soccer Club Davis Legacy 15G White,2.0,0.0,1.0,1.0,6.0,7.0,-1.0,1.0
+104,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group H,STATE_CUP,Davis Legacy Soccer Club Davis Legacy 15G White,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
+105,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,American River FC Freedom 15 Blue,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+106,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G EG,2.0,0.0,1.0,1.0,4.0,7.0,-3.0,1.0
+107,Bronze-Region 6 West 1,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G NF,2.0,2.0,0.0,0.0,13.0,3.0,10.0,6.0
+108,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,FALL_LEAGUE,East Sacramento Youth Soccer Club 2015 East Sac Storm,3.0,0.0,3.0,0.0,1.0,14.0,-13.0,0.0
+109,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,FALL_LEAGUE,Sacramento Soccer Alliance 15G White,3.0,2.0,1.0,0.0,14.0,7.0,7.0,6.0
+110,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,STATE_CUP,East Sacramento Youth Soccer Club 2015 East Sac Storm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,STATE_CUP,Sacramento Soccer Alliance 15G White,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
+112,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Union Sacramento FC Union FC 15G JDP,3.0,3.0,0.0,0.0,19.0,2.0,17.0,9.0
+113,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,FALL_LEAGUE,Woodland Soccer Club WSC 15G White,3.0,0.0,3.0,0.0,3.0,17.0,-14.0,0.0
+114,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,STATE_CUP,Union Sacramento FC Union FC 15G JDP,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
+115,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,STATE_CUP,Woodland Soccer Club WSC 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Bronze-Region 6 West 2,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G GK,3.0,2.0,1.0,0.0,10.0,12.0,-2.0,6.0
+117,Bronze-Region 6 West 2,no state cup,FALL_LEAGUE,Vacaville United Soccer Club VUSC 2015 Girls Elite,3.0,2.0,1.0,0.0,13.0,8.0,5.0,6.0
+118,Bronze-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,CV Futbol Academy CVFA 15G Black,3.0,2.0,0.0,1.0,17.0,3.0,14.0,7.0
+119,Bronze-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,Turlock Academica Jrs Turlock Academica Jrs 15G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,Bronze-Region 8,U10 Girls Gold/Silver-Group K,STATE_CUP,CV Futbol Academy CVFA 15G Black,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+121,Bronze-Region 8,U10 Girls Gold/Silver-Group K,STATE_CUP,Turlock Academica Jrs Turlock Academica Jrs 15G,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+122,Bronze-Region 8,no state cup,FALL_LEAGUE,Atwater Kaos Futbol Club Kaos 2015G Blue Silva,2.0,0.0,2.0,0.0,1.0,12.0,-11.0,0.0
+123,Bronze-Region 8,no state cup,FALL_LEAGUE,Merced United FC MUFC 2015G White,2.0,0.0,2.0,0.0,1.0,8.0,-7.0,0.0
+124,Bronze-Region 8,no state cup,FALL_LEAGUE,Sierra United Soccer Club Sierra United 15G,3.0,2.0,0.0,1.0,7.0,3.0,4.0,7.0
+125,Bronze-South  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Marin FC Marin FC G15Steel,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+126,Bronze-South  Region 5,U10 Girls Bronze-Group H,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers White 2015,2.0,0.0,2.0,0.0,3.0,7.0,-4.0,0.0
+127,Bronze-South  Region 5,U10 Girls Bronze-Group H,STATE_CUP,Marin FC Marin FC G15Steel,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
+128,Bronze-South  Region 5,U10 Girls Bronze-Group H,STATE_CUP,Mill Valley Soccer Club MVSC Rockers White 2015,1.0,1.0,0.0,0.0,4.0,0.0,4.0,3.0
+129,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,North Marin United North Marin United '15 Girls Esteem,2.0,2.0,0.0,0.0,7.0,5.0,2.0,6.0
+130,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,Ross Valley Breakers FC Breakers 15G,2.0,2.0,0.0,0.0,7.0,3.0,4.0,6.0
+131,Bronze-South  Region 5,U10 Girls Bronze-Group I,FALL_LEAGUE,Tiburon Peninsula Soccer Club TPSC Sharks 2015 Girls,2.0,1.0,1.0,0.0,7.0,5.0,2.0,3.0
+132,Bronze-South  Region 5,U10 Girls Bronze-Group I,STATE_CUP,North Marin United North Marin United '15 Girls Esteem,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,Bronze-South  Region 5,U10 Girls Bronze-Group I,STATE_CUP,Ross Valley Breakers FC Breakers 15G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,Bronze-South  Region 5,U10 Girls Bronze-Group I,STATE_CUP,Tiburon Peninsula Soccer Club TPSC Sharks 2015 Girls,1.0,0.0,1.0,0.0,3.0,5.0,-2.0,0.0
+135,Bronze-South  Region 5,no state cup,FALL_LEAGUE,Corte Madera Football Club Corte Madera FC Girls White 2015,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+136,Copper-Region 1  North,U10 Girls Bronze-Group I,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes Red 15G,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+137,Copper-Region 1  North,U10 Girls Bronze-Group I,STATE_CUP,Peninsula Youth Soccer Peninsula SC Tornadoes Red 15G,1.0,1.0,0.0,0.0,5.0,3.0,2.0,3.0
+138,Copper-Region 1  North,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC Blue,1.0,1.0,0.0,0.0,8.0,1.0,7.0,3.0
+139,Copper-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Purple,1.0,0.0,1.0,0.0,1.0,8.0,-7.0,0.0
+140,Copper-Region 1  North,no state cup,FALL_LEAGUE,Girls Unite Girls Unite 2015G Hope White,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+141,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Bruno Lowen 83 Cheetahs White 15/16G,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
+142,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Francisco Glens Soccer Club SF Glens 15G Black,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+143,Copper-Region 1  North,no state cup,FALL_LEAGUE,San Mateo County FC SMC 15G Academy Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,Copper-Region 1  South,no state cup,FALL_LEAGUE,ALBION SC Silicon Valley East Bay EB G15 Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,Copper-Region 1  South,no state cup,FALL_LEAGUE,AYSO United Silicon Valley United Silicon Valley 15G Blue,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+146,Copper-Region 1  South,no state cup,FALL_LEAGUE,Allstars United 15G Black,2.0,0.0,2.0,0.0,2.0,10.0,-8.0,0.0
+147,Copper-Region 1  South,no state cup,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Gold,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
+148,Copper-Region 1  South,no state cup,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G Red,2.0,0.0,2.0,0.0,2.0,13.0,-11.0,0.0
+149,Copper-Region 1  South,no state cup,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes White 15G,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+150,Copper-Region 1  South,no state cup,FALL_LEAGUE,Red Star Soccer Academy Red Star 15G White,2.0,1.0,0.0,1.0,11.0,5.0,6.0,4.0
+151,Copper-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G White,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+152,Copper-Region 1  South,no state cup,FALL_LEAGUE,WSC Crush WSC Crush 15 Girls Orange,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
+153,Copper-Region 1 Central,U10 Girls Bronze-Group K,FALL_LEAGUE,Sunnyvale Alliance SC 15G Red,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+154,Copper-Region 1 Central,U10 Girls Bronze-Group K,STATE_CUP,Sunnyvale Alliance SC 15G Red,2.0,0.0,2.0,0.0,2.0,12.0,-10.0,0.0
+155,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Team,3.0,0.0,2.0,1.0,5.0,17.0,-12.0,1.0
+156,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Belmont United Soccer Club Belmont United 15G Wave FC White,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
+157,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Central Valley San Jose SC CVSJ 15G Queen Cobras,3.0,2.0,0.0,1.0,15.0,1.0,14.0,7.0
+158,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Milpitas YSL FC Milpitas Wildcats 15,2.0,0.0,2.0,0.0,2.0,16.0,-14.0,0.0
+159,Copper-Region 1 Central,no state cup,FALL_LEAGUE,San Carlos United Soccer Club San Carlos United SC 15G White,2.0,0.0,0.0,2.0,3.0,3.0,0.0,2.0
+160,Copper-Region 1 Central,no state cup,FALL_LEAGUE,Sentinels Soccer Club 2015 SENTINELS ACADEMY GIRLS,2.0,1.0,1.0,0.0,11.0,5.0,6.0,3.0
+161,Copper-Region 2,U10 Girls Bronze-Group K,FALL_LEAGUE,De Anza Force Force 15G Elite,2.0,0.0,1.0,1.0,5.0,8.0,-3.0,1.0
+162,Copper-Region 2,U10 Girls Bronze-Group K,STATE_CUP,De Anza Force Force 15G Elite,1.0,0.0,1.0,0.0,1.0,10.0,-9.0,0.0
+163,Copper-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G Yellow,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
+164,Copper-Region 2,no state cup,FALL_LEAGUE,Audax Soccer Club Audax 2015G Orange,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+165,Copper-Region 2,no state cup,FALL_LEAGUE,Hollister Tremors Hollister Tremors 2015G Phoenix,3.0,1.0,1.0,1.0,13.0,13.0,0.0,4.0
+166,Copper-Region 2,no state cup,FALL_LEAGUE,Los Gatos United Soccer Club 2015G III,3.0,1.0,1.0,1.0,10.0,12.0,-2.0,4.0
+167,Copper-Region 2,no state cup,FALL_LEAGUE,North Valley Youth Soccer League NV/SJ United 15G White Ladybugs,4.0,3.0,1.0,0.0,17.0,12.0,5.0,9.0
+168,Copper-Region 2,no state cup,FALL_LEAGUE,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G Red,4.0,1.0,3.0,0.0,8.0,12.0,-4.0,3.0
+169,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 WHITE,3.0,0.0,2.0,1.0,4.0,7.0,-3.0,1.0
+170,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz Mid-County Youth Soccer Club SURF 15G,2.0,0.0,2.0,0.0,1.0,5.0,-4.0,0.0
+171,Copper-Region 2,no state cup,FALL_LEAGUE,Santa Cruz United Football Club 2015G Blue,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+172,Copper-Region 2,no state cup,FALL_LEAGUE,Scotts Valley San Lorenzo Valley Youth Soccer Club Valley United 15G,4.0,2.0,1.0,1.0,8.0,8.0,0.0,7.0
+173,Copper-Region 3,U10 Girls Bronze-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC Wolves 15F,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
+174,Copper-Region 3,U10 Girls Bronze-Group A,STATE_CUP,Mustang Soccer Mustang SC Wolves 15F,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+175,Copper-Region 3,U10 Girls Bronze-Group B,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Select II,2.0,1.0,1.0,0.0,10.0,5.0,5.0,3.0
+176,Copper-Region 3,U10 Girls Bronze-Group B,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Select II,1.0,0.0,1.0,0.0,3.0,7.0,-4.0,0.0
+177,Copper-Region 3,U10 Girls Bronze-Group D,FALL_LEAGUE,East Bay Eclipse Soccer Club Eclipse 2015 Girls Solar,2.0,2.0,0.0,0.0,11.0,1.0,10.0,6.0
+178,Copper-Region 3,U10 Girls Bronze-Group D,STATE_CUP,East Bay Eclipse Soccer Club Eclipse 2015 Girls Solar,1.0,0.0,1.0,0.0,3.0,6.0,-3.0,0.0
+179,Copper-Region 3,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G Sky,2.0,1.0,0.0,1.0,12.0,2.0,10.0,4.0
+180,Copper-Region 3,no state cup,FALL_LEAGUE,Dublin United Dublin United 15G Black,4.0,0.0,4.0,0.0,0.0,35.0,-35.0,0.0
+181,Copper-Region 3,no state cup,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Evo I,2.0,1.0,1.0,0.0,6.0,8.0,-2.0,3.0
+182,Copper-Region 3,no state cup,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Evo II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183,Copper-Region 3,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G Alliance,3.0,3.0,0.0,0.0,15.0,2.0,13.0,9.0
+184,Copper-Region 3,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Grey,3.0,1.0,1.0,1.0,10.0,5.0,5.0,4.0
+185,Copper-Region 4,U10 Girls Bronze-Group A,FALL_LEAGUE,Alameda Soccer Club Alameda SC Islanders 15G White,2.0,1.0,0.0,1.0,10.0,4.0,6.0,4.0
+186,Copper-Region 4,U10 Girls Bronze-Group A,FALL_LEAGUE,Piedmont SC Highlanders 2015G Grey,2.0,0.0,2.0,0.0,1.0,8.0,-7.0,0.0
+187,Copper-Region 4,U10 Girls Bronze-Group A,STATE_CUP,Alameda Soccer Club Alameda SC Islanders 15G White,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+188,Copper-Region 4,U10 Girls Bronze-Group A,STATE_CUP,Piedmont SC Highlanders 2015G Grey,1.0,0.0,1.0,0.0,0.0,10.0,-10.0,0.0
+189,Copper-Region 4,U10 Girls Bronze-Group B,FALL_LEAGUE,Football Club Alliance FCA 15G Blue,2.0,1.0,1.0,0.0,16.0,9.0,7.0,3.0
+190,Copper-Region 4,U10 Girls Bronze-Group B,STATE_CUP,Football Club Alliance FCA 15G Blue,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+191,Copper-Region 4,no state cup,FALL_LEAGUE,Clippers FC 2015 Girls Blue,1.0,0.0,1.0,0.0,3.0,16.0,-13.0,0.0
+192,Copper-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Premier II,2.0,1.0,1.0,0.0,3.0,4.0,-1.0,3.0
+193,Copper-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Red,2.0,2.0,0.0,0.0,5.0,2.0,3.0,6.0
+194,Copper-Region 4,no state cup,FALL_LEAGUE,Richmond Sol Cobras RSOLFC15G,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+195,Copper-Region 4,no state cup,FALL_LEAGUE,Richmond United SC Richmond United Panthers,2.0,1.0,0.0,1.0,10.0,4.0,6.0,4.0
+196,Gold-Region 1,U10 Girls State/Premier-Group K,FALL_LEAGUE,JSC Soccer Club JSC 15G Black,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+197,Gold-Region 1,U10 Girls State/Premier-Group K,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G Black,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+198,Gold-Region 1,U10 Girls State/Premier-Group K,STATE_CUP,JSC Soccer Club JSC 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Gold-Region 1,U10 Girls State/Premier-Group K,STATE_CUP,OV Toros FC OV Toros FC 2015G Black,1.0,1.0,0.0,0.0,6.0,2.0,4.0,3.0
+200,Gold-Region 1,U10 Girls State/Premier-Group L,FALL_LEAGUE,Dnamo FC Dnamo FC Ajax,3.0,0.0,3.0,0.0,7.0,21.0,-14.0,0.0
+201,Gold-Region 1,U10 Girls State/Premier-Group L,FALL_LEAGUE,Santa Clara Sporting Santa Clara Sporting 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,Gold-Region 1,U10 Girls State/Premier-Group L,STATE_CUP,Dnamo FC Dnamo FC Ajax,1.0,0.0,1.0,0.0,1.0,6.0,-5.0,0.0
+203,Gold-Region 1,U10 Girls State/Premier-Group L,STATE_CUP,Santa Clara Sporting Santa Clara Sporting 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Girls Unite Girls Unite 2015G Fierce Purple,2.0,0.0,2.0,0.0,0.0,9.0,-9.0,0.0
+205,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona White,3.0,1.0,2.0,0.0,1.0,8.0,-7.0,3.0
+206,Gold-Region 1,U10 Girls State/Premier-Group M,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G Pre Academy,2.0,2.0,0.0,0.0,9.0,2.0,7.0,6.0
+207,Gold-Region 1,U10 Girls State/Premier-Group M,STATE_CUP,Girls Unite Girls Unite 2015G Fierce Purple,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
+208,Gold-Region 1,U10 Girls State/Premier-Group M,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona White,2.0,1.0,1.0,0.0,6.0,6.0,0.0,3.0
+209,Gold-Region 1,U10 Girls State/Premier-Group M,STATE_CUP,Palo Alto SC Palo Alto SC 15G Pre Academy,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
+210,Gold-Region 1,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Gold,3.0,2.0,1.0,0.0,13.0,9.0,4.0,6.0
+211,Gold-Region 1,no state cup,FALL_LEAGUE,Monterey County Soccer-ECFC Salinas ECFC 15G,3.0,2.0,1.0,0.0,13.0,3.0,10.0,6.0
+212,Gold-Region 1,no state cup,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 16G Spurs Blue,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+213,Gold-Region 1,no state cup,FALL_LEAGUE,Santa Clara Sporting Santa Clara Sporting 16G Green,3.0,2.0,1.0,0.0,12.0,6.0,6.0,6.0
+214,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Livermore Fusion SC Fusion SC 2015 Girls Maroon,2.0,0.0,2.0,0.0,5.0,8.0,-3.0,0.0
+215,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC 15G Elite I,3.0,1.0,2.0,0.0,5.0,8.0,-3.0,3.0
+216,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Piedmont SC Highlanders 2015G Purple,3.0,3.0,0.0,0.0,13.0,6.0,7.0,9.0
+217,Gold-Region 3/4,U10 Girls State/Premier-Group A,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Pre-ECNL,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
+218,Gold-Region 3/4,U10 Girls State/Premier-Group A,STATE_CUP,Livermore Fusion SC Fusion SC 2015 Girls Maroon,2.0,1.0,0.0,1.0,5.0,4.0,1.0,4.0
+219,Gold-Region 3/4,U10 Girls State/Premier-Group A,STATE_CUP,Mustang Soccer Mustang SC 15G Elite I,1.0,0.0,1.0,0.0,0.0,2.0,-2.0,0.0
+220,Gold-Region 3/4,U10 Girls State/Premier-Group A,STATE_CUP,Piedmont SC Highlanders 2015G Purple,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+221,Gold-Region 3/4,U10 Girls State/Premier-Group A,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Pre-ECNL,2.0,1.0,1.0,0.0,4.0,3.0,1.0,3.0
+222,Gold-Region 3/4,U10 Girls State/Premier-Group B,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G Orange,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
+223,Gold-Region 3/4,U10 Girls State/Premier-Group B,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Blue,2.0,1.0,1.0,0.0,4.0,4.0,0.0,3.0
+224,Gold-Region 3/4,U10 Girls State/Premier-Group B,STATE_CUP,1974 Newark FC 1974 NFC 15G Orange,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
+225,Gold-Region 3/4,U10 Girls State/Premier-Group B,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Blue,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
+226,Gold-Region 3/4,no state cup,FALL_LEAGUE,California Magic Soccer Club Cal Magic 2015G East,3.0,1.0,2.0,0.0,7.0,10.0,-3.0,3.0
+227,Gold-Region 3/4,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G Navy,2.0,0.0,2.0,0.0,2.0,6.0,-4.0,0.0
+228,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Black Oaks Youth Soccer Club Black Oaks Little Comets 2015G,4.0,2.0,1.0,1.0,14.0,9.0,5.0,7.0
+229,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers 2015,2.0,0.0,1.0,1.0,1.0,5.0,-4.0,1.0
+230,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Napa United Napa United Pre-Academy 15G Premier,1.0,1.0,0.0,0.0,6.0,4.0,2.0,3.0
+231,Gold-Region 5,U10 Girls State/Premier-Group G,FALL_LEAGUE,Sonoma Valley United SVU Girls 15 Green,3.0,0.0,3.0,0.0,3.0,15.0,-12.0,0.0
+232,Gold-Region 5,U10 Girls State/Premier-Group G,STATE_CUP,Black Oaks Youth Soccer Club Black Oaks Little Comets 2015G,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
+233,Gold-Region 5,U10 Girls State/Premier-Group G,STATE_CUP,Mill Valley Soccer Club MVSC Rockers 2015,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
+234,Gold-Region 5,U10 Girls State/Premier-Group G,STATE_CUP,Napa United Napa United Pre-Academy 15G Premier,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Gold-Region 5,U10 Girls State/Premier-Group G,STATE_CUP,Sonoma Valley United SVU Girls 15 Green,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,Marin FC Marin FC G15Blue,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+237,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,North Coast Futbol Club North Coast FC 15G Blue,3.0,1.0,1.0,1.0,8.0,6.0,2.0,4.0
+238,Gold-Region 5,U10 Girls State/Premier-Group H,FALL_LEAGUE,Santa Rosa United Soccer Santa Rosa United 15G Gold,4.0,3.0,0.0,1.0,13.0,4.0,9.0,10.0
+239,Gold-Region 5,U10 Girls State/Premier-Group H,STATE_CUP,Marin FC Marin FC G15Blue,2.0,2.0,0.0,0.0,9.0,0.0,9.0,6.0
+240,Gold-Region 5,U10 Girls State/Premier-Group H,STATE_CUP,North Coast Futbol Club North Coast FC 15G Blue,3.0,1.0,2.0,0.0,4.0,10.0,-6.0,3.0
+241,Gold-Region 5,U10 Girls State/Premier-Group H,STATE_CUP,Santa Rosa United Soccer Santa Rosa United 15G Gold,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+242,Gold-Region 6,U10 Girls State/Premier-Group C,FALL_LEAGUE,Rocklin FC Rocklin FC 15G Navy,2.0,2.0,0.0,0.0,6.0,1.0,5.0,6.0
+243,Gold-Region 6,U10 Girls State/Premier-Group C,STATE_CUP,Rocklin FC Rocklin FC 15G Navy,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
+244,Gold-Region 6,U10 Girls State/Premier-Group D,FALL_LEAGUE,Elk Grove Soccer 2015G Elite 1,2.0,0.0,1.0,1.0,4.0,6.0,-2.0,1.0
+245,Gold-Region 6,U10 Girls State/Premier-Group D,FALL_LEAGUE,Greenhaven Soccer Club Greenhaven SC 15G I,3.0,2.0,1.0,0.0,9.0,2.0,7.0,6.0
+246,Gold-Region 6,U10 Girls State/Premier-Group D,STATE_CUP,Elk Grove Soccer 2015G Elite 1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+247,Gold-Region 6,U10 Girls State/Premier-Group D,STATE_CUP,Greenhaven Soccer Club Greenhaven SC 15G I,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+248,Gold-Region 6,U10 Girls State/Premier-Group E,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Pre-ECNL,3.0,1.0,1.0,1.0,7.0,6.0,1.0,4.0
+249,Gold-Region 6,U10 Girls State/Premier-Group E,STATE_CUP,Placer United Soccer Club Placer United 15G Pre-ECNL,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
+250,Gold-Region 6,U10 Girls State/Premier-Group F,FALL_LEAGUE,Lincoln FC Lincoln FC 15G,2.0,0.0,2.0,0.0,0.0,8.0,-8.0,0.0
+251,Gold-Region 6,U10 Girls State/Premier-Group F,FALL_LEAGUE,San Juan Soccer Club Spirits 15 Blue,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+252,Gold-Region 6,U10 Girls State/Premier-Group F,STATE_CUP,Lincoln FC Lincoln FC 15G,1.0,0.0,1.0,0.0,0.0,5.0,-5.0,0.0
+253,Gold-Region 6,U10 Girls State/Premier-Group F,STATE_CUP,San Juan Soccer Club Spirits 15 Blue,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
+254,Gold-Region 6,no state cup,FALL_LEAGUE,Reno APEX Soccer Club 2015 Girls Premier,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
+255,Gold-Region 6,no state cup,STATE_CUP,Reno APEX Soccer Club 2015 Girls Premier,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+256,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,Clovis Crossfire  15G Blue,3.0,1.0,0.0,2.0,4.0,3.0,1.0,5.0
+257,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,Kings County Soccer Club Kings County 15G Orange,3.0,1.0,2.0,0.0,5.0,6.0,-1.0,3.0
+258,Gold-Region 7,U10 Girls State/Premier-Group I,FALL_LEAGUE,South Valley United Soccer Club South Valley United G15 Black,2.0,1.0,0.0,1.0,4.0,2.0,2.0,4.0
+259,Gold-Region 7,U10 Girls State/Premier-Group I,STATE_CUP,Clovis Crossfire  15G Blue,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+260,Gold-Region 7,U10 Girls State/Premier-Group I,STATE_CUP,Kings County Soccer Club Kings County 15G Orange,1.0,0.0,1.0,0.0,0.0,8.0,-8.0,0.0
+261,Gold-Region 7,U10 Girls State/Premier-Group I,STATE_CUP,South Valley United Soccer Club South Valley United G15 Black,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+262,Gold-Region 7,U10 Girls State/Premier-Group J,FALL_LEAGUE,California Odyssey Soccer Club COSC 15G Red,2.0,0.0,1.0,1.0,4.0,6.0,-2.0,1.0
+263,Gold-Region 7,U10 Girls State/Premier-Group J,STATE_CUP,California Odyssey Soccer Club COSC 15G Red,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,Gold-Region 8,U10 Girls State/Premier-Group D,FALL_LEAGUE,Stockton Storm Futbol Club Stockton Storm FC 2015 Girls Blue,3.0,1.0,2.0,0.0,3.0,15.0,-12.0,3.0
+265,Gold-Region 8,U10 Girls State/Premier-Group D,STATE_CUP,Stockton Storm Futbol Club Stockton Storm FC 2015 Girls Blue,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+266,Gold-Region 8,U10 Girls State/Premier-Group I,FALL_LEAGUE,CV Futbol Academy CVFA 15G Academy,2.0,2.0,0.0,0.0,8.0,2.0,6.0,6.0
+267,Gold-Region 8,U10 Girls State/Premier-Group I,STATE_CUP,CV Futbol Academy CVFA 15G Academy,1.0,1.0,0.0,0.0,8.0,0.0,8.0,3.0
+268,Gold-Region 8,U10 Girls State/Premier-Group J,FALL_LEAGUE,MANTECA FUTBOL CLUB Manteca Futbol Club 15G,1.0,1.0,0.0,0.0,10.0,2.0,8.0,3.0
+269,Gold-Region 8,U10 Girls State/Premier-Group J,STATE_CUP,MANTECA FUTBOL CLUB Manteca Futbol Club 15G,1.0,0.0,0.0,1.0,4.0,4.0,0.0,1.0
+270,Gold-Region 8,no state cup,FALL_LEAGUE,Ajax United Ajax United 15G Green Pre-GA,2.0,0.0,2.0,0.0,2.0,4.0,-2.0,0.0
+271,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Girls Unite Girls Unite 2015G Wonder Black,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+272,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,San Francisco Glens Soccer Club SF Glens Pre-Academy 15G,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
+273,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,STATE_CUP,Girls Unite Girls Unite 2015G Wonder Black,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+274,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,STATE_CUP,San Francisco Glens Soccer Club SF Glens Pre-Academy 15G,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+275,Silver-Region 1  North,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Black,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+276,Silver-Region 1  North,U10 Girls Gold/Silver-Group M,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Black,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+277,Silver-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,Silver-Region 1  North,no state cup,FALL_LEAGUE,Burlingame Soccer Club Burlingame SC 2015G White,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
+279,Silver-Region 1  North,no state cup,FALL_LEAGUE,Dnamo FC Dnamo FC Arsenal,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
+280,Silver-Region 1  North,no state cup,FALL_LEAGUE,SF United FC SF United G15 Phoenix,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+281,Silver-Region 1  South,U10 Girls Bronze-Group C,FALL_LEAGUE,WSC Crush WSC Crush 15 Girls Black,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+282,Silver-Region 1  South,U10 Girls Bronze-Group C,STATE_CUP,WSC Crush WSC Crush 15 Girls Black,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+283,Silver-Region 1  South,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Elite Team,3.0,1.0,2.0,0.0,4.0,5.0,-1.0,3.0
+284,Silver-Region 1  South,U10 Girls Gold/Silver-Group L,STATE_CUP,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Elite Team,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,Silver-Region 1  South,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,Allstars United 15G Red,2.0,0.0,1.0,1.0,1.0,2.0,-1.0,1.0
+286,Silver-Region 1  South,U10 Girls Gold/Silver-Group M,STATE_CUP,Allstars United 15G Red,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+287,Silver-Region 1  South,no state cup,FALL_LEAGUE,PSV Union FC Academy PSV Union FC Academy 2015/2016,2.0,0.0,2.0,0.0,1.0,7.0,-6.0,0.0
+288,Silver-Region 1  South,no state cup,FALL_LEAGUE,Palo Alto SC Palo Alto SC 15G White,2.0,1.0,0.0,1.0,1.0,0.0,1.0,4.0
+289,Silver-Region 1  South,no state cup,FALL_LEAGUE,Peninsula Youth Soccer Peninsula SC Tornadoes Blue 15G,2.0,1.0,1.0,0.0,3.0,5.0,-2.0,3.0
+290,Silver-Region 1  South,no state cup,FALL_LEAGUE,Stanford Strikers FC Stanford Strikers 15G Black,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+291,Silver-Region 2,U10 Girls Gold/Silver-Group L,FALL_LEAGUE,Ravenswood Juniors Soccer Club Ravenswood SC G15/16 Roma,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
+292,Silver-Region 2,U10 Girls Gold/Silver-Group L,STATE_CUP,Ravenswood Juniors Soccer Club Ravenswood SC G15/16 Roma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+293,Silver-Region 2,U10 Girls Gold/Silver-Group M,FALL_LEAGUE,MVLA San Jose MVLA San Jose 15G Blue,3.0,1.0,2.0,0.0,3.0,10.0,-7.0,3.0
+294,Silver-Region 2,U10 Girls Gold/Silver-Group M,STATE_CUP,MVLA San Jose MVLA San Jose 15G Blue,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+295,Silver-Region 2,U10 Girls State/Premier-Group K,FALL_LEAGUE,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Green,3.0,3.0,0.0,0.0,15.0,4.0,11.0,9.0
+296,Silver-Region 2,U10 Girls State/Premier-Group K,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Green,1.0,0.0,1.0,0.0,2.0,6.0,-4.0,0.0
+297,Silver-Region 2,U10 Girls State/Premier-Group M,FALL_LEAGUE,Los Gatos United Soccer Club 2015G I,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
+298,Silver-Region 2,U10 Girls State/Premier-Group M,STATE_CUP,Los Gatos United Soccer Club 2015G I,2.0,0.0,2.0,0.0,3.0,10.0,-7.0,0.0
+299,Silver-Region 2,no state cup,FALL_LEAGUE,Almaden FC Almaden FC Quicksilver 15G Black,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+300,Silver-Region 2,no state cup,FALL_LEAGUE,OV Toros FC OV Toros FC 2015G Red,2.0,0.0,2.0,0.0,2.0,8.0,-6.0,0.0
+301,Silver-Region 2,no state cup,FALL_LEAGUE,Santa Clara Youth Soccer League SC LIONS 2015G RED - MCINTOSH,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
+302,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Mustang Soccer Mustang SC 15G Elite II,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+303,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Pleasanton Rage Pleasanton RAGE 15 Premier,2.0,0.0,2.0,0.0,1.0,11.0,-10.0,0.0
+304,Silver-Region 3,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G White,2.0,2.0,0.0,0.0,6.0,0.0,6.0,6.0
+305,Silver-Region 3,U10 Girls Gold/Silver-Group A,STATE_CUP,Mustang Soccer Mustang SC 15G Elite II,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+306,Silver-Region 3,U10 Girls Gold/Silver-Group A,STATE_CUP,Pleasanton Rage Pleasanton RAGE 15 Premier,1.0,0.0,1.0,0.0,0.0,1.0,-1.0,0.0
+307,Silver-Region 3,U10 Girls Gold/Silver-Group A,STATE_CUP,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G White,1.0,1.0,0.0,0.0,1.0,0.0,1.0,3.0
+308,Silver-Region 3,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,1974 Newark FC 1974 NFC 15G Black,2.0,1.0,1.0,0.0,3.0,6.0,-3.0,3.0
+309,Silver-Region 3,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,Revolution FC Revolution 15G Blue,4.0,0.0,4.0,0.0,7.0,16.0,-9.0,0.0
+310,Silver-Region 3,U10 Girls Gold/Silver-Group C,STATE_CUP,1974 Newark FC 1974 NFC 15G Black,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
+311,Silver-Region 3,U10 Girls Gold/Silver-Group C,STATE_CUP,Revolution FC Revolution 15G Blue,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+312,Silver-Region 3,no state cup,FALL_LEAGUE,Mt Diablo Mustang Soccer 2015G Red,4.0,1.0,3.0,0.0,6.0,10.0,-4.0,3.0
+313,Silver-Region 3,no state cup,FALL_LEAGUE,Mustang Soccer Mustang SC 16G Pre-ECNL,3.0,3.0,0.0,0.0,14.0,2.0,12.0,9.0
+314,Silver-Region 3,no state cup,FALL_LEAGUE,San Ramon FC San Ramon FC 15G White,2.0,2.0,0.0,0.0,5.0,1.0,4.0,6.0
+315,Silver-Region 4,U10 Girls Gold/Silver-Group A,FALL_LEAGUE,Castro Valley Soccer Club Castro Valley SC CVSC United Green 2015 G,2.0,2.0,0.0,0.0,11.0,3.0,8.0,6.0
+316,Silver-Region 4,U10 Girls Gold/Silver-Group A,STATE_CUP,Castro Valley Soccer Club Castro Valley SC CVSC United Green 2015 G,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+317,Silver-Region 4,U10 Girls Gold/Silver-Group B,FALL_LEAGUE,Alameda Soccer Club Alameda SC Islanders 15G Red,2.0,1.0,1.0,0.0,9.0,6.0,3.0,3.0
+318,Silver-Region 4,U10 Girls Gold/Silver-Group B,STATE_CUP,Alameda Soccer Club Alameda SC Islanders 15G Red,1.0,1.0,0.0,0.0,6.0,2.0,4.0,3.0
+319,Silver-Region 4,U10 Girls Gold/Silver-Group D,FALL_LEAGUE,Mustang Soccer Mustang SC Thunder Cats 15F,4.0,4.0,0.0,0.0,13.0,6.0,7.0,12.0
+320,Silver-Region 4,U10 Girls Gold/Silver-Group D,FALL_LEAGUE,Piedmont SC Highlanders 2015G White,3.0,0.0,3.0,0.0,3.0,23.0,-20.0,0.0
+321,Silver-Region 4,U10 Girls Gold/Silver-Group D,STATE_CUP,Mustang Soccer Mustang SC Thunder Cats 15F,2.0,2.0,0.0,0.0,10.0,3.0,7.0,6.0
+322,Silver-Region 4,U10 Girls Gold/Silver-Group D,STATE_CUP,Piedmont SC Highlanders 2015G White,2.0,1.0,1.0,0.0,6.0,7.0,-1.0,3.0
+323,Silver-Region 4,U10 Girls State/Premier-Group B,FALL_LEAGUE,Clippers FC 2015 Girls Red,1.0,1.0,0.0,0.0,10.0,1.0,9.0,3.0
+324,Silver-Region 4,U10 Girls State/Premier-Group B,STATE_CUP,Clippers FC 2015 Girls Red,1.0,0.0,1.0,0.0,0.0,8.0,-8.0,0.0
+325,Silver-Region 4,no state cup,FALL_LEAGUE,East Bay United EBUSC Bay Oaks 15G Premier,3.0,1.0,2.0,0.0,8.0,10.0,-2.0,3.0
+326,Silver-Region 4,no state cup,FALL_LEAGUE,Eastshore Alliance FC Alliance 2015G Navy,3.0,0.0,3.0,0.0,4.0,9.0,-5.0,0.0
+327,Silver-Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Corte Madera Football Club Corte Madera FC Girls Red 2015,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
+328,Silver-Region 5,U10 Girls Gold/Silver-Group I,FALL_LEAGUE,Mill Valley Soccer Club MVSC Rockers Red 2015,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
+329,Silver-Region 5,U10 Girls Gold/Silver-Group I,STATE_CUP,Corte Madera Football Club Corte Madera FC Girls Red 2015,2.0,0.0,1.0,1.0,5.0,7.0,-2.0,1.0
+330,Silver-Region 5,U10 Girls Gold/Silver-Group I,STATE_CUP,Mill Valley Soccer Club MVSC Rockers Red 2015,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+331,Silver-Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Marin FC Marin FC G15Red,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+332,Silver-Region 5,U10 Girls Gold/Silver-Group J,FALL_LEAGUE,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G The Reds,2.0,2.0,0.0,0.0,7.0,3.0,4.0,6.0
+333,Silver-Region 5,U10 Girls Gold/Silver-Group J,STATE_CUP,Marin FC Marin FC G15Red,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+334,Silver-Region 5,U10 Girls Gold/Silver-Group J,STATE_CUP,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G The Reds,1.0,1.0,0.0,0.0,6.0,0.0,6.0,3.0
+335,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Blues FC Blues 15G Navy,3.0,1.0,1.0,1.0,9.0,6.0,3.0,4.0
+336,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Butte United Soccer Club BUSC 2015G Black,3.0,3.0,0.0,0.0,13.0,4.0,9.0,9.0
+337,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,STATE_CUP,Blues FC Blues 15G Navy,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+338,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,STATE_CUP,Butte United Soccer Club BUSC 2015G Black,1.0,1.0,0.0,0.0,6.0,1.0,5.0,3.0
+339,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,El Dorado Hills Soccer Club EDHSC 15G Gold,3.0,2.0,1.0,0.0,8.0,10.0,-2.0,6.0
+340,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,Folsom Lake Surf FLS 15G Academy I,4.0,0.0,3.0,1.0,5.0,14.0,-9.0,1.0
+341,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,STATE_CUP,El Dorado Hills Soccer Club EDHSC 15G Gold,1.0,0.0,1.0,0.0,4.0,6.0,-2.0,0.0
+342,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,STATE_CUP,Folsom Lake Surf FLS 15G Academy I,1.0,1.0,0.0,0.0,6.0,4.0,2.0,3.0
+343,Silver-Region 6 East 1,U10 Girls State/Premier-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G Green,3.0,1.0,1.0,1.0,18.0,9.0,9.0,4.0
+344,Silver-Region 6 East 1,U10 Girls State/Premier-Group F,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G Green,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+345,Silver-Region 6 East 1,no state cup,FALL_LEAGUE,Loomis Youth Soccer Club 2015 Loomis Firebirds,2.0,0.0,1.0,1.0,2.0,12.0,-10.0,1.0
+346,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Roseville Youth Soccer Club Roseville SC 2015G White,4.0,0.0,2.0,2.0,5.0,11.0,-6.0,2.0
+347,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,FALL_LEAGUE,Yuba Elite FC Yuba Elite FC 15G Gold,3.0,0.0,2.0,1.0,5.0,14.0,-9.0,1.0
+348,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,STATE_CUP,Roseville Youth Soccer Club Roseville SC 2015G White,1.0,0.0,1.0,0.0,1.0,6.0,-5.0,0.0
+349,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,STATE_CUP,Yuba Elite FC Yuba Elite FC 15G Gold,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+350,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group G,FALL_LEAGUE,San Juan Soccer Club Spirits 15 White,3.0,1.0,2.0,0.0,7.0,12.0,-5.0,3.0
+351,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group G,STATE_CUP,San Juan Soccer Club Spirits 15 White,1.0,1.0,0.0,0.0,7.0,0.0,7.0,3.0
+352,Silver-Region 6 East 2,U10 Girls State/Premier-Group C,FALL_LEAGUE,Granite Bay FC United 15,4.0,3.0,0.0,1.0,17.0,5.0,12.0,10.0
+353,Silver-Region 6 East 2,U10 Girls State/Premier-Group C,STATE_CUP,Granite Bay FC United 15,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+354,Silver-Region 6 East 2,U10 Girls State/Premier-Group E,FALL_LEAGUE,Rocklin FC Rocklin FC 15G White,3.0,1.0,0.0,2.0,7.0,3.0,4.0,5.0
+355,Silver-Region 6 East 2,U10 Girls State/Premier-Group E,STATE_CUP,Rocklin FC Rocklin FC 15G White,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
+356,Silver-Region 6 East 2,U10 Girls State/Premier-Group F,FALL_LEAGUE,Placer United Soccer Club Placer United 15G Gold,3.0,1.0,0.0,2.0,9.0,5.0,4.0,5.0
+357,Silver-Region 6 East 2,U10 Girls State/Premier-Group F,STATE_CUP,Placer United Soccer Club Placer United 15G Gold,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+358,Silver-Region 6 West,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,IR Academy IR Academy 15G Purple,2.0,0.0,1.0,1.0,4.0,7.0,-3.0,1.0
+359,Silver-Region 6 West,U10 Girls Gold/Silver-Group E,STATE_CUP,IR Academy IR Academy 15G Purple,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+360,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Natomas FA Natomas FA 15G Academy,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
+361,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,FALL_LEAGUE,Vacaville United Soccer Club VUSC 2015 Girls Premier,2.0,1.0,1.0,0.0,7.0,3.0,4.0,3.0
+362,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,STATE_CUP,Natomas FA Natomas FA 15G Academy,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+363,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,STATE_CUP,Vacaville United Soccer Club VUSC 2015 Girls Premier,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
+364,Silver-Region 6 West,U10 Girls State/Premier-Group C,FALL_LEAGUE,Davis Legacy Soccer Club Davis Legacy 15G Red,2.0,0.0,1.0,1.0,2.0,4.0,-2.0,1.0
+365,Silver-Region 6 West,U10 Girls State/Premier-Group C,STATE_CUP,Davis Legacy Soccer Club Davis Legacy 15G Red,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+366,Silver-Region 6 West,U10 Girls State/Premier-Group E,FALL_LEAGUE,Elk Grove Soccer 2015G Elite 2,3.0,3.0,0.0,0.0,8.0,2.0,6.0,9.0
+367,Silver-Region 6 West,U10 Girls State/Premier-Group E,FALL_LEAGUE,Sacramento United 15G Red,3.0,2.0,0.0,1.0,9.0,6.0,3.0,7.0
+368,Silver-Region 6 West,U10 Girls State/Premier-Group E,STATE_CUP,Elk Grove Soccer 2015G Elite 2,1.0,1.0,0.0,0.0,4.0,3.0,1.0,3.0
+369,Silver-Region 6 West,U10 Girls State/Premier-Group E,STATE_CUP,Sacramento United 15G Red,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+370,Silver-Region 6 West,no state cup,FALL_LEAGUE,Elk Grove Soccer 2015G MO,3.0,1.0,1.0,1.0,5.0,8.0,-3.0,4.0
+371,Silver-Region 6 West,no state cup,FALL_LEAGUE,Galt Futbol Club 2015 Galt FC Girls,1.0,0.0,0.0,1.0,3.0,3.0,0.0,1.0
+372,Silver-Region 6 West,no state cup,FALL_LEAGUE,Greenhaven Soccer Club Greenhaven SC 15G II,3.0,1.0,1.0,1.0,7.0,3.0,4.0,4.0
+373,Silver-Region 8,U10 Girls Gold/Silver-Group C,FALL_LEAGUE,West Coast Soccer Tracy West Coast Kaos Krew '15,2.0,0.0,1.0,1.0,3.0,9.0,-6.0,1.0
+374,Silver-Region 8,U10 Girls Gold/Silver-Group C,STATE_CUP,West Coast Soccer Tracy West Coast Kaos Krew '15,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+375,Silver-Region 8,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Manteca Area Soccer League Manteca Area Soccer Rangers United 15G Gold,3.0,0.0,3.0,0.0,1.0,12.0,-11.0,0.0
+376,Silver-Region 8,U10 Girls Gold/Silver-Group E,FALL_LEAGUE,Stockton TLJ FC Stockton TLJ FC Rebels 15/16G,3.0,2.0,0.0,1.0,12.0,5.0,7.0,7.0
+377,Silver-Region 8,U10 Girls Gold/Silver-Group E,STATE_CUP,Manteca Area Soccer League Manteca Area Soccer Rangers United 15G Gold,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+378,Silver-Region 8,U10 Girls Gold/Silver-Group E,STATE_CUP,Stockton TLJ FC Stockton TLJ FC Rebels 15/16G,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+379,Silver-Region 8,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,Oakdale Soccer Club OSC Stallions 2015G Oakies,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+380,Silver-Region 8,U10 Girls Gold/Silver-Group K,STATE_CUP,Oakdale Soccer Club OSC Stallions 2015G Oakies,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+381,Silver-Region 8,U10 Girls State/Premier-Group J,FALL_LEAGUE,Valley Surf Valley Surf 15G Academy I,4.0,3.0,0.0,1.0,19.0,6.0,13.0,10.0
+382,Silver-Region 8,U10 Girls State/Premier-Group J,STATE_CUP,Valley Surf Valley Surf 15G Academy I,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+383,Silver-Region 8,no state cup,FALL_LEAGUE,Merced United FC MUFC 2015G Red,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+384,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,ALBION SC Central Valley ALBION SC Central Valley G15 Academy,3.0,1.0,2.0,0.0,3.0,8.0,-5.0,3.0
+385,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Central Valley Premier FC Central Valley Premier FC Elite G15,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+386,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Clovis Crossfire  15G White,2.0,0.0,2.0,0.0,4.0,6.0,-2.0,0.0
+387,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,FALL_LEAGUE,Kings County Soccer Club Kings County 15G White,2.0,1.0,0.0,1.0,6.0,5.0,1.0,4.0
+388,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,STATE_CUP,ALBION SC Central Valley ALBION SC Central Valley G15 Academy,1.0,0.0,1.0,0.0,1.0,3.0,-2.0,0.0
+389,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,STATE_CUP,Central Valley Premier FC Central Valley Premier FC Elite G15,1.0,1.0,0.0,0.0,4.0,0.0,4.0,3.0
+390,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,STATE_CUP,Clovis Crossfire  15G White,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
+391,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,STATE_CUP,Kings County Soccer Club Kings County 15G White,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
+392,Silver/Bronze-Region 7,U10 Girls Gold/Silver-Group K,FALL_LEAGUE,South Valley United Soccer Club South Valley United G15 White,3.0,1.0,2.0,0.0,9.0,5.0,4.0,3.0
+393,Silver/Bronze-Region 7,U10 Girls Gold/Silver-Group K,STATE_CUP,South Valley United Soccer Club South Valley United G15 White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,FRESNO HEAT FC FRESNO HEAT FC 2015G Starlettes,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
+395,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,Sanger FC Sanger FC - RIPMC FC 15 Girls - Melody,2.0,1.0,1.0,0.0,3.0,8.0,-5.0,3.0
+396,Silver/Bronze-Region 7,no state cup,FALL_LEAGUE,Tulare Force Tulare Force 2015 Girls Blue,3.0,1.0,1.0,1.0,7.0,6.0,1.0,4.0
+397,no region,U10 Girls Bronze-Group A,STATE_CUP,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G White,1.0,1.0,0.0,0.0,10.0,0.0,10.0,3.0
+398,no region,U10 Girls Gold/Silver-Group D,STATE_CUP,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G Red,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+399,no region,U10 Girls Gold/Silver-Group D,STATE_CUP,u10 Girls TBD - 3,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
+400,no region,U10 Girls State/Premier-Group B,STATE_CUP,Mustang Soccer Mustang SC 15G Pre-ECNL,1.0,1.0,0.0,0.0,8.0,0.0,8.0,3.0
+401,no region,U10 Girls State/Premier-Group D,STATE_CUP,Lodi FC Lodi FC 2015G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+402,no region,U10 Girls State/Premier-Group H,STATE_CUP,u10 Girls TBD - 1,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
+403,no region,U10 Girls State/Premier-Group J,STATE_CUP,Ajax United 15G Green Pre-GA,1.0,0.0,0.0,1.0,4.0,4.0,0.0,1.0
+404,no region,U10 Girls State/Premier-Group K,STATE_CUP,Santa Clara Sporting Santa Clara Sporting 15G Green,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+405,no region,U10 Girls State/Premier-Group L,STATE_CUP,Almaden FC Almaden FC Quicksilver 15G Green,1.0,1.0,0.0,0.0,6.0,1.0,5.0,3.0
+406,no region,U10 Girls State/Premier-Group L,STATE_CUP,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,Bronze-North  Region 5,U10 Girls Bronze-Group H,ALL_GAMES,Rohnert Park Soccer Club RP Aftershocks,2.0,2.0,0.0,0.0,7.0,2.0,5.0,6.0
+408,Bronze-North  Region 5,U10 Girls Bronze-Group H,ALL_GAMES,Santa Rosa South YSC Santa Rosa South Tigers,5.0,0.0,3.0,2.0,9.0,19.0,-10.0,2.0
+409,Bronze-North  Region 5,U10 Girls Gold/Silver-Group I,ALL_GAMES,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G Surge,6.0,4.0,0.0,2.0,15.0,5.0,10.0,14.0
+410,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,ALL_GAMES,Napa United Napa United Pre-Academy 15G Elite,2.0,1.0,1.0,0.0,3.0,3.0,0.0,3.0
+411,Bronze-North  Region 5,U10 Girls Gold/Silver-Group J,ALL_GAMES,Sonoma County Premier Sonoma County Premier 2015 Girls,4.0,0.0,3.0,1.0,3.0,13.0,-10.0,1.0
+412,Bronze-North  Region 5,no state cup,ALL_GAMES,Black Oaks Youth Soccer Club Black Oaks Little Lady Oaks 2015G,3.0,0.0,1.0,2.0,6.0,9.0,-3.0,2.0
+413,Bronze-North  Region 5,no state cup,ALL_GAMES,WESCO United WESCO 15G,3.0,1.0,1.0,1.0,8.0,6.0,2.0,4.0
+414,Bronze-Region 1  North,U10 Girls Gold/Silver-Group I,ALL_GAMES,SF Elite SFEA 2015G Blue,1.0,1.0,0.0,0.0,5.0,3.0,2.0,3.0
+415,Bronze-Region 1  North,no state cup,ALL_GAMES,Belmont United Soccer Club Belmont United 15G Wave FC Black,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
+416,Bronze-Region 1  North,no state cup,ALL_GAMES,Dnamo FC Dnamo FC Lazio,1.0,0.0,1.0,0.0,1.0,5.0,-4.0,0.0
+417,Bronze-Region 1  North,no state cup,ALL_GAMES,Girls Unite Girls Unite 2015G Believe Gray,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+418,Bronze-Region 1  North,no state cup,ALL_GAMES,SF Aftershocks FC SF Aftershocks 15G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+419,Bronze-Region 1  North,no state cup,ALL_GAMES,San Bruno Lowen 83 Cheetahs Black 15/16G,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+420,Bronze-Region 1  North,no state cup,ALL_GAMES,San Carlos United Soccer Club San Carlos United SC 15G Blue,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
+421,Bronze-Region 1  North,no state cup,ALL_GAMES,San Francisco Seals SF Seals 15G Black,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+422,Bronze-Region 1  South,U10 Girls Bronze-Group C,ALL_GAMES,Pacifica United Soccer Club Pacifica United SC G2015 Cyclones Blue,2.0,1.0,1.0,0.0,7.0,6.0,1.0,3.0
+423,Bronze-Region 1  South,U10 Girls Bronze-Group K,ALL_GAMES,Bay Area Surf 15G,4.0,3.0,1.0,0.0,21.0,16.0,5.0,9.0
+424,Bronze-Region 1  South,U10 Girls Gold/Silver-Group M,ALL_GAMES,AYSO United Silicon Valley United Silicon Valley 15G Red,3.0,3.0,0.0,0.0,16.0,3.0,13.0,9.0
+425,Bronze-Region 1  South,no state cup,ALL_GAMES,ALBION SC Silicon Valley SM SM G15 Academy,1.0,1.0,0.0,0.0,9.0,1.0,8.0,3.0
+426,Bronze-Region 1  South,no state cup,ALL_GAMES,Burlingame Soccer Club Burlingame SC 2015G Green,2.0,0.0,2.0,0.0,4.0,14.0,-10.0,0.0
+427,Bronze-Region 1  South,no state cup,ALL_GAMES,JSC Soccer Club JSC 15G White,2.0,0.0,2.0,0.0,4.0,10.0,-6.0,0.0
+428,Bronze-Region 1  South,no state cup,ALL_GAMES,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G,1.0,0.0,1.0,0.0,0.0,4.0,-4.0,0.0
+429,Bronze-Region 1  South,no state cup,ALL_GAMES,Red Star Soccer Academy Red Star 15G Red,2.0,1.0,1.0,0.0,8.0,4.0,4.0,3.0
+430,Bronze-Region 1  South,no state cup,ALL_GAMES,Santa Clara Youth Soccer League SC LIONS 2015G BLACK - ARREOLA,2.0,2.0,0.0,0.0,12.0,6.0,6.0,6.0
+431,Bronze-Region 1  South,no state cup,ALL_GAMES,Stanford Strikers FC Stanford Strikers 15G Red,2.0,1.0,1.0,0.0,5.0,9.0,-4.0,3.0
+432,Bronze-Region 2,U10 Girls Bronze-Group K,ALL_GAMES,Monterey Surf Soccer Club Monterey Surf 15G Academy I,3.0,2.0,1.0,0.0,13.0,8.0,5.0,6.0
+433,Bronze-Region 2,no state cup,ALL_GAMES,Allstars United 15G White,3.0,3.0,0.0,0.0,11.0,4.0,7.0,9.0
+434,Bronze-Region 2,no state cup,ALL_GAMES,Almaden FC Almaden FC Quicksilver 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+435,Bronze-Region 2,no state cup,ALL_GAMES,Alum Rock Fútbol Club AR - Cheetahs- 2015G,3.0,3.0,0.0,0.0,14.0,4.0,10.0,9.0
+436,Bronze-Region 2,no state cup,ALL_GAMES,Hollister Tremors Hollister Tremors 2015G Dragons,3.0,1.0,2.0,0.0,3.0,8.0,-5.0,3.0
+437,Bronze-Region 2,no state cup,ALL_GAMES,Lobitos Soccer Club Lobitos S.C.- Lady Tiburones FC,2.0,2.0,0.0,0.0,10.0,1.0,9.0,6.0
+438,Bronze-Region 2,no state cup,ALL_GAMES,Los Gatos United Soccer Club 2015G II,3.0,0.0,3.0,0.0,2.0,6.0,-4.0,0.0
+439,Bronze-Region 2,no state cup,ALL_GAMES,North Valley Youth Soccer League NV/SJ United 15G Green Ladybugs,2.0,1.0,1.0,0.0,10.0,4.0,6.0,3.0
+440,Bronze-Region 2,no state cup,ALL_GAMES,OV Toros FC OV Toros FC 2015G White,3.0,1.0,2.0,0.0,4.0,15.0,-11.0,3.0
+441,Bronze-Region 2,no state cup,ALL_GAMES,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 BLUE,2.0,0.0,2.0,0.0,1.0,10.0,-9.0,0.0
+442,Bronze-Region 3  North,U10 Girls Bronze-Group B,ALL_GAMES,East Bay Eclipse Soccer Club Eclipse 2015 Girls Lunar,2.0,1.0,1.0,0.0,8.0,10.0,-2.0,3.0
+443,Bronze-Region 3  North,U10 Girls Bronze-Group D,ALL_GAMES,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Black,2.0,1.0,1.0,0.0,6.0,4.0,2.0,3.0
+444,Bronze-Region 3  North,U10 Girls Gold/Silver-Group B,ALL_GAMES,Mustang Soccer Mustang SC Fever 15F,2.0,1.0,1.0,0.0,9.0,7.0,2.0,3.0
+445,Bronze-Region 3  North,U10 Girls Gold/Silver-Group H,ALL_GAMES,Solano Surf Solano Surf 15G Blue,3.0,0.0,3.0,0.0,8.0,19.0,-11.0,0.0
+446,Bronze-Region 3  North,no state cup,ALL_GAMES,California Magic Soccer Club Cal Magic 2015G West,1.0,1.0,0.0,0.0,8.0,3.0,5.0,3.0
+447,Bronze-Region 3  North,no state cup,ALL_GAMES,Mt Diablo Mustang Soccer 2015G White,3.0,3.0,0.0,0.0,15.0,5.0,10.0,9.0
+448,Bronze-Region 3  North,no state cup,ALL_GAMES,Walnut Creek Surf Soccer Club Walnut Creek FS U10G - Salter,1.0,0.0,1.0,0.0,3.0,7.0,-4.0,0.0
+449,Bronze-Region 3  South,U10 Girls Bronze-Group B,ALL_GAMES,Dublin United Dublin United 15G Green,4.0,1.0,2.0,1.0,10.0,17.0,-7.0,4.0
+450,Bronze-Region 3  South,U10 Girls Bronze-Group C,ALL_GAMES,Fremont Rush Soccer Fremont Rush 2015G Blue,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+451,Bronze-Region 3  South,U10 Girls Bronze-Group D,ALL_GAMES,Hayward Youth Soccer League HYSL Premier Chaos 15G,4.0,4.0,0.0,0.0,11.0,5.0,6.0,12.0
+452,Bronze-Region 3  South,U10 Girls Gold/Silver-Group B,ALL_GAMES,Pleasanton Rage Pleasanton RAGE 15 Select I,3.0,2.0,1.0,0.0,18.0,9.0,9.0,6.0
+453,Bronze-Region 3  South,U10 Girls Gold/Silver-Group C,ALL_GAMES,Livermore Fusion SC Fusion SC 2015 Girls Gold,4.0,2.0,2.0,0.0,13.0,8.0,5.0,6.0
+454,Bronze-Region 3  South,no state cup,ALL_GAMES,1974 Newark FC 1974 NFC 15G White,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+455,Bronze-Region 3  South,no state cup,ALL_GAMES,San Ramon FC San Ramon FC 15G Red,3.0,1.0,1.0,1.0,5.0,7.0,-2.0,4.0
+456,Bronze-Region 4,U10 Girls Bronze-Group C,ALL_GAMES,Castro Valley Soccer Club Castro Valley SC CVSC United 2015 Girls Yellow,6.0,4.0,1.0,1.0,25.0,11.0,14.0,13.0
+457,Bronze-Region 4,U10 Girls Bronze-Group D,ALL_GAMES,Clippers FC 2015 Girls White,4.0,2.0,2.0,0.0,11.0,5.0,6.0,6.0
+458,Bronze-Region 4,U10 Girls Gold/Silver-Group B,ALL_GAMES,Sheriffs FC Sheriffs FC 2015/16G Yellow,3.0,1.0,2.0,0.0,15.0,14.0,1.0,3.0
+459,Bronze-Region 4,no state cup,ALL_GAMES,East Bay United EBUSC Bay Oaks 15G Blue,3.0,0.0,3.0,0.0,0.0,29.0,-29.0,0.0
+460,Bronze-Region 4,no state cup,ALL_GAMES,Eastshore Alliance FC Alliance 2015G Orange,2.0,0.0,1.0,1.0,2.0,3.0,-1.0,1.0
+461,Bronze-Region 4,no state cup,ALL_GAMES,San Pablo United YSC San Pablo Lobitas,3.0,1.0,2.0,0.0,9.0,12.0,-3.0,3.0
+462,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,ALL_GAMES,El Dorado Hills Soccer Club EDHSC 15G Blue,4.0,3.0,1.0,0.0,11.0,8.0,3.0,9.0
+463,Bronze-Region 6 East 1,U10 Girls Bronze-Group F,ALL_GAMES,Folsom Lake Surf FLS 15G Academy II,3.0,0.0,3.0,0.0,1.0,10.0,-9.0,0.0
+464,Bronze-Region 6 East 1,U10 Girls Bronze-Group G,ALL_GAMES,San Juan Soccer Club Spirits 15 Red,4.0,3.0,0.0,1.0,16.0,4.0,12.0,10.0
+465,Bronze-Region 6 East 1,no state cup,ALL_GAMES,Azzurri FC 15G Blue,3.0,0.0,3.0,0.0,5.0,17.0,-12.0,0.0
+466,Bronze-Region 6 East 1,no state cup,ALL_GAMES,Butte United Soccer Club BUSC 2015G Red,3.0,1.0,2.0,0.0,9.0,11.0,-2.0,3.0
+467,Bronze-Region 6 East 1,no state cup,ALL_GAMES,Prospector Soccer Club Prospector SC 2015G,3.0,2.0,0.0,1.0,12.0,6.0,6.0,7.0
+468,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,ALL_GAMES,Placer United Soccer Club Placer United 15G Black,3.0,1.0,1.0,1.0,10.0,7.0,3.0,4.0
+469,Bronze-Region 6 East 2,U10 Girls Bronze-Group F,ALL_GAMES,Roseville Youth Soccer Club Roseville SC 2015G Black,5.0,4.0,1.0,0.0,19.0,8.0,11.0,12.0
+470,Bronze-Region 6 East 2,U10 Girls Bronze-Group G,ALL_GAMES,Yuba Elite FC Yuba Elite FC 15G Black,3.0,0.0,1.0,2.0,5.0,6.0,-1.0,2.0
+471,Bronze-Region 6 East 2,U10 Girls Gold/Silver-Group E,ALL_GAMES,Rocklin FC Rocklin FC 15G Grey,2.0,1.0,0.0,1.0,1.0,0.0,1.0,4.0
+472,Bronze-Region 6 East 2,no state cup,ALL_GAMES,Butte United Soccer Club BUSC 2015G Gold,3.0,1.0,2.0,0.0,5.0,11.0,-6.0,3.0
+473,Bronze-Region 6 East 2,no state cup,ALL_GAMES,Granite Bay FC Chaos 15,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
+474,Bronze-Region 6 East 2,no state cup,ALL_GAMES,Truckee River United FC TRU FC 15 Girls,4.0,1.0,2.0,1.0,7.0,12.0,-5.0,4.0
+475,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,ALL_GAMES,Sacramento United 15G White,3.0,1.0,2.0,0.0,8.0,14.0,-6.0,3.0
+476,Bronze-Region 6 West 1,U10 Girls Bronze-Group E,ALL_GAMES,Woodland Soccer Club WSC 15G Orange,1.0,1.0,0.0,0.0,5.0,4.0,1.0,3.0
+477,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group G,ALL_GAMES,Sacramento Soccer Alliance 15G Blue,3.0,0.0,2.0,1.0,5.0,14.0,-9.0,1.0
+478,Bronze-Region 6 West 1,U10 Girls Gold/Silver-Group H,ALL_GAMES,Davis Legacy Soccer Club Davis Legacy 15G White,3.0,1.0,1.0,1.0,10.0,10.0,0.0,4.0
+479,Bronze-Region 6 West 1,no state cup,ALL_GAMES,American River FC Freedom 15 Blue,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+480,Bronze-Region 6 West 1,no state cup,ALL_GAMES,Elk Grove Soccer 2015G EG,2.0,0.0,1.0,1.0,4.0,7.0,-3.0,1.0
+481,Bronze-Region 6 West 1,no state cup,ALL_GAMES,Elk Grove Soccer 2015G NF,2.0,2.0,0.0,0.0,13.0,3.0,10.0,6.0
+482,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,ALL_GAMES,East Sacramento Youth Soccer Club 2015 East Sac Storm,3.0,0.0,3.0,0.0,1.0,14.0,-13.0,0.0
+483,Bronze-Region 6 West 2,U10 Girls Bronze-Group E,ALL_GAMES,Sacramento Soccer Alliance 15G White,4.0,3.0,1.0,0.0,18.0,10.0,8.0,9.0
+484,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,ALL_GAMES,Union Sacramento FC Union FC 15G JDP,4.0,3.0,1.0,0.0,20.0,5.0,15.0,9.0
+485,Bronze-Region 6 West 2,U10 Girls Bronze-Group G,ALL_GAMES,Woodland Soccer Club WSC 15G White,3.0,0.0,3.0,0.0,3.0,17.0,-14.0,0.0
+486,Bronze-Region 6 West 2,no state cup,ALL_GAMES,Elk Grove Soccer 2015G GK,3.0,2.0,1.0,0.0,10.0,12.0,-2.0,6.0
+487,Bronze-Region 6 West 2,no state cup,ALL_GAMES,Vacaville United Soccer Club VUSC 2015 Girls Elite,3.0,2.0,1.0,0.0,13.0,8.0,5.0,6.0
+488,Bronze-Region 8,U10 Girls Gold/Silver-Group K,ALL_GAMES,CV Futbol Academy CVFA 15G Black,4.0,2.0,0.0,2.0,18.0,4.0,14.0,8.0
+489,Bronze-Region 8,U10 Girls Gold/Silver-Group K,ALL_GAMES,Turlock Academica Jrs Turlock Academica Jrs 15G,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+490,Bronze-Region 8,no state cup,ALL_GAMES,Atwater Kaos Futbol Club Kaos 2015G Blue Silva,2.0,0.0,2.0,0.0,1.0,12.0,-11.0,0.0
+491,Bronze-Region 8,no state cup,ALL_GAMES,Merced United FC MUFC 2015G White,2.0,0.0,2.0,0.0,1.0,8.0,-7.0,0.0
+492,Bronze-Region 8,no state cup,ALL_GAMES,Sierra United Soccer Club Sierra United 15G,3.0,2.0,0.0,1.0,7.0,3.0,4.0,7.0
+493,Bronze-South  Region 5,U10 Girls Bronze-Group H,ALL_GAMES,Marin FC Marin FC G15Steel,2.0,0.0,2.0,0.0,1.0,6.0,-5.0,0.0
+494,Bronze-South  Region 5,U10 Girls Bronze-Group H,ALL_GAMES,Mill Valley Soccer Club MVSC Rockers White 2015,3.0,1.0,2.0,0.0,7.0,7.0,0.0,3.0
+495,Bronze-South  Region 5,U10 Girls Bronze-Group I,ALL_GAMES,North Marin United North Marin United '15 Girls Esteem,2.0,2.0,0.0,0.0,7.0,5.0,2.0,6.0
+496,Bronze-South  Region 5,U10 Girls Bronze-Group I,ALL_GAMES,Ross Valley Breakers FC Breakers 15G,2.0,2.0,0.0,0.0,7.0,3.0,4.0,6.0
+497,Bronze-South  Region 5,U10 Girls Bronze-Group I,ALL_GAMES,Tiburon Peninsula Soccer Club TPSC Sharks 2015 Girls,3.0,1.0,2.0,0.0,10.0,10.0,0.0,3.0
+498,Bronze-South  Region 5,no state cup,ALL_GAMES,Corte Madera Football Club Corte Madera FC Girls White 2015,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+499,Copper-Region 1  North,U10 Girls Bronze-Group I,ALL_GAMES,Peninsula Youth Soccer Peninsula SC Tornadoes Red 15G,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
+500,Copper-Region 1  North,no state cup,ALL_GAMES,Belmont United Soccer Club Belmont United 15G Wave FC Blue,1.0,1.0,0.0,0.0,8.0,1.0,7.0,3.0
+501,Copper-Region 1  North,no state cup,ALL_GAMES,Burlingame Soccer Club Burlingame SC 2015G Purple,1.0,0.0,1.0,0.0,1.0,8.0,-7.0,0.0
+502,Copper-Region 1  North,no state cup,ALL_GAMES,Girls Unite Girls Unite 2015G Hope White,1.0,0.0,1.0,0.0,0.0,3.0,-3.0,0.0
+503,Copper-Region 1  North,no state cup,ALL_GAMES,San Bruno Lowen 83 Cheetahs White 15/16G,1.0,0.0,1.0,0.0,2.0,3.0,-1.0,0.0
+504,Copper-Region 1  North,no state cup,ALL_GAMES,San Francisco Glens Soccer Club SF Glens 15G Black,1.0,1.0,0.0,0.0,3.0,2.0,1.0,3.0
+505,Copper-Region 1  North,no state cup,ALL_GAMES,San Mateo County FC SMC 15G Academy Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+506,Copper-Region 1  South,no state cup,ALL_GAMES,ALBION SC Silicon Valley East Bay EB G15 Academy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+507,Copper-Region 1  South,no state cup,ALL_GAMES,AYSO United Silicon Valley United Silicon Valley 15G Blue,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+508,Copper-Region 1  South,no state cup,ALL_GAMES,Allstars United 15G Black,2.0,0.0,2.0,0.0,2.0,10.0,-8.0,0.0
+509,Copper-Region 1  South,no state cup,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Gold,1.0,1.0,0.0,0.0,5.0,0.0,5.0,3.0
+510,Copper-Region 1  South,no state cup,ALL_GAMES,Palo Alto SC Palo Alto SC 15G Red,2.0,0.0,2.0,0.0,2.0,13.0,-11.0,0.0
+511,Copper-Region 1  South,no state cup,ALL_GAMES,Peninsula Youth Soccer Peninsula SC Tornadoes White 15G,1.0,0.0,0.0,1.0,2.0,2.0,0.0,1.0
+512,Copper-Region 1  South,no state cup,ALL_GAMES,Red Star Soccer Academy Red Star 15G White,2.0,1.0,0.0,1.0,11.0,5.0,6.0,4.0
+513,Copper-Region 1  South,no state cup,ALL_GAMES,Stanford Strikers FC Stanford Strikers 15G White,1.0,1.0,0.0,0.0,5.0,1.0,4.0,3.0
+514,Copper-Region 1  South,no state cup,ALL_GAMES,WSC Crush WSC Crush 15 Girls Orange,2.0,1.0,0.0,1.0,8.0,4.0,4.0,4.0
+515,Copper-Region 1 Central,U10 Girls Bronze-Group K,ALL_GAMES,Sunnyvale Alliance SC 15G Red,3.0,1.0,2.0,0.0,7.0,14.0,-7.0,3.0
+516,Copper-Region 1 Central,no state cup,ALL_GAMES,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Team,3.0,0.0,2.0,1.0,5.0,17.0,-12.0,1.0
+517,Copper-Region 1 Central,no state cup,ALL_GAMES,Belmont United Soccer Club Belmont United 15G Wave FC White,1.0,1.0,0.0,0.0,4.0,1.0,3.0,3.0
+518,Copper-Region 1 Central,no state cup,ALL_GAMES,Central Valley San Jose SC CVSJ 15G Queen Cobras,3.0,2.0,0.0,1.0,15.0,1.0,14.0,7.0
+519,Copper-Region 1 Central,no state cup,ALL_GAMES,Milpitas YSL FC Milpitas Wildcats 15,2.0,0.0,2.0,0.0,2.0,16.0,-14.0,0.0
+520,Copper-Region 1 Central,no state cup,ALL_GAMES,San Carlos United Soccer Club San Carlos United SC 15G White,2.0,0.0,0.0,2.0,3.0,3.0,0.0,2.0
+521,Copper-Region 1 Central,no state cup,ALL_GAMES,Sentinels Soccer Club 2015 SENTINELS ACADEMY GIRLS,2.0,1.0,1.0,0.0,11.0,5.0,6.0,3.0
+522,Copper-Region 2,U10 Girls Bronze-Group K,ALL_GAMES,De Anza Force Force 15G Elite,3.0,0.0,2.0,1.0,6.0,18.0,-12.0,1.0
+523,Copper-Region 2,no state cup,ALL_GAMES,Almaden FC Almaden FC Quicksilver 15G Yellow,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
+524,Copper-Region 2,no state cup,ALL_GAMES,Audax Soccer Club Audax 2015G Orange,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+525,Copper-Region 2,no state cup,ALL_GAMES,Hollister Tremors Hollister Tremors 2015G Phoenix,3.0,1.0,1.0,1.0,13.0,13.0,0.0,4.0
+526,Copper-Region 2,no state cup,ALL_GAMES,Los Gatos United Soccer Club 2015G III,3.0,1.0,1.0,1.0,10.0,12.0,-2.0,4.0
+527,Copper-Region 2,no state cup,ALL_GAMES,North Valley Youth Soccer League NV/SJ United 15G White Ladybugs,4.0,3.0,1.0,0.0,17.0,12.0,5.0,9.0
+528,Copper-Region 2,no state cup,ALL_GAMES,Pajaro Valley Youth Soccer Club Pajaro Valley YSC PV United 15G Red,4.0,1.0,3.0,0.0,8.0,12.0,-4.0,3.0
+529,Copper-Region 2,no state cup,ALL_GAMES,Santa Cruz City Soccer Club SANTA CRUZ JAWS 15 WHITE,3.0,0.0,2.0,1.0,4.0,7.0,-3.0,1.0
+530,Copper-Region 2,no state cup,ALL_GAMES,Santa Cruz Mid-County Youth Soccer Club SURF 15G,2.0,0.0,2.0,0.0,1.0,5.0,-4.0,0.0
+531,Copper-Region 2,no state cup,ALL_GAMES,Santa Cruz United Football Club 2015G Blue,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+532,Copper-Region 2,no state cup,ALL_GAMES,Scotts Valley San Lorenzo Valley Youth Soccer Club Valley United 15G,4.0,2.0,1.0,1.0,8.0,8.0,0.0,7.0
+533,Copper-Region 3,U10 Girls Bronze-Group A,ALL_GAMES,Mustang Soccer Mustang SC Wolves 15F,3.0,0.0,3.0,0.0,4.0,13.0,-9.0,0.0
+534,Copper-Region 3,U10 Girls Bronze-Group B,ALL_GAMES,Pleasanton Rage Pleasanton RAGE 15 Select II,3.0,1.0,2.0,0.0,13.0,12.0,1.0,3.0
+535,Copper-Region 3,U10 Girls Bronze-Group D,ALL_GAMES,East Bay Eclipse Soccer Club Eclipse 2015 Girls Solar,3.0,2.0,1.0,0.0,14.0,7.0,7.0,6.0
+536,Copper-Region 3,no state cup,ALL_GAMES,California Magic Soccer Club Cal Magic 2015G Sky,2.0,1.0,0.0,1.0,12.0,2.0,10.0,4.0
+537,Copper-Region 3,no state cup,ALL_GAMES,Dublin United Dublin United 15G Black,4.0,0.0,4.0,0.0,0.0,35.0,-35.0,0.0
+538,Copper-Region 3,no state cup,ALL_GAMES,Livermore Fusion SC Fusion SC 2015 Girls Evo I,2.0,1.0,1.0,0.0,6.0,8.0,-2.0,3.0
+539,Copper-Region 3,no state cup,ALL_GAMES,Livermore Fusion SC Fusion SC 2015 Girls Evo II,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+540,Copper-Region 3,no state cup,ALL_GAMES,Mt Diablo Mustang Soccer 2015G Alliance,3.0,3.0,0.0,0.0,15.0,2.0,13.0,9.0
+541,Copper-Region 3,no state cup,ALL_GAMES,San Ramon FC San Ramon FC 15G Grey,3.0,1.0,1.0,1.0,10.0,5.0,5.0,4.0
+542,Copper-Region 4,U10 Girls Bronze-Group A,ALL_GAMES,Alameda Soccer Club Alameda SC Islanders 15G White,3.0,2.0,0.0,1.0,13.0,4.0,9.0,7.0
+543,Copper-Region 4,U10 Girls Bronze-Group A,ALL_GAMES,Piedmont SC Highlanders 2015G Grey,3.0,0.0,3.0,0.0,1.0,18.0,-17.0,0.0
+544,Copper-Region 4,U10 Girls Bronze-Group B,ALL_GAMES,Football Club Alliance FCA 15G Blue,3.0,1.0,2.0,0.0,18.0,13.0,5.0,3.0
+545,Copper-Region 4,no state cup,ALL_GAMES,Clippers FC 2015 Girls Blue,1.0,0.0,1.0,0.0,3.0,16.0,-13.0,0.0
+546,Copper-Region 4,no state cup,ALL_GAMES,East Bay United EBUSC Bay Oaks 15G Premier II,2.0,1.0,1.0,0.0,3.0,4.0,-1.0,3.0
+547,Copper-Region 4,no state cup,ALL_GAMES,Eastshore Alliance FC Alliance 2015G Red,2.0,2.0,0.0,0.0,5.0,2.0,3.0,6.0
+548,Copper-Region 4,no state cup,ALL_GAMES,Richmond Sol Cobras RSOLFC15G,1.0,0.0,1.0,0.0,1.0,2.0,-1.0,0.0
+549,Copper-Region 4,no state cup,ALL_GAMES,Richmond United SC Richmond United Panthers,2.0,1.0,0.0,1.0,10.0,4.0,6.0,4.0
+550,Gold-Region 1,U10 Girls State/Premier-Group K,ALL_GAMES,JSC Soccer Club JSC 15G Black,1.0,1.0,0.0,0.0,5.0,2.0,3.0,3.0
+551,Gold-Region 1,U10 Girls State/Premier-Group K,ALL_GAMES,OV Toros FC OV Toros FC 2015G Black,2.0,1.0,1.0,0.0,6.0,5.0,1.0,3.0
+552,Gold-Region 1,U10 Girls State/Premier-Group L,ALL_GAMES,Dnamo FC Dnamo FC Ajax,4.0,0.0,4.0,0.0,8.0,27.0,-19.0,0.0
+553,Gold-Region 1,U10 Girls State/Premier-Group L,ALL_GAMES,Santa Clara Sporting Santa Clara Sporting 15G White,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+554,Gold-Region 1,U10 Girls State/Premier-Group M,ALL_GAMES,Girls Unite Girls Unite 2015G Fierce Purple,3.0,1.0,2.0,0.0,4.0,11.0,-7.0,3.0
+555,Gold-Region 1,U10 Girls State/Premier-Group M,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 15G Barcelona White,5.0,2.0,3.0,0.0,7.0,14.0,-7.0,6.0
+556,Gold-Region 1,U10 Girls State/Premier-Group M,ALL_GAMES,Palo Alto SC Palo Alto SC 15G Pre Academy,3.0,3.0,0.0,0.0,14.0,2.0,12.0,9.0
+557,Gold-Region 1,no state cup,ALL_GAMES,Burlingame Soccer Club Burlingame SC 2015G Gold,3.0,2.0,1.0,0.0,13.0,9.0,4.0,6.0
+558,Gold-Region 1,no state cup,ALL_GAMES,Monterey County Soccer-ECFC Salinas ECFC 15G,3.0,2.0,1.0,0.0,13.0,3.0,10.0,6.0
+559,Gold-Region 1,no state cup,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 16G Spurs Blue,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+560,Gold-Region 1,no state cup,ALL_GAMES,Santa Clara Sporting Santa Clara Sporting 16G Green,3.0,2.0,1.0,0.0,12.0,6.0,6.0,6.0
+561,Gold-Region 3/4,U10 Girls State/Premier-Group A,ALL_GAMES,Livermore Fusion SC Fusion SC 2015 Girls Maroon,4.0,1.0,2.0,1.0,10.0,12.0,-2.0,4.0
+562,Gold-Region 3/4,U10 Girls State/Premier-Group A,ALL_GAMES,Mustang Soccer Mustang SC 15G Elite I,4.0,1.0,3.0,0.0,5.0,10.0,-5.0,3.0
+563,Gold-Region 3/4,U10 Girls State/Premier-Group A,ALL_GAMES,Piedmont SC Highlanders 2015G Purple,4.0,3.0,0.0,1.0,15.0,8.0,7.0,10.0
+564,Gold-Region 3/4,U10 Girls State/Premier-Group A,ALL_GAMES,Pleasanton Rage Pleasanton RAGE 15 Pre-ECNL,4.0,3.0,1.0,0.0,12.0,6.0,6.0,9.0
+565,Gold-Region 3/4,U10 Girls State/Premier-Group B,ALL_GAMES,1974 Newark FC 1974 NFC 15G Orange,2.0,2.0,0.0,0.0,2.0,0.0,2.0,6.0
+566,Gold-Region 3/4,U10 Girls State/Premier-Group B,ALL_GAMES,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G Blue,3.0,1.0,2.0,0.0,4.0,5.0,-1.0,3.0
+567,Gold-Region 3/4,no state cup,ALL_GAMES,California Magic Soccer Club Cal Magic 2015G East,3.0,1.0,2.0,0.0,7.0,10.0,-3.0,3.0
+568,Gold-Region 3/4,no state cup,ALL_GAMES,San Ramon FC San Ramon FC 15G Navy,2.0,0.0,2.0,0.0,2.0,6.0,-4.0,0.0
+569,Gold-Region 5,U10 Girls State/Premier-Group G,ALL_GAMES,Black Oaks Youth Soccer Club Black Oaks Little Comets 2015G,5.0,3.0,1.0,1.0,17.0,10.0,7.0,10.0
+570,Gold-Region 5,U10 Girls State/Premier-Group G,ALL_GAMES,Mill Valley Soccer Club MVSC Rockers 2015,3.0,0.0,2.0,1.0,2.0,8.0,-6.0,1.0
+571,Gold-Region 5,U10 Girls State/Premier-Group G,ALL_GAMES,Napa United Napa United Pre-Academy 15G Premier,1.0,1.0,0.0,0.0,6.0,4.0,2.0,3.0
+572,Gold-Region 5,U10 Girls State/Premier-Group G,ALL_GAMES,Sonoma Valley United SVU Girls 15 Green,3.0,0.0,3.0,0.0,3.0,15.0,-12.0,0.0
+573,Gold-Region 5,U10 Girls State/Premier-Group H,ALL_GAMES,Marin FC Marin FC G15Blue,3.0,2.0,1.0,0.0,11.0,4.0,7.0,6.0
+574,Gold-Region 5,U10 Girls State/Premier-Group H,ALL_GAMES,North Coast Futbol Club North Coast FC 15G Blue,6.0,2.0,3.0,1.0,12.0,16.0,-4.0,7.0
+575,Gold-Region 5,U10 Girls State/Premier-Group H,ALL_GAMES,Santa Rosa United Soccer Santa Rosa United 15G Gold,6.0,5.0,0.0,1.0,20.0,5.0,15.0,16.0
+576,Gold-Region 6,U10 Girls State/Premier-Group C,ALL_GAMES,Rocklin FC Rocklin FC 15G Navy,3.0,3.0,0.0,0.0,10.0,3.0,7.0,9.0
+577,Gold-Region 6,U10 Girls State/Premier-Group D,ALL_GAMES,Elk Grove Soccer 2015G Elite 1,2.0,0.0,1.0,1.0,4.0,6.0,-2.0,1.0
+578,Gold-Region 6,U10 Girls State/Premier-Group D,ALL_GAMES,Greenhaven Soccer Club Greenhaven SC 15G I,4.0,3.0,1.0,0.0,11.0,3.0,8.0,9.0
+579,Gold-Region 6,U10 Girls State/Premier-Group E,ALL_GAMES,Placer United Soccer Club Placer United 15G Pre-ECNL,4.0,2.0,1.0,1.0,13.0,6.0,7.0,7.0
+580,Gold-Region 6,U10 Girls State/Premier-Group F,ALL_GAMES,Lincoln FC Lincoln FC 15G,3.0,0.0,3.0,0.0,0.0,13.0,-13.0,0.0
+581,Gold-Region 6,U10 Girls State/Premier-Group F,ALL_GAMES,San Juan Soccer Club Spirits 15 Blue,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+582,Gold-Region 6,no state cup,ALL_GAMES,Reno APEX Soccer Club 2015 Girls Premier,2.0,1.0,1.0,0.0,2.0,5.0,-3.0,3.0
+583,Gold-Region 7,U10 Girls State/Premier-Group I,ALL_GAMES,Clovis Crossfire  15G Blue,4.0,1.0,1.0,2.0,5.0,5.0,0.0,5.0
+584,Gold-Region 7,U10 Girls State/Premier-Group I,ALL_GAMES,Kings County Soccer Club Kings County 15G Orange,4.0,1.0,3.0,0.0,5.0,14.0,-9.0,3.0
+585,Gold-Region 7,U10 Girls State/Premier-Group I,ALL_GAMES,South Valley United Soccer Club South Valley United G15 Black,3.0,2.0,0.0,1.0,6.0,3.0,3.0,7.0
+586,Gold-Region 7,U10 Girls State/Premier-Group J,ALL_GAMES,California Odyssey Soccer Club COSC 15G Red,2.0,0.0,1.0,1.0,4.0,6.0,-2.0,1.0
+587,Gold-Region 8,U10 Girls State/Premier-Group D,ALL_GAMES,Stockton Storm Futbol Club Stockton Storm FC 2015 Girls Blue,4.0,1.0,3.0,0.0,4.0,17.0,-13.0,3.0
+588,Gold-Region 8,U10 Girls State/Premier-Group I,ALL_GAMES,CV Futbol Academy CVFA 15G Academy,3.0,3.0,0.0,0.0,16.0,2.0,14.0,9.0
+589,Gold-Region 8,U10 Girls State/Premier-Group J,ALL_GAMES,MANTECA FUTBOL CLUB Manteca Futbol Club 15G,2.0,1.0,0.0,1.0,14.0,6.0,8.0,4.0
+590,Gold-Region 8,no state cup,ALL_GAMES,Ajax United Ajax United 15G Green Pre-GA,2.0,0.0,2.0,0.0,2.0,4.0,-2.0,0.0
+591,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,ALL_GAMES,Girls Unite Girls Unite 2015G Wonder Black,2.0,0.0,2.0,0.0,2.0,4.0,-2.0,0.0
+592,Silver-Region 1  North,U10 Girls Gold/Silver-Group L,ALL_GAMES,San Francisco Glens Soccer Club SF Glens Pre-Academy 15G,2.0,2.0,0.0,0.0,8.0,1.0,7.0,6.0
+593,Silver-Region 1  North,U10 Girls Gold/Silver-Group M,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Black,2.0,0.0,2.0,0.0,5.0,8.0,-3.0,0.0
+594,Silver-Region 1  North,no state cup,ALL_GAMES,Burlingame Soccer Club Burlingame SC 2015G Black,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+595,Silver-Region 1  North,no state cup,ALL_GAMES,Burlingame Soccer Club Burlingame SC 2015G White,1.0,1.0,0.0,0.0,4.0,2.0,2.0,3.0
+596,Silver-Region 1  North,no state cup,ALL_GAMES,Dnamo FC Dnamo FC Arsenal,1.0,0.0,1.0,0.0,0.0,6.0,-6.0,0.0
+597,Silver-Region 1  North,no state cup,ALL_GAMES,SF United FC SF United G15 Phoenix,1.0,1.0,0.0,0.0,2.0,1.0,1.0,3.0
+598,Silver-Region 1  South,U10 Girls Bronze-Group C,ALL_GAMES,WSC Crush WSC Crush 15 Girls Black,2.0,2.0,0.0,0.0,8.0,1.0,7.0,6.0
+599,Silver-Region 1  South,U10 Girls Gold/Silver-Group L,ALL_GAMES,Ace Athletics Youth Soccer Academy AAYSA Jaguars 15G Elite Team,3.0,1.0,2.0,0.0,4.0,5.0,-1.0,3.0
+600,Silver-Region 1  South,U10 Girls Gold/Silver-Group M,ALL_GAMES,Allstars United 15G Red,3.0,0.0,2.0,1.0,2.0,4.0,-2.0,1.0
+601,Silver-Region 1  South,no state cup,ALL_GAMES,PSV Union FC Academy PSV Union FC Academy 2015/2016,2.0,0.0,2.0,0.0,1.0,7.0,-6.0,0.0
+602,Silver-Region 1  South,no state cup,ALL_GAMES,Palo Alto SC Palo Alto SC 15G White,2.0,1.0,0.0,1.0,1.0,0.0,1.0,4.0
+603,Silver-Region 1  South,no state cup,ALL_GAMES,Peninsula Youth Soccer Peninsula SC Tornadoes Blue 15G,2.0,1.0,1.0,0.0,3.0,5.0,-2.0,3.0
+604,Silver-Region 1  South,no state cup,ALL_GAMES,Stanford Strikers FC Stanford Strikers 15G Black,2.0,2.0,0.0,0.0,7.0,1.0,6.0,6.0
+605,Silver-Region 2,U10 Girls Gold/Silver-Group L,ALL_GAMES,Ravenswood Juniors Soccer Club Ravenswood SC G15/16 Roma,1.0,0.0,1.0,0.0,1.0,4.0,-3.0,0.0
+606,Silver-Region 2,U10 Girls Gold/Silver-Group M,ALL_GAMES,MVLA San Jose MVLA San Jose 15G Blue,4.0,2.0,2.0,0.0,5.0,11.0,-6.0,6.0
+607,Silver-Region 2,U10 Girls State/Premier-Group K,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Green,4.0,3.0,1.0,0.0,17.0,10.0,7.0,9.0
+608,Silver-Region 2,U10 Girls State/Premier-Group M,ALL_GAMES,Los Gatos United Soccer Club 2015G I,4.0,1.0,2.0,1.0,11.0,14.0,-3.0,4.0
+609,Silver-Region 2,no state cup,ALL_GAMES,Almaden FC Almaden FC Quicksilver 15G Black,1.0,0.0,1.0,0.0,3.0,4.0,-1.0,0.0
+610,Silver-Region 2,no state cup,ALL_GAMES,OV Toros FC OV Toros FC 2015G Red,2.0,0.0,2.0,0.0,2.0,8.0,-6.0,0.0
+611,Silver-Region 2,no state cup,ALL_GAMES,Santa Clara Youth Soccer League SC LIONS 2015G RED - MCINTOSH,2.0,1.0,0.0,1.0,5.0,3.0,2.0,4.0
+612,Silver-Region 3,U10 Girls Gold/Silver-Group A,ALL_GAMES,Mustang Soccer Mustang SC 15G Elite II,2.0,1.0,1.0,0.0,7.0,6.0,1.0,3.0
+613,Silver-Region 3,U10 Girls Gold/Silver-Group A,ALL_GAMES,Pleasanton Rage Pleasanton RAGE 15 Premier,3.0,0.0,3.0,0.0,1.0,12.0,-11.0,0.0
+614,Silver-Region 3,U10 Girls Gold/Silver-Group A,ALL_GAMES,Walnut Creek Surf Soccer Club Walnut Creek Surf 15G White,3.0,3.0,0.0,0.0,7.0,0.0,7.0,9.0
+615,Silver-Region 3,U10 Girls Gold/Silver-Group C,ALL_GAMES,1974 Newark FC 1974 NFC 15G Black,3.0,1.0,2.0,0.0,5.0,9.0,-4.0,3.0
+616,Silver-Region 3,U10 Girls Gold/Silver-Group C,ALL_GAMES,Revolution FC Revolution 15G Blue,5.0,0.0,4.0,1.0,8.0,17.0,-9.0,1.0
+617,Silver-Region 3,no state cup,ALL_GAMES,Mt Diablo Mustang Soccer 2015G Red,4.0,1.0,3.0,0.0,6.0,10.0,-4.0,3.0
+618,Silver-Region 3,no state cup,ALL_GAMES,Mustang Soccer Mustang SC 16G Pre-ECNL,3.0,3.0,0.0,0.0,14.0,2.0,12.0,9.0
+619,Silver-Region 3,no state cup,ALL_GAMES,San Ramon FC San Ramon FC 15G White,2.0,2.0,0.0,0.0,5.0,1.0,4.0,6.0
+620,Silver-Region 4,U10 Girls Gold/Silver-Group A,ALL_GAMES,Castro Valley Soccer Club Castro Valley SC CVSC United Green 2015 G,3.0,3.0,0.0,0.0,16.0,5.0,11.0,9.0
+621,Silver-Region 4,U10 Girls Gold/Silver-Group B,ALL_GAMES,Alameda Soccer Club Alameda SC Islanders 15G Red,3.0,2.0,1.0,0.0,15.0,8.0,7.0,6.0
+622,Silver-Region 4,U10 Girls Gold/Silver-Group D,ALL_GAMES,Mustang Soccer Mustang SC Thunder Cats 15F,6.0,6.0,0.0,0.0,23.0,9.0,14.0,18.0
+623,Silver-Region 4,U10 Girls Gold/Silver-Group D,ALL_GAMES,Piedmont SC Highlanders 2015G White,5.0,1.0,4.0,0.0,9.0,30.0,-21.0,3.0
+624,Silver-Region 4,U10 Girls State/Premier-Group B,ALL_GAMES,Clippers FC 2015 Girls Red,2.0,1.0,1.0,0.0,10.0,9.0,1.0,3.0
+625,Silver-Region 4,no state cup,ALL_GAMES,East Bay United EBUSC Bay Oaks 15G Premier,3.0,1.0,2.0,0.0,8.0,10.0,-2.0,3.0
+626,Silver-Region 4,no state cup,ALL_GAMES,Eastshore Alliance FC Alliance 2015G Navy,3.0,0.0,3.0,0.0,4.0,9.0,-5.0,0.0
+627,Silver-Region 5,U10 Girls Gold/Silver-Group I,ALL_GAMES,Corte Madera Football Club Corte Madera FC Girls Red 2015,3.0,0.0,2.0,1.0,6.0,11.0,-5.0,1.0
+628,Silver-Region 5,U10 Girls Gold/Silver-Group I,ALL_GAMES,Mill Valley Soccer Club MVSC Rockers Red 2015,3.0,1.0,1.0,1.0,6.0,5.0,1.0,4.0
+629,Silver-Region 5,U10 Girls Gold/Silver-Group J,ALL_GAMES,Marin FC Marin FC G15Red,1.0,0.0,1.0,0.0,2.0,4.0,-2.0,0.0
+630,Silver-Region 5,U10 Girls Gold/Silver-Group J,ALL_GAMES,Santa Rosa Empire Soccer Club Santa Rosa Empire SC 15G The Reds,3.0,3.0,0.0,0.0,13.0,3.0,10.0,9.0
+631,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,ALL_GAMES,Blues FC Blues 15G Navy,4.0,2.0,1.0,1.0,12.0,6.0,6.0,7.0
+632,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group F,ALL_GAMES,Butte United Soccer Club BUSC 2015G Black,4.0,4.0,0.0,0.0,19.0,5.0,14.0,12.0
+633,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,ALL_GAMES,El Dorado Hills Soccer Club EDHSC 15G Gold,4.0,2.0,2.0,0.0,12.0,16.0,-4.0,6.0
+634,Silver-Region 6 East 1,U10 Girls Gold/Silver-Group G,ALL_GAMES,Folsom Lake Surf FLS 15G Academy I,5.0,1.0,3.0,1.0,11.0,18.0,-7.0,4.0
+635,Silver-Region 6 East 1,U10 Girls State/Premier-Group F,ALL_GAMES,Roseville Youth Soccer Club Roseville SC 2015G Green,4.0,1.0,2.0,1.0,18.0,12.0,6.0,4.0
+636,Silver-Region 6 East 1,no state cup,ALL_GAMES,Loomis Youth Soccer Club 2015 Loomis Firebirds,2.0,0.0,1.0,1.0,2.0,12.0,-10.0,1.0
+637,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,ALL_GAMES,Roseville Youth Soccer Club Roseville SC 2015G White,5.0,0.0,3.0,2.0,6.0,17.0,-11.0,2.0
+638,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group F,ALL_GAMES,Yuba Elite FC Yuba Elite FC 15G Gold,4.0,0.0,3.0,1.0,5.0,17.0,-12.0,1.0
+639,Silver-Region 6 East 2,U10 Girls Gold/Silver-Group G,ALL_GAMES,San Juan Soccer Club Spirits 15 White,4.0,2.0,2.0,0.0,14.0,12.0,2.0,6.0
+640,Silver-Region 6 East 2,U10 Girls State/Premier-Group C,ALL_GAMES,Granite Bay FC United 15,5.0,3.0,1.0,1.0,19.0,9.0,10.0,10.0
+641,Silver-Region 6 East 2,U10 Girls State/Premier-Group E,ALL_GAMES,Rocklin FC Rocklin FC 15G White,4.0,1.0,1.0,2.0,7.0,9.0,-2.0,5.0
+642,Silver-Region 6 East 2,U10 Girls State/Premier-Group F,ALL_GAMES,Placer United Soccer Club Placer United 15G Gold,4.0,2.0,0.0,2.0,12.0,5.0,7.0,8.0
+643,Silver-Region 6 West,U10 Girls Gold/Silver-Group E,ALL_GAMES,IR Academy IR Academy 15G Purple,3.0,0.0,1.0,2.0,6.0,9.0,-3.0,2.0
+644,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,ALL_GAMES,Natomas FA Natomas FA 15G Academy,4.0,0.0,4.0,0.0,3.0,13.0,-10.0,0.0
+645,Silver-Region 6 West,U10 Girls Gold/Silver-Group H,ALL_GAMES,Vacaville United Soccer Club VUSC 2015 Girls Premier,3.0,2.0,1.0,0.0,11.0,6.0,5.0,6.0
+646,Silver-Region 6 West,U10 Girls State/Premier-Group C,ALL_GAMES,Davis Legacy Soccer Club Davis Legacy 15G Red,3.0,0.0,2.0,1.0,3.0,6.0,-3.0,1.0
+647,Silver-Region 6 West,U10 Girls State/Premier-Group E,ALL_GAMES,Elk Grove Soccer 2015G Elite 2,4.0,4.0,0.0,0.0,12.0,5.0,7.0,12.0
+648,Silver-Region 6 West,U10 Girls State/Premier-Group E,ALL_GAMES,Sacramento United 15G Red,4.0,2.0,1.0,1.0,12.0,10.0,2.0,7.0
+649,Silver-Region 6 West,no state cup,ALL_GAMES,Elk Grove Soccer 2015G MO,3.0,1.0,1.0,1.0,5.0,8.0,-3.0,4.0
+650,Silver-Region 6 West,no state cup,ALL_GAMES,Galt Futbol Club 2015 Galt FC Girls,1.0,0.0,0.0,1.0,3.0,3.0,0.0,1.0
+651,Silver-Region 6 West,no state cup,ALL_GAMES,Greenhaven Soccer Club Greenhaven SC 15G II,3.0,1.0,1.0,1.0,7.0,3.0,4.0,4.0
+652,Silver-Region 8,U10 Girls Gold/Silver-Group C,ALL_GAMES,West Coast Soccer Tracy West Coast Kaos Krew '15,3.0,0.0,1.0,2.0,4.0,10.0,-6.0,2.0
+653,Silver-Region 8,U10 Girls Gold/Silver-Group E,ALL_GAMES,Manteca Area Soccer League Manteca Area Soccer Rangers United 15G Gold,4.0,0.0,3.0,1.0,1.0,12.0,-11.0,1.0
+654,Silver-Region 8,U10 Girls Gold/Silver-Group E,ALL_GAMES,Stockton TLJ FC Stockton TLJ FC Rebels 15/16G,4.0,2.0,0.0,2.0,14.0,7.0,7.0,8.0
+655,Silver-Region 8,U10 Girls Gold/Silver-Group K,ALL_GAMES,Oakdale Soccer Club OSC Stallions 2015G Oakies,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+656,Silver-Region 8,U10 Girls State/Premier-Group J,ALL_GAMES,Valley Surf Valley Surf 15G Academy I,4.0,3.0,0.0,1.0,19.0,6.0,13.0,10.0
+657,Silver-Region 8,no state cup,ALL_GAMES,Merced United FC MUFC 2015G Red,1.0,0.0,1.0,0.0,2.0,5.0,-3.0,0.0
+658,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,ALL_GAMES,ALBION SC Central Valley ALBION SC Central Valley G15 Academy,4.0,1.0,3.0,0.0,4.0,11.0,-7.0,3.0
+659,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,ALL_GAMES,Central Valley Premier FC Central Valley Premier FC Elite G15,2.0,2.0,0.0,0.0,7.0,2.0,5.0,6.0
+660,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,ALL_GAMES,Clovis Crossfire  15G White,3.0,0.0,3.0,0.0,4.0,10.0,-6.0,0.0
+661,Silver/Bronze-Region 7,U10 Girls Bronze-Group J,ALL_GAMES,Kings County Soccer Club Kings County 15G White,3.0,2.0,0.0,1.0,9.0,6.0,3.0,7.0
+662,Silver/Bronze-Region 7,U10 Girls Gold/Silver-Group K,ALL_GAMES,South Valley United Soccer Club South Valley United G15 White,3.0,1.0,2.0,0.0,9.0,5.0,4.0,3.0
+663,Silver/Bronze-Region 7,no state cup,ALL_GAMES,FRESNO HEAT FC FRESNO HEAT FC 2015G Starlettes,2.0,2.0,0.0,0.0,8.0,3.0,5.0,6.0
+664,Silver/Bronze-Region 7,no state cup,ALL_GAMES,Sanger FC Sanger FC - RIPMC FC 15 Girls - Melody,2.0,1.0,1.0,0.0,3.0,8.0,-5.0,3.0
+665,Silver/Bronze-Region 7,no state cup,ALL_GAMES,Tulare Force Tulare Force 2015 Girls Blue,3.0,1.0,1.0,1.0,7.0,6.0,1.0,4.0
+666,no region,U10 Girls Bronze-Group A,ALL_GAMES,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G White,1.0,1.0,0.0,0.0,10.0,0.0,10.0,3.0
+667,no region,U10 Girls Gold/Silver-Group D,ALL_GAMES,Mt Diablo Mustang Soccer Mt. Diablo Mustang 2015G Red,1.0,1.0,0.0,0.0,3.0,0.0,3.0,3.0
+668,no region,U10 Girls Gold/Silver-Group D,ALL_GAMES,u10 Girls TBD - 3,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
+669,no region,U10 Girls State/Premier-Group B,ALL_GAMES,Mustang Soccer Mustang SC 15G Pre-ECNL,1.0,1.0,0.0,0.0,8.0,0.0,8.0,3.0
+670,no region,U10 Girls State/Premier-Group D,ALL_GAMES,Lodi FC Lodi FC 2015G,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+671,no region,U10 Girls State/Premier-Group H,ALL_GAMES,u10 Girls TBD - 1,3.0,0.0,3.0,0.0,0.0,9.0,-9.0,0.0
+672,no region,U10 Girls State/Premier-Group J,ALL_GAMES,Ajax United 15G Green Pre-GA,1.0,0.0,0.0,1.0,4.0,4.0,0.0,1.0
+673,no region,U10 Girls State/Premier-Group K,ALL_GAMES,Santa Clara Sporting Santa Clara Sporting 15G Green,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+674,no region,U10 Girls State/Premier-Group L,ALL_GAMES,Almaden FC Almaden FC Quicksilver 15G Green,1.0,1.0,0.0,0.0,6.0,1.0,5.0,3.0
+675,no region,U10 Girls State/Premier-Group L,ALL_GAMES,Mountain View Los Altos Soccer Club MVLA 15G Barcelona Blue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

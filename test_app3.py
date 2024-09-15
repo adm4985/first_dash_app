@@ -11,17 +11,23 @@ import base64
 import dash_bootstrap_components as dbc
 
 #process data and create dataframes
+schedule_df = pd.read_csv('full_schedule.csv')
 df = pd.read_csv('norCalResults.csv')
+
 df = df.sort_values(by='TEAM')
-df_summary_fl = df[df.GAME_TYPE=='FALL_LEAGUE'].groupby(['LEVEL_REGION', 'GOLD_CUP_LEVEL_REGION', 'GAME_TYPE','TEAM']).agg({'WIN':'sum','LOSS':'sum','DRAW':'sum','TEAM_SCORE':'sum','OPPONENT_SCORE':'sum','GOAL_DIFF':'sum'}).reset_index(drop=False)
-df_summary_sc = df[df.GAME_TYPE=='STATE_CUP'].groupby(['GOLD_CUP_LEVEL_REGION','LEVEL_REGION','GAME_TYPE','TEAM']).agg({'WIN':'sum','LOSS':'sum','DRAW':'sum','TEAM_SCORE':'sum','OPPONENT_SCORE':'sum','GOAL_DIFF':'sum'}).reset_index(drop=False)
-df_summary_sc = df_summary_sc.rename(columns={'GOLD_CUP_LEVEL_REGION': 'LEVEL_REGION','LEVEL_REGION':'GOLD_CUP_LEVEL_REGION'})
-df_summary = pd.concat([df_summary_fl, df_summary_sc], ignore_index=True)
+df_summary_gt = df.groupby(['LEVEL_REGION', 'GOLD_CUP_LEVEL_REGION', 'GAME_TYPE','TEAM']).agg({'WIN':'sum','LOSS':'sum','DRAW':'sum','TEAM_SCORE':'sum','OPPONENT_SCORE':'sum','GOAL_DIFF':'sum'}).reset_index(drop=False)
+df_summary_all = df.groupby(['LEVEL_REGION', 'GOLD_CUP_LEVEL_REGION', 'TEAM']).agg({'WIN':'sum','LOSS':'sum','DRAW':'sum','TEAM_SCORE':'sum','OPPONENT_SCORE':'sum','GOAL_DIFF':'sum'}).reset_index(drop=False)
+df_summary = pd.concat([df_summary_gt, df_summary_all], ignore_index=True).copy()
 df_summary['MP'] = df_summary['WIN']+df_summary['LOSS']+df_summary['DRAW']
 df_summary['POINTS'] = df_summary['WIN'] * 3 + df_summary['DRAW']
 df_summary = df_summary[['LEVEL_REGION','GOLD_CUP_LEVEL_REGION','GAME_TYPE','TEAM','MP','WIN','LOSS','DRAW','TEAM_SCORE','OPPONENT_SCORE','GOAL_DIFF','POINTS']]
-df_summary.sort_values(by='WIN', ascending=False)
+df_summary.sort_values(by=['WIN','POINTS','GOAL_DIFF','LOSS'], ascending=[False,False,True,True])
+df_summary['GAME_TYPE'] = df_summary['GAME_TYPE'].fillna('ALL_GAMES')
 df_summary.to_csv('df_summary.csv')
+
+#list for game types
+gt = [GAME_TYPE for GAME_TYPE in df_summary.GAME_TYPE.unique() if GAME_TYPE ==GAME_TYPE]
+gt.sort()
 
 app = Dash()
 
@@ -36,7 +42,7 @@ app.layout = [
     ),
    dcc.Dropdown(
         id='dropdown-game_type',
-        options=[{'label': GAME_TYPE, 'value': GAME_TYPE} for GAME_TYPE in df.GAME_TYPE.unique() if GAME_TYPE ==GAME_TYPE],
+        options=[{'label': GAME_TYPE, 'value': GAME_TYPE} for GAME_TYPE in gt],
         value='FALL_LEAGUE',
         style={'width': '500px'}
     ),
@@ -52,7 +58,7 @@ app.layout = [
 	    value=None , # Default value
 	    style={'width': '500px'}
     ),
-   html.Div([
+   
         html.Div(
 
             dash_table.DataTable(
@@ -78,15 +84,15 @@ app.layout = [
                     }],
                 style_table={
                     'width': '100%',  # Adjust the width as needed
-                    #'maxWidth': '1000px',  # Set a maximum width for the table
+                    'maxWidth': '1500px',  # Set a maximum width for the table
                     'overflowX': 'auto'  # Enable horizontal scrolling if the content overflows
                 }
 
             ) ,
-            style={'display': 'inline-block'}
+            
     	),
       
-        
+    html.Img(id='bar-graph-matplotlib'),  
         html.Div(
             dash_table.DataTable(
                 id='table-pivot',
@@ -103,11 +109,11 @@ app.layout = [
                 'maxWidth': '1500px',  # Set a maximum width for the table
                 'overflowX': 'auto'  # Enable horizontal scrolling if the content overflows
             }
-            ),  style={'display': 'inline-block'}
+            ) 
         ) 
-        ]),
 
-    html.Img(id='bar-graph-matplotlib')
+
+    
 
     ]
 
@@ -128,25 +134,39 @@ def update_team_dropdown(selected_team,selected_game_type):
     #map values based on game type
     mapped_columns_df = {
     'FALL_LEAGUE':selected_region_level,
-    'STATE_CUP': selected_state_cup_level
+    'STATE_CUP': selected_state_cup_level,
+    'ALL_GAMES' : 'ALL_GAMES'
     }
 
     #map columns based on game type
     mapped_columns_df_summary = {
     'FALL_LEAGUE':'LEVEL_REGION',
-    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION'}
+    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION',
+    'ALL_GAMES' : 'ALL_GAMES'}
 
-    wins_df = df_summary[(df_summary['LEVEL_REGION'] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
+    if selected_game_type == 'ALL_GAMES':
+        wins_df = df_summary[((df_summary['LEVEL_REGION'] == mapped_columns_df['FALL_LEAGUE']) | (df_summary['GOLD_CUP_LEVEL_REGION'] == mapped_columns_df['STATE_CUP'])) & (df_summary['GAME_TYPE'] == 'ALL_GAMES') ].sort_values(by='WIN', ascending=False)
 
-    pivot_data = df[
-    (df[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) &
-    (df['GAME_TYPE'] == selected_game_type)
-    ].groupby(['TEAM', 'OPPONENT'])['GAME_SCORE'] \
-    .apply(lambda x: ', '.join(x.dropna()).strip(', ')) \
-    .unstack(fill_value='') \
-    .reset_index(drop=False)
+        pivot_data = df[
+        ((df['LEVEL_REGION'] == selected_region_level ) & (df['GAME_TYPE'] == 'FALL_LEAGUE')) |
+        ((df['GOLD_CUP_LEVEL_REGION'] == selected_state_cup_level ) & (df['GAME_TYPE'] == 'STATE_CUP'))
+        ].groupby(['TEAM', 'OPPONENT'])['GAME_SCORE'] \
+        .apply(lambda x: ', '.join(x.dropna()).strip(', ')) \
+        .unstack(fill_value='') \
+        .reset_index(drop=False)
 
-    wins_df = wins_df.drop(columns=['GAME_TYPE'])
+    else: 
+        wins_df = df_summary[(df_summary[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
+
+        pivot_data = df[
+        (df[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) &
+        (df['GAME_TYPE'] == selected_game_type)
+        ].groupby(['TEAM', 'OPPONENT'])['GAME_SCORE'] \
+        .apply(lambda x: ', '.join(x.dropna()).strip(', ')) \
+        .unstack(fill_value='') \
+        .reset_index(drop=False)
+
+    #wins_df = wins_df.drop(columns=['GAME_TYPE'])
     table_data = wins_df.to_dict('records')
     team_pivot_data = pivot_data.to_dict('records')
     return  table_data , team_pivot_data
@@ -198,17 +218,21 @@ def update_team_dropdown(selected_team, selected_game_type):
     #map values based on game type
     mapped_columns_df = {
     'FALL_LEAGUE':selected_region_level,
-    'STATE_CUP': selected_state_cup_level
+    'STATE_CUP': selected_state_cup_level,
+    'ALL_GAMES' : 'ALL_GAMES'
     }
     #map columns based on game type
     mapped_columns_df_summary = {
     'FALL_LEAGUE':'LEVEL_REGION',
-    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION'}
+    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION',
+    'ALL_GAMES' : 'ALL_GAMES'}
     
-
     df_union_full_score_set = df[(df.TEAM_SCORE == df.TEAM_SCORE) & (df.TEAM_SCORE != df.OPPONENT_SCORE)].copy()
-    df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type]) & (df_union_full_score_set.GAME_TYPE ==  selected_game_type) ]
-    df_union_full_score_set = df_union_full_score_set.drop_duplicates(subset='GAME_ID', keep='first') 
+    if selected_game_type == 'ALL_GAMES':
+        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set['GOLD_CUP_LEVEL_REGION'] == selected_state_cup_level) | (df_union_full_score_set['LEVEL_REGION'] == selected_region_level) ]
+    else:
+        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type]) & (df_union_full_score_set.GAME_TYPE ==  selected_game_type) ]
+        df_union_full_score_set = df_union_full_score_set.drop_duplicates(subset='GAME_ID', keep='first') 
 
     edges = []
     for i, row in  df_union_full_score_set.iterrows():
