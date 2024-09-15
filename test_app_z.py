@@ -126,19 +126,18 @@ def update_team_dropdown(selected_team,selected_game_type):
     selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
     selected_state_cup_level = list(df['GOLD_CUP_LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
 
-    #map columns based on game type
+    #map values based on game type
     mapped_columns_df = {
     'FALL_LEAGUE':selected_region_level,
     'STATE_CUP': selected_state_cup_level
     }
-
-    wins_df = df_summary[(df_summary['LEVEL_REGION'] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
 
     #map columns based on game type
     mapped_columns_df_summary = {
     'FALL_LEAGUE':'LEVEL_REGION',
     'STATE_CUP': 'GOLD_CUP_LEVEL_REGION'}
 
+    wins_df = df_summary[(df_summary['LEVEL_REGION'] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
 
     pivot_data = df[
     (df[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) &
@@ -147,8 +146,6 @@ def update_team_dropdown(selected_team,selected_game_type):
     .apply(lambda x: ', '.join(x.dropna()).strip(', ')) \
     .unstack(fill_value='') \
     .reset_index(drop=False)
-
-    
 
     wins_df = wins_df.drop(columns=['GAME_TYPE'])
     table_data = wins_df.to_dict('records')
