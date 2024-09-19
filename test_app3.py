@@ -29,8 +29,6 @@ df_summary.sort_values(by=['WIN','POINTS','GOAL_DIFF','LOSS'], ascending=[False,
 df_summary['GAME_TYPE'] = df_summary['GAME_TYPE'].fillna('ALL_GAMES')
 df_summary.to_csv('df_summary.csv')
 
-
-
 #list for game types
 gt = [GAME_TYPE for GAME_TYPE in df_summary.GAME_TYPE.unique() if GAME_TYPE ==GAME_TYPE]
 gt.sort()
@@ -234,38 +232,17 @@ app.layout = html.Div([
  
 ])
 
-# Helper functions
-def winner_loser(team1, team2, score1, score2):
-    return (team1, team2) if score1 > score2 else (team2, team1)
-
-def plot_win_loss_graph(edges):
-    plt.clf()
-    plt.figure(figsize=(10, 8))
-    plt.title('Win-Loss')
-    G = nx.DiGraph()
-    G.add_edges_from(edges)
-    pos = nx.spring_layout(G, k=5, iterations=100)
-    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=750, edge_color='red', font_size=8, arrows=True)
-    plt.axis('off')
-    buf = io.BytesIO()
-    plt.savefig(buf, format="png")
-    buf.seek(0)
-    return base64.b64encode(buf.getvalue()).decode("ascii")
-
 
 #Call back to filter on team dropdown
 @callback(
     Output('table-summary','data',allow_duplicate=True),
     Output('table-pivot','data',allow_duplicate=True),
-    Output(component_id='bar-graph-matplotlib', component_property='src',allow_duplicate=True),
     Input('dropdown-team', 'value'),
     Input('dropdown-game_type','value'),
     prevent_initial_call='initial_duplicate'
 	)
 
 def update_team_dropdown(selected_team,selected_game_type):
-    # Process the data for graph plotting
-    df_union_full_score_set = df[(df.TEAM_SCORE == df.TEAM_SCORE) & (df.TEAM_SCORE != df.OPPONENT_SCORE)].copy()
    # Filter the dataframe based on the selected team
     selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
     selected_state_cup_level = list(df['GOLD_CUP_LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
@@ -294,8 +271,6 @@ def update_team_dropdown(selected_team,selected_game_type):
         .unstack(fill_value='') \
         .reset_index(drop=False)
 
-        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set['GOLD_CUP_LEVEL_REGION'] == selected_state_cup_level) | (df_union_full_score_set['LEVEL_REGION'] == selected_region_level) ]
-
     else: 
         wins_df = df_summary[(df_summary[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type] ) & (df_summary['GAME_TYPE']==selected_game_type)].sort_values(by='WIN', ascending=False)
 
@@ -307,19 +282,10 @@ def update_team_dropdown(selected_team,selected_game_type):
         .unstack(fill_value='') \
         .reset_index(drop=False)
 
-        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type]) & (df_union_full_score_set.GAME_TYPE ==  selected_game_type) ]
-        df_union_full_score_set = df_union_full_score_set.drop_duplicates(subset='GAME_ID', keep='first')
-
-    edges = []
-    for i, row in  df_union_full_score_set.iterrows():
-        edges.append(winner_loser(row['TEAM'],row['OPPONENT'],row['TEAM_SCORE'],row['OPPONENT_SCORE']))
-    fig_data = plot_win_loss_graph(edges)
-
-
     wins_df = wins_df.drop(columns=['GAME_TYPE'])
     table_data = wins_df.to_dict('records')
     team_pivot_data = pivot_data.to_dict('records')
-    return  table_data , team_pivot_data,  f'data:image/png;base64,{fig_data}'
+    return  table_data , team_pivot_data
 
 @callback(
     Output('table-summary','data',allow_duplicate=True),
@@ -333,6 +299,15 @@ def update_team_dropdown(selected_team,selected_game_type):
 
 def level_region_dropdown(level_region):
     # Define the winner_loser function within level_region_dropdown
+    def winner_loser(team1, team2, score1, score2):
+        if score1 > score2:
+            winner = team1
+            loser = team2
+        elif score2 > score1:
+            winner = team2
+            loser = team1
+        return winner, loser
+
     # Filter dataframes based on the level_region
     wins_df = df_summary[
         (df_summary['LEVEL_REGION'] == level_region) & 
@@ -366,7 +341,33 @@ def level_region_dropdown(level_region):
     edges = []
     for i, row in df_union_full_score_set.iterrows():
         edges.append(winner_loser(row['TEAM'], row['OPPONENT'], row['TEAM_SCORE'], row['OPPONENT_SCORE']))
-    fig_data = plot_win_loss_graph(edges)
+
+    # Clear any previous figure
+    plt.clf()
+    plt.figure(figsize=(10, 8))
+    plt.title('Win-Loss')
+    fig, ax = plt.subplots(figsize=(10,8))
+
+    # Build the matplotlib figure
+    G = nx.DiGraph()
+    G.add_edges_from(edges)
+
+    # Draw the graph
+    pos = nx.spring_layout(G, k=5, iterations=100)  # Increase k to spread nodes apart
+    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=750, edge_color='red', font_size=8, arrows=True)
+    ax.set_facecolor('deepskyblue')
+    ax.axis('off')
+    fig.set_facecolor('deepskyblue')
+    plt.tight_layout(pad=0.5)  # Adjust pad for more or less space
+
+    # Save it to a temporary buffer
+    buf = io.BytesIO()
+    plt.savefig(buf, format="png")
+    buf.seek(0)  # Move to the beginning of the buffer
+
+    # Embed the result in the HTML output
+    fig_data = base64.b64encode(buf.getvalue()).decode("ascii")
+    buf.close()  # Close the buffer
 
     return table_data, team_pivot_data, f'data:image/png;base64,{fig_data}'
 
@@ -380,6 +381,16 @@ def level_region_dropdown(level_region):
     )
 
 def level_region_dropdown_state_cup(level_state_cup):
+    # Define the winner_loser function within level_region_dropdown
+    def winner_loser(team1, team2, score1, score2):
+        if score1 > score2:
+            winner = team1
+            loser = team2
+        elif score2 > score1:
+            winner = team2
+            loser = team1
+        return winner, loser
+
     # Filter dataframes based on the level_region
     wins_df = df_summary[
         (df_summary['GOLD_CUP_LEVEL_REGION'] == level_state_cup) & 
@@ -413,10 +424,112 @@ def level_region_dropdown_state_cup(level_state_cup):
     edges = []
     for i, row in df_union_full_score_set.iterrows():
         edges.append(winner_loser(row['TEAM'], row['OPPONENT'], row['TEAM_SCORE'], row['OPPONENT_SCORE']))
-    fig_data = plot_win_loss_graph(edges)
-  
+
+    # Clear any previous figure
+    plt.clf()
+    plt.figure(figsize=(10, 8))
+    plt.title('Win-Loss')
+    fig, ax = plt.subplots(figsize=(10,8))
+
+    # Build the matplotlib figure
+    G = nx.DiGraph()
+    G.add_edges_from(edges)
+
+    # Draw the graph
+    pos = nx.spring_layout(G, k=5, iterations=100)  # Increase k to spread nodes apart
+    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=750, edge_color='red', font_size=8, arrows=True)
+    ax.set_facecolor('deepskyblue')
+    ax.axis('off')
+    fig.set_facecolor('deepskyblue')
+    plt.tight_layout(pad=0.5)  # Adjust pad for more or less space
+
+    # Save it to a temporary buffer
+    buf = io.BytesIO()
+    plt.savefig(buf, format="png")
+    buf.seek(0)  # Move to the beginning of the buffer
+
+    # Embed the result in the HTML output
+    fig_data = base64.b64encode(buf.getvalue()).decode("ascii")
+    buf.close()  # Close the buffer
 
     return table_data, team_pivot_data, f'data:image/png;base64,{fig_data}'
+
+
+
+@callback(
+    Output(component_id='bar-graph-matplotlib', component_property='src',allow_duplicate=True),
+    Input('dropdown-team','value'),
+    Input('dropdown-game_type','value'),
+    prevent_initial_call='initial_duplicate'
+    )
+
+def update_team_dropdown_mp(selected_team, selected_game_type):
+    selected_region_level = list(df['LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
+    selected_state_cup_level = list(df['GOLD_CUP_LEVEL_REGION'][df['TEAM'] == selected_team].drop_duplicates())[0]
+    #https://plotly.com/blog/dash-matplotlib/
+    
+    def winner_loser(team1, team2, score1, score2):
+        if score1 > score2:
+            winner = team1
+            loser = team2
+        elif score2 > score1:
+            winner = team2
+            loser = team1
+        return winner, loser
+
+    #map values based on game type
+    mapped_columns_df = {
+    'FALL_LEAGUE':selected_region_level,
+    'STATE_CUP': selected_state_cup_level,
+    'ALL_GAMES' : 'ALL_GAMES'
+    }
+    #map columns based on game type
+    mapped_columns_df_summary = {
+    'FALL_LEAGUE':'LEVEL_REGION',
+    'STATE_CUP': 'GOLD_CUP_LEVEL_REGION',
+    'ALL_GAMES' : 'ALL_GAMES'}
+    
+    df_union_full_score_set = df[(df.TEAM_SCORE == df.TEAM_SCORE) & (df.TEAM_SCORE != df.OPPONENT_SCORE)].copy()
+    if selected_game_type == 'ALL_GAMES':
+        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set['GOLD_CUP_LEVEL_REGION'] == selected_state_cup_level) | (df_union_full_score_set['LEVEL_REGION'] == selected_region_level) ]
+    else:
+        df_union_full_score_set = df_union_full_score_set[(df_union_full_score_set[mapped_columns_df_summary[selected_game_type]] == mapped_columns_df[selected_game_type]) & (df_union_full_score_set.GAME_TYPE ==  selected_game_type) ]
+        df_union_full_score_set = df_union_full_score_set.drop_duplicates(subset='GAME_ID', keep='first') 
+
+    edges = []
+    for i, row in  df_union_full_score_set.iterrows():
+        edges.append(winner_loser(row['TEAM'],row['OPPONENT'],row['TEAM_SCORE'],row['OPPONENT_SCORE']) )
+
+
+    # Clear any previous figure
+    plt.clf()
+    plt.figure(figsize=(10, 8))
+    plt.title('Win-Loss')
+    fig, ax = plt.subplots(figsize=(10,8))
+
+    # Build the matplotlib figure
+    G = nx.DiGraph()
+    G.add_edges_from(edges)
+
+    # Draw the graph
+    pos = nx.spring_layout(G, k=5, iterations=100)  # Increase k to spread nodes apart
+    nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=750, edge_color='red', font_size=8, arrows=True)
+    ax.set_facecolor('deepskyblue')
+    ax.axis('off')
+    fig.set_facecolor('deepskyblue')
+    plt.tight_layout(pad=0.5)  # Adjust pad for more or less space
+    
+
+    # Save it to a temporary buffer.
+    buf = io.BytesIO()
+    plt.savefig(buf, format="png")
+    buf.seek(0)  # Move to the beginning of the buffer
+
+    # Embed the result in the HTML output.
+    fig_data = base64.b64encode(buf.getvalue()).decode("ascii")
+    buf.close()  # Close the buffer
+
+    return f'data:image/png;base64,{fig_data}'
 
 #team schedule
 @app.callback(
